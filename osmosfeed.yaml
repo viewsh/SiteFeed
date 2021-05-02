@@ -1,5 +1,8 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
+  - href: http://feeds2.feedburner.com/alvinashcraft
+  - href: http://feeds.feedburner.com/ReflectivePerspective
+  - href: https://feeds.telerik.com/blogs
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
