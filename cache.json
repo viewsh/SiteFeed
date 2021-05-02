@@ -1,13 +1,316 @@
 {
   "sources": [
     {
+      "href": "http://feeds2.feedburner.com/alvinashcraft",
+      "articles": [
+        {
+          "description": "Top Links Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview (Balan Subramanian) Multi-tenancy with EF Core in Blazor Server Apps (Jeremy Likness) Announcing XD to Flutter v2.0! (Grant Skinner) Getting Started Calling the Microsoft Graph API (Dan Wahlin) Make microservices fun again with Dapr (Dave Brock) Web &#38; Cloud Development Access [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/7kdyHC9dQVw/",
+          "publishedOn": "2021-04-30T10:35:42.000Z",
+          "wordCount": 1019,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 30, 2021 (#3434)"
+        },
+        {
+          "description": "Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows &#38; Linux [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/",
+          "publishedOn": "2021-04-29T10:51:36.000Z",
+          "wordCount": 1075,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 29, 2021 (#3433)"
+        },
+        {
+          "description": "Top Links Uno Platform 3.7 – More WinUI, Project Reunion and Linux support, Wasm performance boost (Uno Platform Team) Help Plan the Next Phase of the Azure SDK (Azure SDK) Interactive C# with VS Code Notebooks with Eric Potter &#8211; Adventures in .NET 066 (Shawn Clabough &#38; Wai Liu) Microsoft Build 2021, A Free Digital [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/jks23uQIQBM/",
+          "publishedOn": "2021-04-28T11:15:30.000Z",
+          "wordCount": 1048,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 28, 2021 (#3432)"
+        },
+        {
+          "description": "Top Links Announcing Viva Learning public preview (John Mighell) Update existing projects to the latest release of Project Reunion (Microsoft Docs) &#8211; v0.5.6 now available! Build and ship software better with GitHub and Microsoft Teams (Microsoft Teams Team) Introducing GraphQLinq &#8211; Strongly Typed GraphQL Queries with LINQ to GraphQL. (Giorgi Dalakishvili) Clean Architecture Refactoring: A [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/jOygmaRY01U/",
+          "publishedOn": "2021-04-27T11:06:02.000Z",
+          "wordCount": 965,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 27, 2021 (#3431)"
+        },
+        {
+          "description": "Top Links How to run Linux GUI apps on Windows 10 with WSL and WSLg and Can you really develop with Linux GUI Apps on Windows 10 with WSLg? How about PyCharm? (Scott Hanselman) A Special Group Presentation on Blazor Architecture &#8211; Azure DevOps Podcast Episode 138 (Jeffrey Palermo) How to run a WinUI 3 [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/wL0TdixgMmE/",
+          "publishedOn": "2021-04-26T10:56:53.000Z",
+          "wordCount": 1283,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 26, 2021 (#3430)"
+        },
+        {
+          "description": "Top Links Windows Package Manager v0.3 Preview (Demitrius Nelon) Personalized content at a glance: Introducing news and interests on the Windows 10 taskbar (Steve Clarke) Getting Started with Jupyter Notebooks in VS Code &#124; Visual Studio Toolbox (Leslie Richardson &#38; Claudia Regio) Conversation about crossgen2 (Richard Lander) Let&#8217;s Learn .NET &#8211; C# &#8211; Free Live [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/NfYB2bv8lAA/",
+          "publishedOn": "2021-04-23T11:07:34.000Z",
+          "wordCount": 1151,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 23, 2021 (#3429)"
+        },
+        {
+          "description": "Just a quick post about the upcoming, in-person, TechBash 2021. If you haven&#8217;t heard, the call for speakers is now open on Sessionize. Check it out here and submit your sessions and workshops before June 4th. We hope you&#8217;ll tell your friends and join us at the Kalahari Resort and Convention Center in Pocono Manor, [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/nsWxwqZUJD0/",
+          "publishedOn": "2021-04-23T11:00:00.000Z",
+          "wordCount": 426,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "TechBash 2021 – Call for Speakers"
+        },
+        {
+          "description": "Top Links What’s new in dotnet monitor (Sourabh Shirhatti) .NET Rocks! &#8211; Xamarin Forms to Maui with Gerald Versluis (Carl Franklin &#38; Richard Campbell) Develop, test, and deploy an Azure Function with Visual Studio (Microsoft Learn) The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux (Craig Loewen) WSLg [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/JSWx8gmwKn0/",
+          "publishedOn": "2021-04-22T11:04:31.000Z",
+          "wordCount": 1141,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 22, 2021 (#3428)"
+        },
+        {
+          "description": "Top Links Introducing KlipTok – Social Media fun for Twitch Clips (Jeff Fritz) Node.js 16 available now (Bethany Griggs) Yet Another Podcast &#8211; .NET Documentation &#38; C# 9 with Bill Wagner (Jesse Liberty) Announcing the DirectX 12 Agility SDK! and Getting Started with the Agility SDK (Jacques van Rhyn) Web &#38; Cloud Development A System [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/ToQOiOvu1rY/",
+          "publishedOn": "2021-04-21T11:14:39.000Z",
+          "wordCount": 1111,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 21, 2021 (#3427)"
+        },
+        {
+          "description": "Top Links Visual Studio 2022 (Amanda Silver) Open source goes to Mars (Nat Friedman) Converting a 13 year old .NET WPF app called BabySmash to a self-contained .NET 5 app with the .NET Upgrade Assistant (Scott Hanselman) Announcing Pulumi 3.0 (Luke Hoban) Loop alignment in .NET 6 (Kunal Pathak) Web &#38; Cloud Development Will .NET [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/J_pUF4cofyo/",
+          "publishedOn": "2021-04-20T11:04:03.000Z",
+          "wordCount": 1285,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 20, 2021 (#3426)"
+        },
+        {
+          "description": "Top Links Update existing projects to the latest release of Project Reunion (McLean Schofield) &#8211; Reunion v0.5.5 is now available! Managed Memory Dump Analyzers (Mark Downie) Announcing Learn WinUI 3.0 from Packt Publishing and a Contest (Me) Introduction to Azure Functions (Microsoft Docs) The Art of Computers by Scott Hanselman as presented at GeekDay.Live 2021 [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/EjN9GARTvqg/",
+          "publishedOn": "2021-04-19T10:43:11.000Z",
+          "wordCount": 1093,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – April 19, 2021 (#3425)"
+        },
+        {
+          "description": "I&#8217;m thrilled to announce that my new book from Packt Publishing, Learn WinUI 3.0, was published in late March. You can buy your eBook or print copy today from Amazon or Packt&#8217;s web site. Windows UI (WinUI) 3 is Microsoft&#8217;s next generation library for creating Windows applications with Fluent Design. WinUI 3 was released in [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/x83NPH6qP3U/",
+          "publishedOn": "2021-04-16T14:00:00.000Z",
+          "wordCount": 652,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Announcing Learn WinUI 3.0 from Packt Publishing and a Contest"
+        }
+      ]
+    },
+    {
+      "href": "http://feeds.feedburner.com/ReflectivePerspective",
+      "articles": [
+        {
+          "description": "Monday is a public holiday here in England, so as is usual the Morning Brew will be taking a break in publication, returning on Tuesday 4th May Information Nullable Reference types in C# &#8211; Best practices &#8211; Damir Arh C# Language Highlights: Init only setters &#8211; Cecil Phillip &#38; Jayme Singleton C# Yield Return: What [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/7RQ3IwcYF98/",
+          "publishedOn": "2021-04-30T06:00:00.000Z",
+          "wordCount": 670,
+          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
+          "sourceTitle": "The Morning Brew",
+          "title": "The Morning Brew #3222"
+        },
+        {
+          "description": "Information Microsoft Build May 25–27, 2021 &#124; Digital event &#8211; Microsoft Rearchitecting for MicroServices: Featuring Windows &#38; Linux Containers &#8211; Jessica Deen Uno Platform Uno Platform 3.7 &#8211; More WinUI, Project Reunion and Linux support, Wasm performance boost &#8211; Jerome Laban &#38; Uno Team ReSharper and Visual Studio 2022 64-bit &#8211; Maarten Balliauw Aggregate Design: [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/ai0wjOXE-fc/",
+          "publishedOn": "2021-04-29T06:00:00.000Z",
+          "wordCount": 630,
+          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
+          "sourceTitle": "The Morning Brew",
+          "title": "The Morning Brew #3221"
+        },
+        {
+          "description": "Information Some more C# 9 &#8211; Tom Deseyn Clean Architecture Refactoring: A Case Study &#8211; Patrick Smacchia Blazor &#8211; IntersectionObserver WebApi &#8211; Cody Merritt Anhorn Introducing GraphQLinq &#8211; Strongly Typed GraphQL Queries with LINQ to GraphQL. &#8211; Giorgi Dalakishvili Want to throw together a quick web application in C#? This is what that will look [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/_Z37JrS-hys/",
+          "publishedOn": "2021-04-28T06:00:00.000Z",
+          "wordCount": 620,
+          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
+          "sourceTitle": "The Morning Brew",
+          "title": "The Morning Brew #3220"
+        },
+        {
+          "description": "Information .NET Framework 4.5.2, 4.6, 4.6.1 will reach End of Support on April 26, 2022 &#8211; Jamshed Damkewala Tetris in Blazor Part 6: Scoring, Levels, Music, and Other Features &#8211; Matthew Jones Securing an ASP.NET Core app and web API using windows authentication &#8211; Damien Bowden Free .NET Testing Courses This Month &#8211; Jason Roberts [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/VOVMs6-JPNc/",
+          "publishedOn": "2021-04-27T06:00:00.000Z",
+          "wordCount": 616,
+          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
+          "sourceTitle": "The Morning Brew",
+          "title": "The Morning Brew #3219"
+        },
+        {
+          "description": "Information Windows Package Manager v0.3 Preview &#8211; Demitrius Nelon NSubstitute and FluentAssertions Redux &#8211; Rory Primrose 3 simple ways to collect data for asp.net core applications post publishing to production &#8211; Irfan Khan F# wrappers for React components &#8211; Akash Mair The Service Now API and TypeScript Conditional Types &#8211; John Reilly Understanding JavaScrip&#8217;s Array [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/o6uTykMGAx0/",
+          "publishedOn": "2021-04-26T06:00:00.000Z",
+          "wordCount": 576,
+          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
+          "sourceTitle": "The Morning Brew",
+          "title": "The Morning Brew #3218"
+        }
+      ]
+    },
+    {
+      "href": "https://feeds.telerik.com/blogs",
+      "articles": [
+        {
+          "description": "Before shipping a React app, the least any team or developer needs to do is to check the performance and look to optimize the app for the end user&rsquo;s experience.\nOptimizing performance is an important technique to consider before shipping a React application. You can explore different ways of optimizing a React application that can enable a significant increase in speed and overall user experience for your applications.\nIntroduction\nWhen building any React applications, a lot of thought goes into how t…",
+          "link": "https://www.telerik.com/blogs/5-techniques-optimizing-performance-react-app",
+          "publishedOn": "2021-04-30T12:30:01.000Z",
+          "wordCount": 2241,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "5 Techniques for Optimizing Performance on a React App"
+        },
+        {
+          "description": "In this post we look at style binding and also at the ngStyle directive and how it helps solve for the limitations that style bindings have had in the past. These are some handy tricks when you&rsquo;re getting started in Angular!\nAngular\nAngular, Google&rsquo;s JavaScript (TypeScript) framework for building web applications, mobile or desktop, has over 72,000 stars on GitHub. It&rsquo;s maintained by the Angular team at Google and a host of community members and organisations.\nBefore You Start\nTo be able t…",
+          "link": "https://www.telerik.com/blogs/angular-basics-style-binding-angular-ngstyle",
+          "publishedOn": "2021-04-29T15:47:08.000Z",
+          "wordCount": 2200,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Angular Basics: Style Binding in Angular with ngStyle"
+        },
+        {
+          "description": "Why are even experienced software engineers drawn to shiny new technology like moths to a flame? A personal account of learning the hard way: You have to balance your curiosity with your business&rsquo;s goals.\nIn 2015, I was leading a team of engineers building a web application for college students. Because deals with new schools were closed in May, we had three months to get ready for the surge of traffic every August.\nWe only had a few thousand users during our first year, so nobody was worried about sc…",
+          "link": "https://www.telerik.com/blogs/right-way-to-adopt-new-technology",
+          "publishedOn": "2021-04-29T12:00:04.000Z",
+          "wordCount": 2345,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "The Right Way to Adopt New Technology"
+        },
+        {
+          "description": "Why postpone an update or do a migration the hard way? Vue 3 is ready for production, and I&rsquo;ll show you that migrating is as easy as preparing a simple dinner.\nIf you are still asking yourselves, &ldquo;Why bother with Vue 3?&rdquo; let me tell you a secret&mdash;Vue 3 was one of the most awaited releases of 2020, and through 2021 most of the popular Vue libraries have plans to migrate to it, too. It combines lots of new features, like a new simple setup introduced by the Composition API, brilliant fu…",
+          "link": "https://www.telerik.com/blogs/still-tender-from-rough-update-follow-my-simple-vue-3-recipe",
+          "publishedOn": "2021-04-28T16:01:53.000Z",
+          "wordCount": 2310,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Still Tender From a Rough Update? Follow My Simple Vue 3 Recipe!"
+        },
+        {
+          "description": "If you&rsquo;re not careful, unit testing your Web Service API can take over all your testing. Here&rsquo;s a unit testing strategy that shows what it means to &ldquo;unit test&rdquo; a Web Service API.\nYour API testing can quickly grow out of control if you don&rsquo;t distinguish between unit testing your API and integration/end-to-end testing. If you&rsquo;re not careful, API testing will start taking over tests that don&rsquo;t belong to your API and create duplication among your tests.\nRather than just…",
+          "link": "https://www.telerik.com/blogs/api-testing",
+          "publishedOn": "2021-04-28T13:51:01.000Z",
+          "wordCount": 2979,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "API Testing—Strategy and Tools"
+        },
+        {
+          "description": "Mobile visitors are still reluctant to take action. Redesign your mobile forms and remove the friction and ensuing frustration that keep your visitors from reaching out or buying something.\nMore and more users are gravitating toward the mobile web, both in the form of mobile websites and progressive web apps. And while Google keeps telling us to build mobile-first web experiences, there&rsquo;s just one problem:\nMobile users continue to be reluctant when it comes to converting on mobile.\nToday, I&rsquo;d li…",
+          "link": "https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them",
+          "publishedOn": "2021-04-27T15:35:03.000Z",
+          "wordCount": 2654,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Design Mistakes You’re Making with Your Mobile Forms (and How to Fix Them)"
+        },
+        {
+          "description": "Dev Warriors love to keep each other company, help each other and have fun together. The Telerik and Kendo UI Community Forums now make this even easier, and come with the added benefit of a brand-new ranking board that you can climb.\nLegend has it ... that developers go out on the internet and copy code they paste into&nbsp; their application, compile and hope for the best. To be honest, I&rsquo;m guilty of doing that at least once in my career, so I know for a fact this legend has some truth in it.\nI&rsqu…",
+          "link": "https://www.telerik.com/blogs/where-do-dev-warriors-hang-out",
+          "publishedOn": "2021-04-27T13:29:01.000Z",
+          "wordCount": 1894,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Where Do Dev Warriors Hang Out?"
+        },
+        {
+          "description": "Do things differently, and have fun while you&rsquo;re doing them.\nI&rsquo;ve interviewed nine of the people behind Progress&rsquo; DevTools/Telerik/Kendo UI products to learn about the philosophies that guide the development of our software. What guides our work, why are these processes important to us and how can you learn from our own internal best practices?\nIn Part 1, we looked at understanding the problem you&rsquo;re trying to solve before you start coding a solution. In Part 2, we learned about the …",
+          "link": "https://www.telerik.com/blogs/best-practices-software-development-inside-look-what-guides-progress-part-4",
+          "publishedOn": "2021-04-26T22:41:00.000Z",
+          "wordCount": 3299,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Best Practices in Software Development: An Inside Look at What Guides Progress—Part 4"
+        },
+        {
+          "description": "Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together latest .NET MAUI content relevant to developers.\nA particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.\nMost .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Going f…",
+          "link": "https://www.telerik.com/blogs/sands-of-maui-issue-6",
+          "publishedOn": "2021-04-26T15:20:00.000Z",
+          "wordCount": 1504,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Sands of MAUI: Issue #6"
+        },
+        {
+          "description": "Array reduce is a pre-built function in JavaScript notorious for confusing new developers. Let&rsquo;s break it down together.\nJavaScript is filled with amazing pre-built functions for manipulating objects and arrays. Have you yet mastered some like Array.map or Array.filter? What about the elusive Array.reduce?\nArray reduce in particular can be a bit convoluted for new developers. I remember when I first started learning the array manipulator functions. Filter, sure&mdash;that made perfect sense. Map was a…",
+          "link": "https://www.telerik.com/blogs/understanding-javascript-array-reduce",
+          "publishedOn": "2021-04-23T11:48:03.000Z",
+          "wordCount": 2710,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Understanding JavaScript’s Array Reduce"
+        },
+        {
+          "description": "PDF files are part of everyday life. Telerik UI for ASP.NET Core has made it even easier to edit PDF files right within your browser. Let&rsquo;s take a look at how to add text, images, even a brush for signatures.\n\nIntroduction\nThere are couple of software words that are so common that knowing them does not make you a geek&mdash;words like browser, drivers, version, .NET, Java, media player and the like.\nOne of these terms is PDF. In the world of Documents, Communication and Business, it has become such a …",
+          "link": "https://www.telerik.com/blogs/editing-pdf-files-in-browser-adding-signature-text-images",
+          "publishedOn": "2021-04-23T11:03:02.000Z",
+          "wordCount": 2511,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Editing PDF Files in the Browser by Adding Signature, Text and Images"
+        },
+        {
+          "description": "As we approach another Earth Day, let&rsquo;s look at all the good that digital technologies have done for the planet. From websites and apps to unique features built into each, designers and developers have an important role to play in sustainability.\nOn April 22, we celebrate Earth Day. This annual holiday is marked by various events that call attention to the health of the planet (as well as ourselves) and what we can do as a global society to clean it up.\nReducing environmental waste. Lowering our carbo…",
+          "link": "https://www.telerik.com/blogs/positive-effect-digital-tech-planet",
+          "publishedOn": "2021-04-22T12:03:01.000Z",
+          "wordCount": 3308,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "The Positive Effect of Digital Tech on the Planet"
+        },
+        {
+          "description": "Go beyond HTML select by learning how to implement modern dropdowns. This tutorial show you how to use the Angular DropDownList, Angular ComboBox, Angular AutoComplete and Angular MultiColumnComboBox components.\nDropdowns have been a fundamental HTML select element since 1993 and remain a key part of web application UI, but technology has come a long way.\nWhile drop-down lists are a default item in HTML, they can become difficult when you need to customize them. These customizations range from upgraded styl…",
+          "link": "https://www.telerik.com/blogs/learn-how-to-build-modern-angular-dropdowns-minutes-kendo-ui",
+          "publishedOn": "2021-04-22T11:02:00.000Z",
+          "wordCount": 1314,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Learn How to Build Modern Angular Dropdowns in Minutes with Kendo UI"
+        },
+        {
+          "description": "Memory leaks can cause an application to run slow or even crash. They can be created by accident, by not cleaning up after yourself. Find out how to clean up event listeners in the two very popular JavaScript frameworks Vue and React.\nI work with a lot of clients, from beginners to senior developers, but from time to time I spot that their code is missing something. Unfortunately, they do not clean up after themselves, and I don&rsquo;t mean their dishes. I&rsquo;m talking about cleaning up event listeners …",
+          "link": "https://www.telerik.com/blogs/how-to-clean-up-after-yourself-and-why-its-important-vue-react",
+          "publishedOn": "2021-04-21T13:17:00.000Z",
+          "wordCount": 1918,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "How to Clean Up after Yourself and Why It’s Important (Vue/React)"
+        },
+        {
+          "description": "Let&rsquo;s create a simple UI together, refining our XAML skills and practicing navigating Xamarin Forms.\nHowdy! &zwj; It&rsquo;s a pleasure for me to have you here.  I imagine that you are in this post because you are starting in Xamarin Forms and you want to improve your knowledge. \nThis time we will be creating a simple UI step by step, which will help us to improve many important XAML skills that will make our lives easier when developing a UI in Xamarin Forms. Our design today is obtained from Dribble…",
+          "link": "https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui",
+          "publishedOn": "2021-04-21T10:40:00.000Z",
+          "wordCount": 1721,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Are You Starting in Xamarin Forms? Let's Create a Simple UI"
+        }
+      ]
+    },
+    {
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
           "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
           "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 547,
+          "wordCount": 677,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Safari 14.1 Adds Support for Flexbox Gaps"
