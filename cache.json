@@ -4,10 +4,19 @@
       "href": "http://feeds2.feedburner.com/alvinashcraft",
       "articles": [
         {
+          "description": "Top Links Azure Event Grid, Event Hubs, and Service Bus Library Improvements (Lily Ma) .NET Foundation March/April 2021 Update (Claire Novotny) Cloud Engineering: The Future Is Now (Sophia Parafina) Visual Designer, Hot Reload and Beyond (Nick Randolph) Web &#38; Cloud Development What&#8217;s new in Svelte: May 2021 (Daniel Sandoval) You Can Label a JavaScript `if` [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/_p9OizUJxHI/",
+          "publishedOn": "2021-05-03T11:12:37.000Z",
+          "wordCount": 1133,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – May 3, 2021 (#3435)"
+        },
+        {
           "description": "Top Links Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview (Balan Subramanian) Multi-tenancy with EF Core in Blazor Server Apps (Jeremy Likness) Announcing XD to Flutter v2.0! (Grant Skinner) Getting Started Calling the Microsoft Graph API (Dan Wahlin) Make microservices fun again with Dapr (Dave Brock) Web &#38; Cloud Development Access [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/7kdyHC9dQVw/",
           "publishedOn": "2021-04-30T10:35:42.000Z",
-          "wordCount": 1019,
+          "wordCount": 1027,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 30, 2021 (#3434)"
@@ -16,7 +25,7 @@
           "description": "Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows &#38; Linux [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/",
           "publishedOn": "2021-04-29T10:51:36.000Z",
-          "wordCount": 1075,
+          "wordCount": 1077,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 29, 2021 (#3433)"
@@ -25,7 +34,7 @@
           "description": "Top Links Uno Platform 3.7 – More WinUI, Project Reunion and Linux support, Wasm performance boost (Uno Platform Team) Help Plan the Next Phase of the Azure SDK (Azure SDK) Interactive C# with VS Code Notebooks with Eric Potter &#8211; Adventures in .NET 066 (Shawn Clabough &#38; Wai Liu) Microsoft Build 2021, A Free Digital [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/jks23uQIQBM/",
           "publishedOn": "2021-04-28T11:15:30.000Z",
-          "wordCount": 1048,
+          "wordCount": 1050,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 28, 2021 (#3432)"
@@ -34,7 +43,7 @@
           "description": "Top Links Announcing Viva Learning public preview (John Mighell) Update existing projects to the latest release of Project Reunion (Microsoft Docs) &#8211; v0.5.6 now available! Build and ship software better with GitHub and Microsoft Teams (Microsoft Teams Team) Introducing GraphQLinq &#8211; Strongly Typed GraphQL Queries with LINQ to GraphQL. (Giorgi Dalakishvili) Clean Architecture Refactoring: A [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/jOygmaRY01U/",
           "publishedOn": "2021-04-27T11:06:02.000Z",
-          "wordCount": 965,
+          "wordCount": 967,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 27, 2021 (#3431)"
@@ -43,7 +52,7 @@
           "description": "Top Links How to run Linux GUI apps on Windows 10 with WSL and WSLg and Can you really develop with Linux GUI Apps on Windows 10 with WSLg? How about PyCharm? (Scott Hanselman) A Special Group Presentation on Blazor Architecture &#8211; Azure DevOps Podcast Episode 138 (Jeffrey Palermo) How to run a WinUI 3 [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/wL0TdixgMmE/",
           "publishedOn": "2021-04-26T10:56:53.000Z",
-          "wordCount": 1283,
+          "wordCount": 1285,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 26, 2021 (#3430)"
@@ -52,7 +61,7 @@
           "description": "Top Links Windows Package Manager v0.3 Preview (Demitrius Nelon) Personalized content at a glance: Introducing news and interests on the Windows 10 taskbar (Steve Clarke) Getting Started with Jupyter Notebooks in VS Code &#124; Visual Studio Toolbox (Leslie Richardson &#38; Claudia Regio) Conversation about crossgen2 (Richard Lander) Let&#8217;s Learn .NET &#8211; C# &#8211; Free Live [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/NfYB2bv8lAA/",
           "publishedOn": "2021-04-23T11:07:34.000Z",
-          "wordCount": 1151,
+          "wordCount": 1153,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 23, 2021 (#3429)"
@@ -61,7 +70,7 @@
           "description": "Just a quick post about the upcoming, in-person, TechBash 2021. If you haven&#8217;t heard, the call for speakers is now open on Sessionize. Check it out here and submit your sessions and workshops before June 4th. We hope you&#8217;ll tell your friends and join us at the Kalahari Resort and Convention Center in Pocono Manor, [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/nsWxwqZUJD0/",
           "publishedOn": "2021-04-23T11:00:00.000Z",
-          "wordCount": 426,
+          "wordCount": 428,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "TechBash 2021 – Call for Speakers"
@@ -70,7 +79,7 @@
           "description": "Top Links What’s new in dotnet monitor (Sourabh Shirhatti) .NET Rocks! &#8211; Xamarin Forms to Maui with Gerald Versluis (Carl Franklin &#38; Richard Campbell) Develop, test, and deploy an Azure Function with Visual Studio (Microsoft Learn) The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux (Craig Loewen) WSLg [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/JSWx8gmwKn0/",
           "publishedOn": "2021-04-22T11:04:31.000Z",
-          "wordCount": 1141,
+          "wordCount": 1143,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 22, 2021 (#3428)"
@@ -79,7 +88,7 @@
           "description": "Top Links Introducing KlipTok – Social Media fun for Twitch Clips (Jeff Fritz) Node.js 16 available now (Bethany Griggs) Yet Another Podcast &#8211; .NET Documentation &#38; C# 9 with Bill Wagner (Jesse Liberty) Announcing the DirectX 12 Agility SDK! and Getting Started with the Agility SDK (Jacques van Rhyn) Web &#38; Cloud Development A System [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/ToQOiOvu1rY/",
           "publishedOn": "2021-04-21T11:14:39.000Z",
-          "wordCount": 1111,
+          "wordCount": 1113,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 21, 2021 (#3427)"
@@ -88,7 +97,7 @@
           "description": "Top Links Visual Studio 2022 (Amanda Silver) Open source goes to Mars (Nat Friedman) Converting a 13 year old .NET WPF app called BabySmash to a self-contained .NET 5 app with the .NET Upgrade Assistant (Scott Hanselman) Announcing Pulumi 3.0 (Luke Hoban) Loop alignment in .NET 6 (Kunal Pathak) Web &#38; Cloud Development Will .NET [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/J_pUF4cofyo/",
           "publishedOn": "2021-04-20T11:04:03.000Z",
-          "wordCount": 1285,
+          "wordCount": 1287,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 20, 2021 (#3426)"
@@ -97,19 +106,10 @@
           "description": "Top Links Update existing projects to the latest release of Project Reunion (McLean Schofield) &#8211; Reunion v0.5.5 is now available! Managed Memory Dump Analyzers (Mark Downie) Announcing Learn WinUI 3.0 from Packt Publishing and a Contest (Me) Introduction to Azure Functions (Microsoft Docs) The Art of Computers by Scott Hanselman as presented at GeekDay.Live 2021 [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/EjN9GARTvqg/",
           "publishedOn": "2021-04-19T10:43:11.000Z",
-          "wordCount": 1093,
+          "wordCount": 1095,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 19, 2021 (#3425)"
-        },
-        {
-          "description": "I&#8217;m thrilled to announce that my new book from Packt Publishing, Learn WinUI 3.0, was published in late March. You can buy your eBook or print copy today from Amazon or Packt&#8217;s web site. Windows UI (WinUI) 3 is Microsoft&#8217;s next generation library for creating Windows applications with Fluent Design. WinUI 3 was released in [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/x83NPH6qP3U/",
-          "publishedOn": "2021-04-16T14:00:00.000Z",
-          "wordCount": 652,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
-          "title": "Announcing Learn WinUI 3.0 from Packt Publishing and a Contest"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "description": "Information Some more C# 9 &#8211; Tom Deseyn Clean Architecture Refactoring: A Case Study &#8211; Patrick Smacchia Blazor &#8211; IntersectionObserver WebApi &#8211; Cody Merritt Anhorn Introducing GraphQLinq &#8211; Strongly Typed GraphQL Queries with LINQ to GraphQL. &#8211; Giorgi Dalakishvili Want to throw together a quick web application in C#? This is what that will look [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/_Z37JrS-hys/",
           "publishedOn": "2021-04-28T06:00:00.000Z",
-          "wordCount": 620,
+          "wordCount": 613,
           "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
           "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3220"
@@ -166,6 +166,24 @@
     {
       "href": "https://feeds.telerik.com/blogs",
       "articles": [
+        {
+          "description": "Angular offers a set of pipe options to transform the way your data is displayed, allowing you to control just how it looks. Let&rsquo;s examine some of these options.\nEven if you&rsquo;re just getting started in Angular, you already know that most of the things we do while building web applications revolve around data&mdash;getting data, traversing data, manipulating data and finally presenting data. In this post, we will look at one of the ways Angular has made manipulating and presenting data easy for us…",
+          "link": "https://www.telerik.com/blogs/angular-basics-using-pipes-angular",
+          "publishedOn": "2021-05-03T13:33:01.000Z",
+          "wordCount": 2138,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Angular Basics: Using Pipes in Angular"
+        },
+        {
+          "description": "Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together latest .NET MAUI content relevant to developers.\nA particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.\nMost .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Going f…",
+          "link": "https://www.telerik.com/blogs/sands-of-maui-issue-7",
+          "publishedOn": "2021-05-03T10:58:00.000Z",
+          "wordCount": 1508,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Sands of MAUI: Issue #7"
+        },
         {
           "description": "Before shipping a React app, the least any team or developer needs to do is to check the performance and look to optimize the app for the end user&rsquo;s experience.\nOptimizing performance is an important technique to consider before shipping a React application. You can explore different ways of optimizing a React application that can enable a significant increase in speed and overall user experience for your applications.\nIntroduction\nWhen building any React applications, a lot of thought goes into how t…",
           "link": "https://www.telerik.com/blogs/5-techniques-optimizing-performance-react-app",
@@ -282,24 +300,6 @@
           "sourceHref": "https://feeds.telerik.com/blogs",
           "sourceTitle": "Telerik Blogs",
           "title": "Learn How to Build Modern Angular Dropdowns in Minutes with Kendo UI"
-        },
-        {
-          "description": "Memory leaks can cause an application to run slow or even crash. They can be created by accident, by not cleaning up after yourself. Find out how to clean up event listeners in the two very popular JavaScript frameworks Vue and React.\nI work with a lot of clients, from beginners to senior developers, but from time to time I spot that their code is missing something. Unfortunately, they do not clean up after themselves, and I don&rsquo;t mean their dishes. I&rsquo;m talking about cleaning up event listeners …",
-          "link": "https://www.telerik.com/blogs/how-to-clean-up-after-yourself-and-why-its-important-vue-react",
-          "publishedOn": "2021-04-21T13:17:00.000Z",
-          "wordCount": 1918,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
-          "title": "How to Clean Up after Yourself and Why It’s Important (Vue/React)"
-        },
-        {
-          "description": "Let&rsquo;s create a simple UI together, refining our XAML skills and practicing navigating Xamarin Forms.\nHowdy! &zwj; It&rsquo;s a pleasure for me to have you here.  I imagine that you are in this post because you are starting in Xamarin Forms and you want to improve your knowledge. \nThis time we will be creating a simple UI step by step, which will help us to improve many important XAML skills that will make our lives easier when developing a UI in Xamarin Forms. Our design today is obtained from Dribble…",
-          "link": "https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui",
-          "publishedOn": "2021-04-21T10:40:00.000Z",
-          "wordCount": 1721,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
-          "title": "Are You Starting in Xamarin Forms? Let's Create a Simple UI"
         }
       ]
     },
@@ -307,10 +307,37 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-8-css/",
+          "publishedOn": "2021-05-03T21:52:08.000Z",
+          "wordCount": 6272,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Chapter 8: CSS"
+        },
+        {
+          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
+          "publishedOn": "2021-05-03T14:35:07.000Z",
+          "wordCount": 908,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Swipey Image Grids"
+        },
+        {
+          "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/webpagetest-api/",
+          "publishedOn": "2021-05-03T14:34:53.000Z",
+          "wordCount": 8905,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "WebPageTest API"
+        },
+        {
           "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
           "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 677,
+          "wordCount": 749,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Safari 14.1 Adds Support for Flexbox Gaps"
@@ -337,7 +364,7 @@
           "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
           "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1909,
+          "wordCount": 1992,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "You Can Label a JavaScript `if` Statement"
@@ -346,7 +373,7 @@
           "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/sending-large-files/",
           "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1649,
+          "wordCount": 1669,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Sending Large Files"
@@ -355,7 +382,7 @@
           "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
           "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 764,
+          "wordCount": 798,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
@@ -364,7 +391,7 @@
           "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/list-markers-and-string-styles/",
           "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1012,
+          "wordCount": 1091,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "List Markers and String Styles"
@@ -373,7 +400,7 @@
           "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/your-team-is-not-them/",
           "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1883,
+          "wordCount": 1922,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Your Team is Not “Them”"
@@ -382,7 +409,7 @@
           "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
           "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1514,
+          "wordCount": 1560,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Create Actions for Selected Text With the Selection API"
@@ -391,7 +418,7 @@
           "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/shared-element-transitions/",
           "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1092,
+          "wordCount": 1121,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Shared Element Transitions"
@@ -413,39 +440,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Exploring color-contrast() for the First Time"
-        },
-        {
-          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
-          "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 5071,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Generating (and Solving!) Sudokus in CSS"
-        },
-        {
-          "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/compat2021/",
-          "publishedOn": "2021-04-23T20:55:19.000Z",
-          "wordCount": 1181,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Eliminating five top compatibility pain points on the web"
-        },
-        {
-          "description": "In my previous article, I discussed how I learned to create a decoupled WordPress powered Gatsby site using the Gatsby Source WPGraphQL plugin. The project was done following the ongoing developmental version of WPGraphQL and an excellent tutorial by Henrik &#8230;\nThe post Using New Gatsby Source WordPress Plugin appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-new-gatsby-source-wordpress-plugin/",
-          "publishedOn": "2021-04-23T14:03:18.000Z",
-          "wordCount": 6095,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Using New Gatsby Source WordPress Plugin"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
+          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
+          "publishedOn": "2021-05-03T07:00:00.000Z",
+          "wordCount": 2141,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "The Evolution Of Jamstack"
+        },
         {
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
@@ -650,6 +659,42 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
+          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
+          "publishedOn": "2021-05-03T17:20:56.000Z",
+          "wordCount": 2495,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Fetch Data in React from a GraphQL API"
+        },
+        {
+          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
+          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
+          "publishedOn": "2021-05-03T16:40:08.000Z",
+          "wordCount": 1158,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+        },
+        {
+          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
+          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
+          "publishedOn": "2021-05-03T16:13:55.000Z",
+          "wordCount": 1398,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
+        },
+        {
+          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
+          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
+          "publishedOn": "2021-05-03T15:31:42.000Z",
+          "wordCount": 890,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
+        },
+        {
           "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
           "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
           "publishedOn": "2021-04-30T18:37:37.000Z",
@@ -702,42 +747,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
-        },
-        {
-          "description": "Hi! Welcome. If you are learning Python, then this article is for you. You will find a thorough description of Python syntax and lots of code examples to guide you during your coding journey.  What we will cover:Variable Definitions in PythonHello, World! Program in PythonData Types and Built-in Data",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
-          "publishedOn": "2021-04-27T19:55:23.000Z",
-          "wordCount": 12960,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Python Code Examples – Sample Script Coding Tutorial for Beginners"
-        },
-        {
-          "description": "Hello, everyone! In this article we are going to learn how to add the Realm database to an iOS app.  We'll create a simple ToDo app so you can learn how to perform CRUD (Create, Read, Update, Delete) operations in the Realm database. What is Realm?Realm is an open-source",
-          "link": "https://www.freecodecamp.org/news/add-realm-database-to-ios-crud-app-with-with-swift/",
-          "publishedOn": "2021-04-27T18:21:00.000Z",
-          "wordCount": 1815,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Add the Realm Database to an iOS CRUD App using Swift"
-        },
-        {
-          "description": "What is Lazy Loading?Lazy loading is the process of loading components, modules, or other assets of a website as they're required.  Since Angular creates a SPA (Single Page Application), all of its components are loaded at once. This means that a lot of unnecessary libraries or modules might be",
-          "link": "https://www.freecodecamp.org/news/lazy-loading-in-angular-intro-to-ngmodules/",
-          "publishedOn": "2021-04-27T18:17:43.000Z",
-          "wordCount": 1178,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Lazy Loading in Angular – A Beginner&#x27;s Guide to NgModules"
-        },
-        {
-          "description": "In this article, we will build a React application using class components. Then we'll convert it to functional components using React Hooks in a step-by-step way. By building this app, you will learn: How to make API callsHow to implement load more functionalityHow to debug application issuesHow to use async/",
-          "link": "https://www.freecodecamp.org/news/build-a-react-application-with-load-more-functionality-react-hooks/",
-          "publishedOn": "2021-04-27T18:12:22.000Z",
-          "wordCount": 3778,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a React Application with Load More Functionality using React Hooks"
         }
       ]
     }
