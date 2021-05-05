@@ -4,10 +4,19 @@
       "href": "http://feeds2.feedburner.com/alvinashcraft",
       "articles": [
         {
+          "description": "Top Links The future of gRPC in C# belongs to grpc-dotnet (Jan Tattermusch) .NET Annotated &#124; May 2021 (Rachel Appel) Evolving modular monoliths: 1. An architecture for .NET (Jon P. Smith) Quickly develop apps with App Studio for Microsoft Teams (Office Dev Center) Web &#38; Cloud Development Lost in Azure cloud identity &#8211; part 2 [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/QgAmpMAdlhI/",
+          "publishedOn": "2021-05-04T11:02:04.000Z",
+          "wordCount": 872,
+          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
+          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "title": "Dew Drop – May the 4th, 2021 (#3436)"
+        },
+        {
           "description": "Top Links Azure Event Grid, Event Hubs, and Service Bus Library Improvements (Lily Ma) .NET Foundation March/April 2021 Update (Claire Novotny) Cloud Engineering: The Future Is Now (Sophia Parafina) Visual Designer, Hot Reload and Beyond (Nick Randolph) Web &#38; Cloud Development What&#8217;s new in Svelte: May 2021 (Daniel Sandoval) You Can Label a JavaScript `if` [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/_p9OizUJxHI/",
           "publishedOn": "2021-05-03T11:12:37.000Z",
-          "wordCount": 1133,
+          "wordCount": 1140,
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – May 3, 2021 (#3435)"
@@ -101,15 +110,6 @@
           "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
           "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 20, 2021 (#3426)"
-        },
-        {
-          "description": "Top Links Update existing projects to the latest release of Project Reunion (McLean Schofield) &#8211; Reunion v0.5.5 is now available! Managed Memory Dump Analyzers (Mark Downie) Announcing Learn WinUI 3.0 from Packt Publishing and a Contest (Me) Introduction to Azure Functions (Microsoft Docs) The Art of Computers by Scott Hanselman as presented at GeekDay.Live 2021 [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/EjN9GARTvqg/",
-          "publishedOn": "2021-04-19T10:43:11.000Z",
-          "wordCount": 1095,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
-          "title": "Dew Drop – April 19, 2021 (#3425)"
         }
       ]
     },
@@ -117,10 +117,19 @@
       "href": "http://feeds.feedburner.com/ReflectivePerspective",
       "articles": [
         {
+          "description": "Information Is the era of reflection-heavy C# libraries at an end? &#8211; Marc Gravell Building an AWS Lambda in C#, part 1: AWS &#8211; Lewis Westbury C#: Make your delegates asynchronous from synchronous delegates &#8211; Anthony Giretti C# 9: Value Objects and Simpler Code &#8211; Peter Vogel Implement log monitoring with Seq and Serilog in [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uiPqqR34h0Q/",
+          "publishedOn": "2021-05-04T06:00:00.000Z",
+          "wordCount": 675,
+          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
+          "sourceTitle": "The Morning Brew",
+          "title": "The Morning Brew #3223"
+        },
+        {
           "description": "Monday is a public holiday here in England, so as is usual the Morning Brew will be taking a break in publication, returning on Tuesday 4th May Information Nullable Reference types in C# &#8211; Best practices &#8211; Damir Arh C# Language Highlights: Init only setters &#8211; Cecil Phillip &#38; Jayme Singleton C# Yield Return: What [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/7RQ3IwcYF98/",
           "publishedOn": "2021-04-30T06:00:00.000Z",
-          "wordCount": 670,
+          "wordCount": 677,
           "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
           "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3222"
@@ -129,7 +138,7 @@
           "description": "Information Microsoft Build May 25–27, 2021 &#124; Digital event &#8211; Microsoft Rearchitecting for MicroServices: Featuring Windows &#38; Linux Containers &#8211; Jessica Deen Uno Platform Uno Platform 3.7 &#8211; More WinUI, Project Reunion and Linux support, Wasm performance boost &#8211; Jerome Laban &#38; Uno Team ReSharper and Visual Studio 2022 64-bit &#8211; Maarten Balliauw Aggregate Design: [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/ai0wjOXE-fc/",
           "publishedOn": "2021-04-29T06:00:00.000Z",
-          "wordCount": 630,
+          "wordCount": 625,
           "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
           "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3221"
@@ -138,7 +147,7 @@
           "description": "Information Some more C# 9 &#8211; Tom Deseyn Clean Architecture Refactoring: A Case Study &#8211; Patrick Smacchia Blazor &#8211; IntersectionObserver WebApi &#8211; Cody Merritt Anhorn Introducing GraphQLinq &#8211; Strongly Typed GraphQL Queries with LINQ to GraphQL. &#8211; Giorgi Dalakishvili Want to throw together a quick web application in C#? This is what that will look [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/_Z37JrS-hys/",
           "publishedOn": "2021-04-28T06:00:00.000Z",
-          "wordCount": 613,
+          "wordCount": 615,
           "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
           "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3220"
@@ -147,25 +156,34 @@
           "description": "Information .NET Framework 4.5.2, 4.6, 4.6.1 will reach End of Support on April 26, 2022 &#8211; Jamshed Damkewala Tetris in Blazor Part 6: Scoring, Levels, Music, and Other Features &#8211; Matthew Jones Securing an ASP.NET Core app and web API using windows authentication &#8211; Damien Bowden Free .NET Testing Courses This Month &#8211; Jason Roberts [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/VOVMs6-JPNc/",
           "publishedOn": "2021-04-27T06:00:00.000Z",
-          "wordCount": 616,
+          "wordCount": 618,
           "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
           "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3219"
-        },
-        {
-          "description": "Information Windows Package Manager v0.3 Preview &#8211; Demitrius Nelon NSubstitute and FluentAssertions Redux &#8211; Rory Primrose 3 simple ways to collect data for asp.net core applications post publishing to production &#8211; Irfan Khan F# wrappers for React components &#8211; Akash Mair The Service Now API and TypeScript Conditional Types &#8211; John Reilly Understanding JavaScrip&#8217;s Array [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/o6uTykMGAx0/",
-          "publishedOn": "2021-04-26T06:00:00.000Z",
-          "wordCount": 576,
-          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
-          "sourceTitle": "The Morning Brew",
-          "title": "The Morning Brew #3218"
         }
       ]
     },
     {
       "href": "https://feeds.telerik.com/blogs",
       "articles": [
+        {
+          "description": "JSON Web Tokens are a useful tool and a better way of implementing authorization in web applications, but what exactly are they and how do they work?\nWhat is a JWT? A JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.\nA JWT is a means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is digitally signed using JSON Web Signatu…",
+          "link": "https://www.telerik.com/blogs/introduction-json-web-tokens-jwt",
+          "publishedOn": "2021-05-04T14:45:02.000Z",
+          "wordCount": 1814,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "Introduction to JSON Web Tokens (JWT)"
+        },
+        {
+          "description": "When done right, animations can add a whole lot of value to the user experience&mdash;serving as their guide, cheerleader and entertainer. Here are some tips on how you can improve mobile app animations (and some things to stay away from).\nThere are so many reasons to build animation&mdash;no matter how subtle or overt&mdash;into a mobile app. It can:\nMake transition screens more tolerable to sit through\nBring life to a logo, mascot or other branded element\nAdd movement to otherwise static elements, like bu…",
+          "link": "https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation",
+          "publishedOn": "2021-05-04T13:57:04.000Z",
+          "wordCount": 2448,
+          "sourceHref": "https://feeds.telerik.com/blogs",
+          "sourceTitle": "Telerik Blogs",
+          "title": "3 Ways to Improve the Mobile App Experience with Animation"
+        },
         {
           "description": "Angular offers a set of pipe options to transform the way your data is displayed, allowing you to control just how it looks. Let&rsquo;s examine some of these options.\nEven if you&rsquo;re just getting started in Angular, you already know that most of the things we do while building web applications revolve around data&mdash;getting data, traversing data, manipulating data and finally presenting data. In this post, we will look at one of the ways Angular has made manipulating and presenting data easy for us…",
           "link": "https://www.telerik.com/blogs/angular-basics-using-pipes-angular",
@@ -282,24 +300,6 @@
           "sourceHref": "https://feeds.telerik.com/blogs",
           "sourceTitle": "Telerik Blogs",
           "title": "Editing PDF Files in the Browser by Adding Signature, Text and Images"
-        },
-        {
-          "description": "As we approach another Earth Day, let&rsquo;s look at all the good that digital technologies have done for the planet. From websites and apps to unique features built into each, designers and developers have an important role to play in sustainability.\nOn April 22, we celebrate Earth Day. This annual holiday is marked by various events that call attention to the health of the planet (as well as ourselves) and what we can do as a global society to clean it up.\nReducing environmental waste. Lowering our carbo…",
-          "link": "https://www.telerik.com/blogs/positive-effect-digital-tech-planet",
-          "publishedOn": "2021-04-22T12:03:01.000Z",
-          "wordCount": 3308,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
-          "title": "The Positive Effect of Digital Tech on the Planet"
-        },
-        {
-          "description": "Go beyond HTML select by learning how to implement modern dropdowns. This tutorial show you how to use the Angular DropDownList, Angular ComboBox, Angular AutoComplete and Angular MultiColumnComboBox components.\nDropdowns have been a fundamental HTML select element since 1993 and remain a key part of web application UI, but technology has come a long way.\nWhile drop-down lists are a default item in HTML, they can become difficult when you need to customize them. These customizations range from upgraded styl…",
-          "link": "https://www.telerik.com/blogs/learn-how-to-build-modern-angular-dropdowns-minutes-kendo-ui",
-          "publishedOn": "2021-04-22T11:02:00.000Z",
-          "wordCount": 1314,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
-          "title": "Learn How to Build Modern Angular Dropdowns in Minutes with Kendo UI"
         }
       ]
     },
@@ -307,10 +307,46 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
+          "publishedOn": "2021-05-04T21:16:04.000Z",
+          "wordCount": 590,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "16px or Larger Text Prevents iOS Form Zoom"
+        },
+        {
+          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
+          "publishedOn": "2021-05-04T21:15:57.000Z",
+          "wordCount": 450,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
+        },
+        {
+          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
+          "publishedOn": "2021-05-04T14:19:55.000Z",
+          "wordCount": 861,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Let’s use (X, X, X, X) for talking about specificity"
+        },
+        {
+          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
+          "publishedOn": "2021-05-04T14:19:48.000Z",
+          "wordCount": 1279,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Creating Colorful, Smart Shadows"
+        },
+        {
           "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/chapter-8-css/",
           "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6272,
+          "wordCount": 6465,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Chapter 8: CSS"
@@ -337,7 +373,7 @@
           "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
           "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 749,
+          "wordCount": 785,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Safari 14.1 Adds Support for Flexbox Gaps"
@@ -364,7 +400,7 @@
           "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
           "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1992,
+          "wordCount": 2196,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "You Can Label a JavaScript `if` Statement"
@@ -404,48 +440,30 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Your Team is Not “Them”"
-        },
-        {
-          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
-          "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1560,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Create Actions for Selected Text With the Selection API"
-        },
-        {
-          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/shared-element-transitions/",
-          "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1121,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Shared Element Transitions"
-        },
-        {
-          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
-          "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5544,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "A Complete Guide to Custom Properties"
-        },
-        {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the First Time"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "publishedOn": "2021-05-04T14:30:00.000Z",
+          "wordCount": 1791,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Guide To Undoing Mistakes With Git"
+        },
+        {
+          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
+          "publishedOn": "2021-05-04T05:00:00.000Z",
+          "wordCount": 6993,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+        },
         {
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
@@ -643,21 +661,30 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Don’t Lose Your Head: Evaluating Headless"
-        },
-        {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2018,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "A complete guide to Node.js async await",
+          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
+          "publishedOn": "2021-05-04T16:07:17.000Z",
+          "wordCount": 2235,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+        },
+        {
+          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
+          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
+          "publishedOn": "2021-05-04T15:33:12.000Z",
+          "wordCount": 1012,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+        },
         {
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
@@ -729,27 +756,9 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
-        },
-        {
-          "description": "The MERN stack is a popular way to make a full stack web app. MERN stands for MongoDB, Express, React, and Node.js. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the MERN stack by building a restaurant review web",
-          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
-          "publishedOn": "2021-04-28T14:05:56.000Z",
-          "wordCount": 384,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Create a MERN Stack App with a Serverless Backend"
-        },
-        {
-          "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
-          "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
-          "publishedOn": "2021-04-27T22:53:14.000Z",
-          "wordCount": 2010,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
         }
       ]
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
