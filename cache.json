@@ -1,17 +1,26 @@
 {
   "sources": [
     {
-      "href": "http://feeds2.feedburner.com/alvinashcraft",
+      "title": "Morning Dew by Alvin Ashcraft",
+      "feedUrl": "http://feeds2.feedburner.com/alvinashcraft",
+      "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://www.alvinashcraft.com/?p=33821",
+          "author": "Alvin A.",
+          "description": "Top Links ASP.NET Core 6 and Authentication Servers (Barry Dorrans) How to create the Tic-Tac-Toe game in Blazor WebAssembly in one hour! (David Grace) C# Async Yield Return: IAsyncEnumerable will change your life!!! (Brian Lagunas) Merge Conflict 253: Past, Present, &#38; Future of Ooui (James Montemagno &#38; Frank Kreuger) Intro of DevOps Dojo (Kan Tang) [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/fJ3DAx2xzL0/",
+          "publishedOn": "2021-05-10T11:14:52.000Z",
+          "wordCount": 1232,
+          "title": "Dew Drop – May 10, 2021 (#3439)"
+        },
         {
           "id": "https://www.alvinashcraft.com/?p=33819",
           "author": "Alvin A.",
           "description": "Top Links Creating beautiful dual-screen Xamarin.Forms apps (Craig Dunn) Announcing Rust for Windows v0.9 (Angela Zhang) Add a README to Your NuGet Package (Christopher Gill) Building Accessible Mobile Apps &#124; The Xamarin Show (James Montemagno &#38; Rachel Kang) Software Engineering Radio Episode 458: Daniel Roth on Blazor (Priyanka Raghavan) Web &#38; Cloud Development Azure Tips [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/1KXFcBgAfF8/",
           "publishedOn": "2021-05-07T11:02:58.000Z",
-          "wordCount": 1521,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
+          "wordCount": 1527,
           "title": "Dew Drop – May 7, 2021 (#3438)"
         },
         {
@@ -21,8 +30,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/KIxVRsSxGJI/",
           "publishedOn": "2021-05-05T11:02:30.000Z",
           "wordCount": 1029,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – May 5, 2021 (#3437)"
         },
         {
@@ -32,8 +39,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/QgAmpMAdlhI/",
           "publishedOn": "2021-05-04T11:02:04.000Z",
           "wordCount": 878,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – May the 4th, 2021 (#3436)"
         },
         {
@@ -43,8 +48,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/_p9OizUJxHI/",
           "publishedOn": "2021-05-03T11:12:37.000Z",
           "wordCount": 1140,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – May 3, 2021 (#3435)"
         },
         {
@@ -54,8 +57,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/7kdyHC9dQVw/",
           "publishedOn": "2021-04-30T10:35:42.000Z",
           "wordCount": 1027,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 30, 2021 (#3434)"
         },
         {
@@ -65,8 +66,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/",
           "publishedOn": "2021-04-29T10:51:36.000Z",
           "wordCount": 1077,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 29, 2021 (#3433)"
         },
         {
@@ -76,8 +75,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/jks23uQIQBM/",
           "publishedOn": "2021-04-28T11:15:30.000Z",
           "wordCount": 1050,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 28, 2021 (#3432)"
         },
         {
@@ -87,8 +84,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/jOygmaRY01U/",
           "publishedOn": "2021-04-27T11:06:02.000Z",
           "wordCount": 967,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 27, 2021 (#3431)"
         },
         {
@@ -98,8 +93,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/wL0TdixgMmE/",
           "publishedOn": "2021-04-26T10:56:53.000Z",
           "wordCount": 1285,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 26, 2021 (#3430)"
         },
         {
@@ -109,8 +102,6 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/NfYB2bv8lAA/",
           "publishedOn": "2021-04-23T11:07:34.000Z",
           "wordCount": 1153,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "Dew Drop – April 23, 2021 (#3429)"
         },
         {
@@ -120,35 +111,31 @@
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/nsWxwqZUJD0/",
           "publishedOn": "2021-04-23T11:00:00.000Z",
           "wordCount": 428,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
           "title": "TechBash 2021 – Call for Speakers"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33794",
-          "author": "Alvin A.",
-          "description": "Top Links What’s new in dotnet monitor (Sourabh Shirhatti) .NET Rocks! &#8211; Xamarin Forms to Maui with Gerald Versluis (Carl Franklin &#38; Richard Campbell) Develop, test, and deploy an Azure Function with Visual Studio (Microsoft Learn) The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux (Craig Loewen) WSLg [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/JSWx8gmwKn0/",
-          "publishedOn": "2021-04-22T11:04:31.000Z",
-          "wordCount": 1143,
-          "sourceHref": "http://feeds2.feedburner.com/alvinashcraft",
-          "sourceTitle": "Morning Dew by Alvin Ashcraft",
-          "title": "Dew Drop – April 22, 2021 (#3428)"
         }
       ]
     },
     {
-      "href": "http://feeds.feedburner.com/ReflectivePerspective",
+      "title": "The Morning Brew",
+      "feedUrl": "http://feeds.feedburner.com/ReflectivePerspective",
+      "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
+        {
+          "id": "http://blog.cwa.me.uk/?p=7478",
+          "author": "Chris Alcock",
+          "description": "Information ASP.NET Core 6 and Authentication Servers &#8211; Barry Dorrans State-Of-The-Art Natural Language Processing in .NET on the Edge &#8211; Ian Bebbington C# Async Yield Return: IAsyncEnumerable will change your life!!! &#8211; Brian Lagunas Top 10 Free New Testing Tools for Visual Studio 2019 &#8211; David Ramel Add a README to Your NuGet Package &#8211; [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/jactCA24YRs/",
+          "publishedOn": "2021-05-10T06:00:00.000Z",
+          "wordCount": 579,
+          "title": "The Morning Brew #3227"
+        },
         {
           "id": "http://blog.cwa.me.uk/?p=7475",
           "author": "Chris Alcock",
           "description": "Information Visual Studio Code &#8211; April 2021 (version 1.56) &#8211; Visual Studio Code Team and Contributors Event Based Architecture: What do you mean by EVENT? &#8211; Derek Comartin Add a README to Your NuGet Package &#8211; Christopher Gill EF Core &#8211; Robert Green &#38; Jeremy Likness AgileMapper v1.8 Released &#8211; Steve Wilkes Postman I ❤️ [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/u4LZK25KeMg/",
           "publishedOn": "2021-05-07T06:00:00.000Z",
-          "wordCount": 603,
-          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
-          "sourceTitle": "The Morning Brew",
+          "wordCount": 608,
           "title": "The Morning Brew #3226"
         },
         {
@@ -158,8 +145,6 @@
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/FH2LCeqUPiw/",
           "publishedOn": "2021-05-06T06:00:00.000Z",
           "wordCount": 612,
-          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
-          "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3225"
         },
         {
@@ -168,9 +153,7 @@
           "description": "Information A Simple Moving Average calculator: Creating a Simple Moving Average calculator in C# &#8211; Part 1 &#8211; Andrew Lock Practical SQL for Data Analysis &#8211; Haki Benita Evolving modular monoliths: 1. An architecture for .NET &#8211; Jon P Smith The future of gRPC in C# belongs to grpc-dotnet &#8211; Jan Tattermusch Getting Started with [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/zYWJfvKTycs/",
           "publishedOn": "2021-05-05T06:00:00.000Z",
-          "wordCount": 605,
-          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
-          "sourceTitle": "The Morning Brew",
+          "wordCount": 598,
           "title": "The Morning Brew #3224"
         },
         {
@@ -180,205 +163,191 @@
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uiPqqR34h0Q/",
           "publishedOn": "2021-05-04T06:00:00.000Z",
           "wordCount": 673,
-          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
-          "sourceTitle": "The Morning Brew",
           "title": "The Morning Brew #3223"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7466",
-          "author": "Chris Alcock",
-          "description": "Monday is a public holiday here in England, so as is usual the Morning Brew will be taking a break in publication, returning on Tuesday 4th May Information Nullable Reference types in C# &#8211; Best practices &#8211; Damir Arh C# Language Highlights: Init only setters &#8211; Cecil Phillip &#38; Jayme Singleton C# Yield Return: What [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/7RQ3IwcYF98/",
-          "publishedOn": "2021-04-30T06:00:00.000Z",
-          "wordCount": 670,
-          "sourceHref": "http://feeds.feedburner.com/ReflectivePerspective",
-          "sourceTitle": "The Morning Brew",
-          "title": "The Morning Brew #3222"
         }
       ]
     },
     {
-      "href": "https://feeds.telerik.com/blogs",
+      "title": "Telerik Blogs",
+      "feedUrl": "https://feeds.telerik.com/blogs",
+      "siteUrl": "https://www.telerik.com/",
       "articles": [
         {
+          "id": "https://www.telerik.com/blogs/sands-of-maui-issue-8",
+          "author": null,
+          "description": "Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together the latest .NET MAUI content relevant to developers.\nA particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.\nMost .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Goi…",
+          "link": "https://www.telerik.com/blogs/sands-of-maui-issue-8",
+          "publishedOn": "2021-05-10T12:45:02.000Z",
+          "wordCount": 1544,
+          "title": "Sands of MAUI: Issue #8"
+        },
+        {
           "id": "https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Let&rsquo;s take a look at why the &ldquo;Can&rsquo;t bind to 'formGroup' since it isn&rsquo;t a known property of 'form'&rdquo; error shows up and how you can fix it and get your app working again.\nAlmost every frontend web application relies on forms to receive input from users. Features like user logins, in-app messaging, payment processing and custom settings rely on data from the user that is usually delivered through an HTML form.\nAngular&mdash;like most frontend frameworks&mdash;comes with some helpf…",
           "link": "https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular",
           "publishedOn": "2021-05-07T11:03:00.000Z",
           "wordCount": 1641,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Fixing “Can’t Bind to 'formGroup' Since it Isn’t a Known Property of 'form'” Error in Angular"
         },
         {
           "id": "https://www.telerik.com/blogs/how-should-you-handle-feedback-various-stakeholders",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "There&rsquo;s no such thing as working in isolation for us. Beyond collaboration with coworkers, you&rsquo;ll eventually need to seek feedback from your team and your clients. This guide will show you five things you can do to make that easier on yourself and everyone involved.\nDepending on what kind of solution you&rsquo;re building, you could end up receiving feedback from a variety of sources. Other designers or developers. Project managers. Account managers. Consultants. Clients. Friends and family memb…",
           "link": "https://www.telerik.com/blogs/how-should-you-handle-feedback-various-stakeholders",
           "publishedOn": "2021-05-06T12:23:03.000Z",
           "wordCount": 3055,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "How Should You Handle Feedback from Various Stakeholders?"
         },
         {
           "id": "https://www.telerik.com/blogs/understand-react-context-api",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Learn how the Context API works in React and the best times to use it to avoid prop-drilling in your application.\nOne of the best things about React is that we have a lot of different ways to solve specific problems. We have a few different form libraries, a bunch of CSS libraries and, for the most important part of React, we have a lot of different libraries specific to state data problems in React.\nIdentifying when to use a certain library in our project is a skill that we develop through experience. Espe…",
           "link": "https://www.telerik.com/blogs/understand-react-context-api",
           "publishedOn": "2021-05-06T10:16:00.000Z",
           "wordCount": 2677,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Understand React Context API"
         },
         {
           "id": "https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-3-components",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Let&rsquo;s discuss how to build robust UI components! We&rsquo;ll cover when to code components vs when to build on top of third-party libraries, a unit testing structure for your components and a few options for writing documentation for your components.\n\nThis article is the third part in a series on how to build a complete UI component library for your organization. If you found this article first, you might want to read part 1 and part 2 before continuing.\nIn part 1 of this series you learned how to pla…",
           "link": "https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-3-components",
           "publishedOn": "2021-05-05T10:39:01.000Z",
           "wordCount": 5196,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "The Ultimate Guide to Building a UI Component Library—Part 3: Building Robust Components"
         },
         {
           "id": "https://www.telerik.com/blogs/introduction-json-web-tokens-jwt",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "JSON Web Tokens are a useful tool and a better way of implementing authorization in web applications, but what exactly are they and how do they work?\nWhat is a JWT? A JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.\nA JWT is a means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is digitally signed using JSON Web Signatu…",
           "link": "https://www.telerik.com/blogs/introduction-json-web-tokens-jwt",
           "publishedOn": "2021-05-04T14:45:02.000Z",
           "wordCount": 1814,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Introduction to JSON Web Tokens (JWT)"
         },
         {
           "id": "https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "When done right, animations can add a whole lot of value to the user experience&mdash;serving as their guide, cheerleader and entertainer. Here are some tips on how you can improve mobile app animations (and some things to stay away from).\nThere are so many reasons to build animation&mdash;no matter how subtle or overt&mdash;into a mobile app. It can:\nMake transition screens more tolerable to sit through\nBring life to a logo, mascot or other branded element\nAdd movement to otherwise static elements, like bu…",
           "link": "https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation",
           "publishedOn": "2021-05-04T13:57:04.000Z",
           "wordCount": 2448,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "3 Ways to Improve the Mobile App Experience with Animation"
         },
         {
           "id": "https://www.telerik.com/blogs/angular-basics-using-pipes-angular",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Angular offers a set of pipe options to transform the way your data is displayed, allowing you to control just how it looks. Let&rsquo;s examine some of these options.\nEven if you&rsquo;re just getting started in Angular, you already know that most of the things we do while building web applications revolve around data&mdash;getting data, traversing data, manipulating data and finally presenting data. In this post, we will look at one of the ways Angular has made manipulating and presenting data easy for us…",
           "link": "https://www.telerik.com/blogs/angular-basics-using-pipes-angular",
           "publishedOn": "2021-05-03T13:33:01.000Z",
           "wordCount": 2138,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Angular Basics: Using Pipes in Angular"
         },
         {
           "id": "https://www.telerik.com/blogs/sands-of-maui-issue-7",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together latest .NET MAUI content relevant to developers.\nA particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.\nMost .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Going f…",
           "link": "https://www.telerik.com/blogs/sands-of-maui-issue-7",
           "publishedOn": "2021-05-03T10:58:00.000Z",
           "wordCount": 1508,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Sands of MAUI: Issue #7"
         },
         {
           "id": "https://www.telerik.com/blogs/5-techniques-optimizing-performance-react-app",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Before shipping a React app, the least any team or developer needs to do is to check the performance and look to optimize the app for the end user&rsquo;s experience.\nOptimizing performance is an important technique to consider before shipping a React application. You can explore different ways of optimizing a React application that can enable a significant increase in speed and overall user experience for your applications.\nIntroduction\nWhen building any React applications, a lot of thought goes into how t…",
           "link": "https://www.telerik.com/blogs/5-techniques-optimizing-performance-react-app",
           "publishedOn": "2021-04-30T12:30:01.000Z",
           "wordCount": 2241,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "5 Techniques for Optimizing Performance on a React App"
         },
         {
           "id": "https://www.telerik.com/blogs/angular-basics-style-binding-angular-ngstyle",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "In this post we look at style binding and also at the ngStyle directive and how it helps solve for the limitations that style bindings have had in the past. These are some handy tricks when you&rsquo;re getting started in Angular!\nAngular\nAngular, Google&rsquo;s JavaScript (TypeScript) framework for building web applications, mobile or desktop, has over 72,000 stars on GitHub. It&rsquo;s maintained by the Angular team at Google and a host of community members and organisations.\nBefore You Start\nTo be able t…",
           "link": "https://www.telerik.com/blogs/angular-basics-style-binding-angular-ngstyle",
           "publishedOn": "2021-04-29T15:47:08.000Z",
           "wordCount": 2208,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Angular Basics: Style Binding in Angular with ngStyle"
         },
         {
           "id": "https://www.telerik.com/blogs/right-way-to-adopt-new-technology",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Why are even experienced software engineers drawn to shiny new technology like moths to a flame? A personal account of learning the hard way: You have to balance your curiosity with your business&rsquo;s goals.\nIn 2015, I was leading a team of engineers building a web application for college students. Because deals with new schools were closed in May, we had three months to get ready for the surge of traffic every August.\nWe only had a few thousand users during our first year, so nobody was worried about sc…",
           "link": "https://www.telerik.com/blogs/right-way-to-adopt-new-technology",
           "publishedOn": "2021-04-29T12:00:04.000Z",
           "wordCount": 2345,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "The Right Way to Adopt New Technology"
         },
         {
           "id": "https://www.telerik.com/blogs/still-tender-from-rough-update-follow-my-simple-vue-3-recipe",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Why postpone an update or do a migration the hard way? Vue 3 is ready for production, and I&rsquo;ll show you that migrating is as easy as preparing a simple dinner.\nIf you are still asking yourselves, &ldquo;Why bother with Vue 3?&rdquo; let me tell you a secret&mdash;Vue 3 was one of the most awaited releases of 2020, and through 2021 most of the popular Vue libraries have plans to migrate to it, too. It combines lots of new features, like a new simple setup introduced by the Composition API, brilliant fu…",
           "link": "https://www.telerik.com/blogs/still-tender-from-rough-update-follow-my-simple-vue-3-recipe",
           "publishedOn": "2021-04-28T16:01:53.000Z",
           "wordCount": 2310,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Still Tender From a Rough Update? Follow My Simple Vue 3 Recipe!"
         },
         {
           "id": "https://www.telerik.com/blogs/api-testing",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "If you&rsquo;re not careful, unit testing your Web Service API can take over all your testing. Here&rsquo;s a unit testing strategy that shows what it means to &ldquo;unit test&rdquo; a Web Service API.\nYour API testing can quickly grow out of control if you don&rsquo;t distinguish between unit testing your API and integration/end-to-end testing. If you&rsquo;re not careful, API testing will start taking over tests that don&rsquo;t belong to your API and create duplication among your tests.\nRather than just…",
           "link": "https://www.telerik.com/blogs/api-testing",
           "publishedOn": "2021-04-28T13:51:01.000Z",
           "wordCount": 2979,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "API Testing—Strategy and Tools"
         },
         {
           "id": "https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them",
-          "author": "Telerik Blogs",
+          "author": null,
           "description": "Mobile visitors are still reluctant to take action. Redesign your mobile forms and remove the friction and ensuing frustration that keep your visitors from reaching out or buying something.\nMore and more users are gravitating toward the mobile web, both in the form of mobile websites and progressive web apps. And while Google keeps telling us to build mobile-first web experiences, there&rsquo;s just one problem:\nMobile users continue to be reluctant when it comes to converting on mobile.\nToday, I&rsquo;d li…",
           "link": "https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them",
           "publishedOn": "2021-04-27T15:35:03.000Z",
           "wordCount": 2654,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
           "title": "Design Mistakes You’re Making with Your Mobile Forms (and How to Fix Them)"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/where-do-dev-warriors-hang-out",
-          "author": "Telerik Blogs",
-          "description": "Dev Warriors love to keep each other company, help each other and have fun together. The Telerik and Kendo UI Community Forums now make this even easier, and come with the added benefit of a brand-new ranking board that you can climb.\nLegend has it ... that developers go out on the internet and copy code they paste into&nbsp; their application, compile and hope for the best. To be honest, I&rsquo;m guilty of doing that at least once in my career, so I know for a fact this legend has some truth in it.\nI&rsqu…",
-          "link": "https://www.telerik.com/blogs/where-do-dev-warriors-hang-out",
-          "publishedOn": "2021-04-27T13:29:01.000Z",
-          "wordCount": 1894,
-          "sourceHref": "https://feeds.telerik.com/blogs",
-          "sourceTitle": "Telerik Blogs",
-          "title": "Where Do Dev Warriors Hang Out?"
         }
       ]
     },
     {
-      "href": "https://css-tricks.com/feed/",
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340020",
+          "author": "Chris Coyier",
+          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/topframe/",
+          "publishedOn": "2021-05-10T21:14:15.000Z",
+          "wordCount": 568,
+          "title": "Topframe"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340208",
+          "author": "Chris Coyier",
+          "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
+          "publishedOn": "2021-05-10T21:13:23.000Z",
+          "wordCount": 2948,
+          "title": "Migrating from Parcel to Snowpack"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339203",
+          "author": "Ana Tudor",
+          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
+          "publishedOn": "2021-05-10T14:13:12.000Z",
+          "wordCount": 2838,
+          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
+        },
         {
           "id": "https://css-tricks.com/?p=339781",
           "author": "Chris Coyier",
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 1677,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3313,
           "title": "Is CSS a Programming Language?"
         },
         {
@@ -388,8 +357,6 @@
           "link": "https://css-tricks.com/links-on-typography/",
           "publishedOn": "2021-05-07T13:54:01.000Z",
           "wordCount": 952,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Links on Typography"
         },
         {
@@ -399,8 +366,6 @@
           "link": "https://www.caniemail.com/",
           "publishedOn": "2021-05-07T02:38:56.000Z",
           "wordCount": 324,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Can I Email…"
         },
         {
@@ -409,9 +374,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1547,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 1523,
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
@@ -421,8 +384,6 @@
           "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
           "publishedOn": "2021-05-06T19:57:40.000Z",
           "wordCount": 2599,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "What Google’s New Page Experience Update Means for Images on Your Website"
         },
         {
@@ -432,8 +393,6 @@
           "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Custom State Pseudo-Classes in Chrome"
         },
         {
@@ -443,8 +402,6 @@
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
           "wordCount": 920,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Astro"
         },
         {
@@ -454,8 +411,6 @@
           "link": "https://infrequently.org/2021/04/progress-delayed/",
           "publishedOn": "2021-05-05T16:51:23.000Z",
           "wordCount": 6686,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Progress Delayed Is Progress Denied"
         },
         {
@@ -464,9 +419,7 @@
           "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
           "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3101,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3140,
           "title": "Is Vendor Prefixing Dead?"
         },
         {
@@ -475,9 +428,7 @@
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 676,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 758,
           "title": "16px or Larger Text Prevents iOS Form Zoom"
         },
         {
@@ -487,8 +438,6 @@
           "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
           "publishedOn": "2021-05-04T21:15:57.000Z",
           "wordCount": 450,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
         },
         {
@@ -498,48 +447,24 @@
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
           "wordCount": 970,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339742",
-          "author": "Chris Coyier",
-          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
-          "publishedOn": "2021-05-04T14:19:48.000Z",
-          "wordCount": 1276,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating Colorful, Smart Shadows"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339419",
-          "author": "Jay Hoffmann",
-          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-8-css/",
-          "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6672,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Chapter 8: CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339384",
-          "author": "Chris Coyier",
-          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
-          "publishedOn": "2021-05-03T14:35:07.000Z",
-          "wordCount": 908,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Swipey Image Grids"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
+          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "publishedOn": "2021-05-10T11:00:00.000Z",
+          "wordCount": 6310,
+          "title": "Get Started With React By Building A Whac-A-Mole Game"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "author": "hello@smashingmagazine.com (Valeriia Panina)",
@@ -547,8 +472,6 @@
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -558,8 +481,6 @@
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -569,8 +490,6 @@
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
           "wordCount": 2296,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -580,8 +499,6 @@
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Undoing Mistakes With Git"
         },
         {
@@ -591,8 +508,6 @@
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
           "publishedOn": "2021-05-04T05:00:00.000Z",
           "wordCount": 6993,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         },
         {
@@ -602,8 +517,6 @@
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
           "wordCount": 2141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -613,8 +526,6 @@
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -624,8 +535,6 @@
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
           "wordCount": 5325,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -635,8 +544,6 @@
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
           "wordCount": 2130,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -646,8 +553,6 @@
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
           "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
         },
         {
@@ -657,8 +562,6 @@
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         },
         {
@@ -668,8 +571,6 @@
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
           "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
@@ -679,8 +580,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         },
         {
@@ -690,8 +589,6 @@
           "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         },
         {
@@ -701,8 +598,6 @@
           "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         },
         {
@@ -712,8 +607,6 @@
           "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Making GraphQL Work In WordPress"
         },
         {
@@ -723,8 +616,6 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
         },
         {
@@ -734,8 +625,6 @@
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         },
         {
@@ -745,8 +634,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
           "publishedOn": "2021-04-15T11:00:00.000Z",
           "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Get Web Design Clients Fast (Part 2)"
         },
         {
@@ -756,8 +643,6 @@
           "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
           "publishedOn": "2021-04-15T10:30:00.000Z",
           "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
         },
         {
@@ -767,8 +652,6 @@
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
           "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Overflow Issues In CSS"
         },
         {
@@ -778,8 +661,6 @@
           "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
           "publishedOn": "2021-04-13T14:00:00.000Z",
           "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         },
         {
@@ -789,15 +670,24 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
           "wordCount": 3142,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60953e202cd0545b5e943a8b",
+          "author": "",
+          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
+          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
+          "publishedOn": "2021-05-10T17:04:31.000Z",
+          "wordCount": 1254,
+          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
+        },
         {
           "id": "609558382cd0545b5e943c6f",
           "author": "",
@@ -805,8 +695,6 @@
           "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
           "publishedOn": "2021-05-07T21:07:57.000Z",
           "wordCount": 1065,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         },
         {
@@ -816,8 +704,6 @@
           "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         },
         {
@@ -826,9 +712,7 @@
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
           "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1349,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
+          "wordCount": 1339,
           "title": "What Is &quot;Lifting State Up&quot; in React?"
         },
         {
@@ -838,8 +722,6 @@
           "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
           "publishedOn": "2021-05-06T16:26:08.000Z",
           "wordCount": 426,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
         },
         {
@@ -849,8 +731,6 @@
           "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         },
         {
@@ -860,8 +740,6 @@
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         },
         {
@@ -871,8 +749,6 @@
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
           "wordCount": 2241,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         },
         {
@@ -882,8 +758,6 @@
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         },
         {
@@ -892,24 +766,11 @@
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2501,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
+          "wordCount": 2491,
           "title": "How to Fetch Data in React from a GraphQL API"
-        },
-        {
-          "id": "608f553c8eb3fb07cf099da7",
-          "author": "",
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1164,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }

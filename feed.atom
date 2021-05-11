@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T01:04:04.872Z</id>
+    <id>urn:2021-05-11T01:03:09.944Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T01:04:04.872Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T01:03:09.944Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Topframe]]></title>
+        <id>https://css-tricks.com/?p=340020</id>
+        <link href="https://css-tricks.com/topframe/"/>
+        <updated>2021-05-10T21:14:15.000Z</updated>
+        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
+&#8230;
+The post Topframe appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
+        <id>https://css-tricks.com/?p=340208</id>
+        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
+        <updated>2021-05-10T21:13:23.000Z</updated>
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ace Your Coding Interview – Advice from a Senior Software Engineer]]></title>
+        <id>60953e202cd0545b5e943a8b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/"/>
+        <updated>2021-05-10T17:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
+        <id>https://css-tricks.com/?p=339203</id>
+        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
+        <updated>2021-05-10T14:13:12.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sands of MAUI: Issue #8]]></title>
+        <id>https://www.telerik.com/blogs/sands-of-maui-issue-8</id>
+        <link href="https://www.telerik.com/blogs/sands-of-maui-issue-8"/>
+        <updated>2021-05-10T12:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together the latest .NET MAUI content relevant to developers.
+A particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.
+Most .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Goi…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 10, 2021 (#3439)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33821</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/fJ3DAx2xzL0/"/>
+        <updated>2021-05-10T11:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Top Links ASP.NET Core 6 and Authentication Servers (Barry Dorrans) How to create the Tic-Tac-Toe game in Blazor WebAssembly in one hour! (David Grace) C# Async Yield Return: IAsyncEnumerable will change your life!!! (Brian Lagunas) Merge Conflict 253: Past, Present, &#38; Future of Ooui (James Montemagno &#38; Frank Kreuger) Intro of DevOps Dojo (Kan Tang) [&#8230;]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
+        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
+        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
+        <updated>2021-05-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3227]]></title>
+        <id>http://blog.cwa.me.uk/?p=7478</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/jactCA24YRs/"/>
+        <updated>2021-05-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Information ASP.NET Core 6 and Authentication Servers &#8211; Barry Dorrans State-Of-The-Art Natural Language Processing in .NET on the Edge &#8211; Ian Bebbington C# Async Yield Return: IAsyncEnumerable will change your life!!! &#8211; Brian Lagunas Top 10 Free New Testing Tools for Visual Studio 2019 &#8211; David Ramel Add a README to Your NuGet Package &#8211; [&#8230;]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
         <id>609558382cd0545b5e943c6f</id>
@@ -384,18 +474,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Colorful, Smart Shadows]]></title>
-        <id>https://css-tricks.com/?p=339742</id>
-        <link href="https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm"/>
-        <updated>2021-05-04T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;
-The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3 Ways to Improve the Mobile App Experience with Animation]]></title>
         <id>https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation</id>
         <link href="https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation"/>
@@ -440,18 +518,6 @@ Add movement to otherwise static elements, like bu…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chapter 8: CSS]]></title>
-        <id>https://css-tricks.com/?p=339419</id>
-        <link href="https://css-tricks.com/chapter-8-css/"/>
-        <updated>2021-05-03T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;
-The post Chapter 8: CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
         <id>6090187c8eb3fb07cf09a060</id>
         <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
@@ -459,28 +525,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Mistakes React Developers Make – And How to Fix Them]]></title>
-        <id>608f553c8eb3fb07cf099da7</id>
-        <link href="https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/"/>
-        <updated>2021-05-03T16:40:08.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swipey Image Grids]]></title>
-        <id>https://css-tricks.com/?p=339384</id>
-        <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
-        <updated>2021-05-03T14:35:07.000Z</updated>
-        <summary type="html"><![CDATA[I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;
-The post Swipey Image Grids appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -557,16 +601,6 @@ When building any React applications, a lot of thought goes into how t…]]></su
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Morning Brew #3222]]></title>
-        <id>http://blog.cwa.me.uk/?p=7466</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/7RQ3IwcYF98/"/>
-        <updated>2021-04-30T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Monday is a public holiday here in England, so as is usual the Morning Brew will be taking a break in publication, returning on Tuesday 4th May Information Nullable Reference types in C# &#8211; Best practices &#8211; Damir Arh C# Language Highlights: Init only setters &#8211; Cecil Phillip &#38; Jayme Singleton C# Yield Return: What [&#8230;]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
         </author>
     </entry>
     <entry>
@@ -672,18 +706,6 @@ Today, I&rsquo;d li…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Do Dev Warriors Hang Out?]]></title>
-        <id>https://www.telerik.com/blogs/where-do-dev-warriors-hang-out</id>
-        <link href="https://www.telerik.com/blogs/where-do-dev-warriors-hang-out"/>
-        <updated>2021-04-27T13:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Dev Warriors love to keep each other company, help each other and have fun together. The Telerik and Kendo UI Community Forums now make this even easier, and come with the added benefit of a brand-new ranking board that you can climb.
-Legend has it ... that developers go out on the internet and copy code they paste into&nbsp; their application, compile and hope for the best. To be honest, I&rsquo;m guilty of doing that at least once in my career, so I know for a fact this legend has some truth in it.
-I&rsqu…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
         <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
         <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
@@ -761,16 +783,6 @@ I&rsqu…]]></summary>
         <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – April 22, 2021 (#3428)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33794</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/JSWx8gmwKn0/"/>
-        <updated>2021-04-22T11:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Top Links What’s new in dotnet monitor (Sourabh Shirhatti) .NET Rocks! &#8211; Xamarin Forms to Maui with Gerald Versluis (Carl Franklin &#38; Richard Campbell) Develop, test, and deploy an Azure Function with Visual Studio (Microsoft Learn) The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux (Craig Loewen) WSLg [&#8230;]]]></summary>
-        <author>
-            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
