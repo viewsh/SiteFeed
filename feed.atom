@@ -1,10 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T01:05:01.313Z</id>
+    <id>urn:2021-05-13T01:09:33.573Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T01:05:01.313Z</updated>
+    <updated>2021-05-13T01:09:33.573Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
+        <id>5fde208ae6787e09839407c3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
+        <updated>2021-05-12T20:53:20.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
+        <id>609c215862ab9107fe5a9fa9</id>
+        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
+        <updated>2021-05-12T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Telerik UI for ASP.NET AJAX R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021"/>
+        <updated>2021-05-12T15:51:08.000Z</updated>
+        <summary type="html"><![CDATA[We&rsquo;re excited to share more about our updates to Telerik UI for ASP.NET AJAX in our most recent release.
+Hey developer folks, it&rsquo;s time for another release with new UI components, features and tooling for your ASP.NET AJAX applications. The Telerik R2 2021 release brings new Switch component, multiple Gantt enhancements such as Planned vs Actual, support for multiple templates for custom content rendering, online technical training available for both active trials and license holders and more.
+R…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Kendo UI for Angular with R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-kendo-ui-angular-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-kendo-ui-angular-r2-2021"/>
+        <updated>2021-05-12T15:50:58.000Z</updated>
+        <summary type="html"><![CDATA[The R2 2021 release of Kendo UI for Angular is here.
+With this release, we officially cross the 100 UI component threshold while introducing some highly requested features and UI components that are sure to please any Angular developer out there. Without further ado, let&rsquo;s jump straight into the latest and greatest in Angular with R2 2021.
+Kendo UI for Angular Turns 100!
+
+While we normally may measure how old something is by years, with a UI component library I prefer to measure by total number of com…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Kendo UI for jQuery with R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-kendo-ui-jquery-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-kendo-ui-jquery-r2-2021"/>
+        <updated>2021-05-12T15:46:58.000Z</updated>
+        <summary type="html"><![CDATA[The R2 2021 release of Kendo UI for jQuery is here. With this release comes the new TaskBoard, Skeleton and ActionSheet components, along with a ton of new features and improvements across existing components.
+It&rsquo;s May and you know what that means&mdash;another huge update from Kendo UI for jQuery. With R2 2021 we have added some pretty nifty new components, including the new TaskBoard component, and other highly requested features, so let&rsquo;s get right to it and cover what&rsquo;s new in the jQue…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WinForms R2 2021: New Callout Control, Color Variations for Office2019 Theme and Content Controls in RichTextEditor]]></title>
+        <id>https://www.telerik.com/blogs/winforms-r2-2021-new-callout-control-color-variations-office2019-theme-content-controls-richtexteditor</id>
+        <link href="https://www.telerik.com/blogs/winforms-r2-2021-new-callout-control-color-variations-office2019-theme-content-controls-richtexteditor"/>
+        <updated>2021-05-12T15:38:02.000Z</updated>
+        <summary type="html"><![CDATA[The second official release of 2021 is here for the Telerik UI for WinForms suite. Enjoy the variety of new controls and improvements coming in R2 2021.
+We are thrilled to announce the new Callout control, dark and gray versions of the Office2019 theme, content controls in RadRichTextEditor, Swiss QR barcode, Toast notifications for .NET 5 and much more. Since customer satisfaction has always been our top priority, 70+ customer-requested issues have also been addressed.
+Let&rsquo;s dive into the sea of new …]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Kendo UI for Vue with R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-kendo-ui-vue-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-kendo-ui-vue-r2-2021"/>
+        <updated>2021-05-12T15:35:47.000Z</updated>
+        <summary type="html"><![CDATA[The R2 2021 release of Kendo UI for Vue is here, bringing six new native UI components for Vue, including the Button, Floating Action Button and Upload components.
+The R2 2021 release of Kendo UI for Vue is here and with it comes a big list of new native UI components for Vue. Let&rsquo;s dive straight in to see what&rsquo;s new in Kendo UI for Vue with R2 2021.
+New Components
+New Component: Button
+
+Every application needs a button at some point&mdash;it&rsquo;s the main way we get users to perform an actio…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in KendoReact with R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-kendoreact-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-kendoreact-r2-2021"/>
+        <updated>2021-05-12T15:31:38.000Z</updated>
+        <summary type="html"><![CDATA[R2 2021 means: TypeScript and hook-equivalent support for our samples and demos, new components like Skeleton and Circular Gauge, and a slew of improvements across several existing components like the Data Grid and Gantt.
+May is here and that means another exciting release of KendoReact. R2 2021 brings new components like the Circular Gauge and some highly requested features across a huge set of our existing UI components. Let&rsquo;s not drag things out and just jump straight into what&rsquo;s new in Kendo…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telerik UI for WPF R2 2021 Brings Suggested Actions, New Barcodes, Dark Themes and More]]></title>
+        <id>https://www.telerik.com/blogs/telerik-ui-for-wpf-r2-2021-brings-suggested-actions-new-barcodes-dark-themes-and-more</id>
+        <link href="https://www.telerik.com/blogs/telerik-ui-for-wpf-r2-2021-brings-suggested-actions-new-barcodes-dark-themes-and-more"/>
+        <updated>2021-05-12T15:29:05.000Z</updated>
+        <summary type="html"><![CDATA[The second major release for this year is live today. Announcing R2 2021 of Telerik UI for WPF and Telerik UI for Silverlight. 
+R2 2021 is packed with cool stuff like: Suggested Actions and .NET 6 Preview 3 support, new Barcode implementation that brings few new Barcode types, official CardView, RichTextBox Shapes, many Document Processing features and lots more. On the top of all the features, we are adding dark variations for Material and VisualStudio2019 themes and introducing .NET 5 sample applications.…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Telerik UI for ASP.NET MVC R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-mvc-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-mvc-r2-2021"/>
+        <updated>2021-05-12T15:26:34.000Z</updated>
+        <summary type="html"><![CDATA[The Telerik R2 2021 release brings new sleek and feature-rich components, plus big new features to some of your favorite components.
+Hey developer folks, it&rsquo;s time for another massive release with new ASP.NET MVC UI components, features and tooling for your applications. 
+The Telerik R2 2021 release brings sleek and feature rich MVC components such as Task Board, Circular Gauge, Action Sheet and Skeleton , plus new features in the Grid, Editor, Drawer, TreeList, QR Code, Scheduler and Map components, …]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Telerik UI for ASP.NET Core R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021"/>
+        <updated>2021-05-12T15:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The Telerik R2 2021 release for UI for ASP.NET Core brings sleek and feature-rich components, plus new Grid, Editor features, Linux Installer, compatibility with .NET 6 latest preview and much more.
+Hey developer folks, it&rsquo;s time for another massive release with new UI components, features and tooling for your ASP.NET Core applications.
+The Telerik R2 2021 release brings sleek and feature-rich UI for ASP.NET Core Task Board, Circular Gauge, ActionSheet, Skeleton components plus new Grid, Editor featur…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telerik UI for WinUI R2 2021: Scheduler, ListView, Latest Project Reunion Support and More]]></title>
+        <id>https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more</id>
+        <link href="https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more"/>
+        <updated>2021-05-12T15:14:59.000Z</updated>
+        <summary type="html"><![CDATA[Our latest WinUI release is live now&mdash;announcing Telerik UI for WinUI R2 2021.
+Telerik UI for WinUI R2 2021 is fully packed with fresh new components and features for your WinUI apps. Some of the new goodies are Scheduler, ListView, Shadow, RangeSlider, Swiss QR Barcode as well as many Document Processing features. In addition to all that, we are introducing Project Reunion 0.5.6 support and new sample app&mdash;WinUI Theme Editor.
+Let&rsquo;s see what is new this release.
+Project Reunion 0.5.6 Support…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telerik UI for Xamarin R2 2021: New Badge and Shadow Controls, PdfViewer Features and More]]></title>
+        <id>https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more</id>
+        <link href="https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more"/>
+        <updated>2021-05-12T15:10:29.000Z</updated>
+        <summary type="html"><![CDATA[The second major release of 2021 for Telerik UI for Xamarin for is here, and it&rsquo;s packed with exciting new components and improvements for you to enjoy.
+We understand UI design is a highly important part of every mobile app, and our brand new Badge and Shadow components can help you achieve appealing designs. We&rsquo;ve also enhanced our Barcode control with the newest Swiss QR symbology and improved font support for the PdfViewer control. Read on for more details.
+Badge
+Badges are those small notifi…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Telerik UI for Blazor R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021"/>
+        <updated>2021-05-12T15:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Telerik UI for Blazor 2.24 release brings new PanelBar and Card components, Grid and TreeList updates, Blazor Reporting demo integration, Calendar templates, a new Visual Studio Code Converter Wizard and much more!
+Hey developer folks, it&rsquo;s Telerik R2 2021 release time and we&rsquo;re excited to announce that the Telerik UI for Blazor component suite reached a new milestone of 75+ truly native components.
+While we have continuously shipped new components and features in the period of January to May 20…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Telerik Reporting and Telerik Report Server with R2 2021]]></title>
+        <id>https://www.telerik.com/blogs/whats-new-telerik-reporting-telerik-report-server-r2-2021</id>
+        <link href="https://www.telerik.com/blogs/whats-new-telerik-reporting-telerik-report-server-r2-2021"/>
+        <updated>2021-05-12T15:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Telerik Reporting R2 2021 brings Blazor Report Designer, support for .NET 6 latest preview and more. Telerik Report Server R2 2021 comes with enhanced Web Report Designer.
+Mid-May is here, and the beautiful spring brings the next major version of Telerik&rsquo;s take on the Reporting components and tools.
+In addition to Blazor Report Designer and support for .NET 6 latest preview, the second release for the year also brings new enhancements in the Web Report Designer and Swiss Barcode support. Reports will …]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JustMock R2 2021: Performance Improvement, Debug Window Shows New Info, Support for .NET 6 Preview 3 and More]]></title>
+        <id>https://www.telerik.com/blogs/justmock-r2-2021-performance-improvement-debug-window-dotnet-6-preview-3-and-more</id>
+        <link href="https://www.telerik.com/blogs/justmock-r2-2021-performance-improvement-debug-window-dotnet-6-preview-3-and-more"/>
+        <updated>2021-05-12T15:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the R2 2021 release of our mocking framework, Telerik JustMock.
+The R2 2021 release of our mocking framework, Telerik JustMock, includes performance improvements, Debug Window showing information about the arguments used in the arrangement, support for .NET 6 Preview 3 and improvements in the Visual Studio extension. Let&rsquo;s look at the details.
+Enhanced Telerik JustMock Profiler for Even Faster Unit Test Execution
+With the previous JustMock release R1 2021, we shipped a configuration to spee…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Telerik and Kendo UI R2 2021 Release is Here!]]></title>
+        <id>https://www.telerik.com/blogs/telerik-kendo-ui-r2-2021-release-is-here</id>
+        <link href="https://www.telerik.com/blogs/telerik-kendo-ui-r2-2021-release-is-here"/>
+        <updated>2021-05-12T15:03:13.000Z</updated>
+        <summary type="html"><![CDATA[In R2 2021 we&rsquo;ve introduced Telerik UI for WinUI, the largest Blazor component suite, over 30 enhancements across .NET &amp; JS, and more. Learn more about our latest release.
+The Only .NET and JavaScript UI Toolbox You Will Ever Need
+We all know the old adage &ldquo;Don&rsquo;t judge a book by its cover.&rdquo; But when it comes to your application, visual first impressions are everything. It takes about 50 milliseconds (or 0.05 seconds) for users to form an opinion about your web, mobile or desktop …]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
+There are lots of &#8230;
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
+        <updated>2021-05-12T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 12, 2021 (#3441)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33825</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/HZQ2DujgUxo/"/>
+        <updated>2021-05-12T11:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Manage Windows Package Manager with Group Policy (Demitrius Nelon) Supporting VB.NET in .NET 5 &#124; On .NET (Richard Lander, Klaus Loffelmann &#38; Merrie McGaw) Visual Studio 2019 version 16.9 Release Notes &#8211; version 16.9.5 new release (Microsoft Docs) Hosting Uno Platform WebAssembly apps on Azure Static Web Apps (Gerard Gallant) Web &#38; Cloud [&#8230;]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Smashing Stories]]></title>
+        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
+        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
+        <updated>2021-05-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3229]]></title>
+        <id>http://blog.cwa.me.uk/?p=7482</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/EB8TKF1wzgM/"/>
+        <updated>2021-05-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Information Put a DPAD on that GC! &#8211; Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 &#8211; Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals &#8211; Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# &#8211; Part 2 &#8211; Andrew Lock Using C# Named Arguments to [&#8230;]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
         <id>6096aafe2cd0545b5e944430</id>
@@ -135,18 +393,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Millennials the Key to Designing Future-proof Apps?]]></title>
-        <id>https://www.telerik.com/blogs/are-millennials-key-to-designing-future-proof-apps</id>
-        <link href="https://www.telerik.com/blogs/are-millennials-key-to-designing-future-proof-apps"/>
-        <updated>2021-05-11T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Is there a way to future-proof an app so that it doesn&rsquo;t go stale so quickly or lose touch with what the target audience needs? Studying millennial values may be the key.
-Currently the largest living generation, millennials were born between 1980 and 2000 (more or less). That means that even the youngest of millennials are now contributing members of society. And the oldest are about to enter a period of major growth in terms of wealth and power.
-Knowing this, app designers should be focused on buildi…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – May 11, 2021 (#3440)]]></title>
         <id>https://www.alvinashcraft.com/?p=33823</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/Cr1cWwAYepE/"/>
@@ -213,16 +459,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Ace Your Coding Interview – Advice from a Senior Software Engineer]]></title>
-        <id>60953e202cd0545b5e943a8b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/"/>
-        <updated>2021-05-10T17:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
         <id>https://css-tricks.com/?p=339203</id>
         <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
@@ -232,18 +468,6 @@ The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diago
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sands of MAUI: Issue #8]]></title>
-        <id>https://www.telerik.com/blogs/sands-of-maui-issue-8</id>
-        <link href="https://www.telerik.com/blogs/sands-of-maui-issue-8"/>
-        <updated>2021-05-10T12:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together the latest .NET MAUI content relevant to developers.
-A particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.
-Most .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Goi…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -277,16 +501,6 @@ Most .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&md
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
-        <id>609558382cd0545b5e943c6f</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/"/>
-        <updated>2021-05-07T21:07:57.000Z</updated>
-        <summary type="html"><![CDATA[“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
         <id>https://css-tricks.com/?p=339781</id>
         <link href="https://css-tricks.com/is-css-a-programming-language/"/>
@@ -308,18 +522,6 @@ The post Links on Typography appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing “Can’t Bind to 'formGroup' Since it Isn’t a Known Property of 'form'” Error in Angular]]></title>
-        <id>https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular</id>
-        <link href="https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular"/>
-        <updated>2021-05-07T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Let&rsquo;s take a look at why the &ldquo;Can&rsquo;t bind to 'formGroup' since it isn&rsquo;t a known property of 'form'&rdquo; error shows up and how you can fix it and get your app working again.
-Almost every frontend web application relies on forms to receive input from users. Features like user logins, in-app messaging, payment processing and custom settings rely on data from the user that is usually delivered through an HTML form.
-Angular&mdash;like most frontend frameworks&mdash;comes with some helpf…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -403,17 +605,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Should You Handle Feedback from Various Stakeholders?]]></title>
-        <id>https://www.telerik.com/blogs/how-should-you-handle-feedback-various-stakeholders</id>
-        <link href="https://www.telerik.com/blogs/how-should-you-handle-feedback-various-stakeholders"/>
-        <updated>2021-05-06T12:23:03.000Z</updated>
-        <summary type="html"><![CDATA[There&rsquo;s no such thing as working in isolation for us. Beyond collaboration with coworkers, you&rsquo;ll eventually need to seek feedback from your team and your clients. This guide will show you five things you can do to make that easier on yourself and everyone involved.
-Depending on what kind of solution you&rsquo;re building, you could end up receiving feedback from a variety of sources. Other designers or developers. Project managers. Account managers. Consultants. Clients. Friends and family memb…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
         <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
@@ -421,18 +612,6 @@ Depending on what kind of solution you&rsquo;re building, you could end up recei
         <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand React Context API]]></title>
-        <id>https://www.telerik.com/blogs/understand-react-context-api</id>
-        <link href="https://www.telerik.com/blogs/understand-react-context-api"/>
-        <updated>2021-05-06T10:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how the Context API works in React and the best times to use it to avoid prop-drilling in your application.
-One of the best things about React is that we have a lot of different ways to solve specific problems. We have a few different form libraries, a bunch of CSS libraries and, for the most important part of React, we have a lot of different libraries specific to state data problems in React.
-Identifying when to use a certain library in our project is a skill that we develop through experience. Espe…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -459,18 +638,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
-        <id>https://css-tricks.com/?p=339954</id>
-        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
-        <updated>2021-05-05T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
-The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – May 5, 2021 (#3437)]]></title>
         <id>https://www.alvinashcraft.com/?p=33817</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/KIxVRsSxGJI/"/>
@@ -478,19 +645,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Top Links Getting Started with Azure Web PubSub Service (Abhijit Jana) Visual Studio Icon Visual Studio 2019 for Mac version 8.9 Release Notes (v8.9.8 Released) (Microsoft Docs) The Rise of Asynchronous Collaboration and What It Means for Development Teams (Drew Falkman &#38; Jay Garcia) How we use Web Components at GitHub (Kristján Oddsson) .NET Foundation [&#8230;]]]></summary>
         <author>
             <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Building a UI Component Library—Part 3: Building Robust Components]]></title>
-        <id>https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-3-components</id>
-        <link href="https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-3-components"/>
-        <updated>2021-05-05T10:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Let&rsquo;s discuss how to build robust UI components! We&rsquo;ll cover when to code components vs when to build on top of third-party libraries, a unit testing structure for your components and a few options for writing documentation for your components.
-
-This article is the third part in a series on how to build a complete UI component library for your organization. If you found this article first, you might want to read part 1 and part 2 before continuing.
-In part 1 of this series you learned how to pla…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -504,28 +658,6 @@ In part 1 of this series you learned how to pla…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Morning Brew #3224]]></title>
-        <id>http://blog.cwa.me.uk/?p=7471</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/zYWJfvKTycs/"/>
-        <updated>2021-05-05T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information A Simple Moving Average calculator: Creating a Simple Moving Average calculator in C# &#8211; Part 1 &#8211; Andrew Lock Practical SQL for Data Analysis &#8211; Haki Benita Evolving modular monoliths: 1. An architecture for .NET &#8211; Jon P Smith The future of gRPC in C# belongs to grpc-dotnet &#8211; Jan Tattermusch Getting Started with [&#8230;]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to JSON Web Tokens (JWT)]]></title>
-        <id>https://www.telerik.com/blogs/introduction-json-web-tokens-jwt</id>
-        <link href="https://www.telerik.com/blogs/introduction-json-web-tokens-jwt"/>
-        <updated>2021-05-04T14:45:02.000Z</updated>
-        <summary type="html"><![CDATA[JSON Web Tokens are a useful tool and a better way of implementing authorization in web applications, but what exactly are they and how do they work?
-What is a JWT? A JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
-A JWT is a means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is digitally signed using JSON Web Signatu…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -533,20 +665,6 @@ A JWT is a means of representing claims to be transferred between two parties. T
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Improve the Mobile App Experience with Animation]]></title>
-        <id>https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation</id>
-        <link href="https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation"/>
-        <updated>2021-05-04T13:57:04.000Z</updated>
-        <summary type="html"><![CDATA[When done right, animations can add a whole lot of value to the user experience&mdash;serving as their guide, cheerleader and entertainer. Here are some tips on how you can improve mobile app animations (and some things to stay away from).
-There are so many reasons to build animation&mdash;no matter how subtle or overt&mdash;into a mobile app. It can:
-Make transition screens more tolerable to sit through
-Bring life to a logo, mascot or other branded element
-Add movement to otherwise static elements, like bu…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -570,17 +688,6 @@ Add movement to otherwise static elements, like bu…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular Basics: Using Pipes in Angular]]></title>
-        <id>https://www.telerik.com/blogs/angular-basics-using-pipes-angular</id>
-        <link href="https://www.telerik.com/blogs/angular-basics-using-pipes-angular"/>
-        <updated>2021-05-03T13:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Angular offers a set of pipe options to transform the way your data is displayed, allowing you to control just how it looks. Let&rsquo;s examine some of these options.
-Even if you&rsquo;re just getting started in Angular, you already know that most of the things we do while building web applications revolve around data&mdash;getting data, traversing data, manipulating data and finally presenting data. In this post, we will look at one of the ways Angular has made manipulating and presenting data easy for us…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – May 3, 2021 (#3435)]]></title>
         <id>https://www.alvinashcraft.com/?p=33813</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/_p9OizUJxHI/"/>
@@ -591,18 +698,6 @@ Even if you&rsquo;re just getting started in Angular, you already know that most
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sands of MAUI: Issue #7]]></title>
-        <id>https://www.telerik.com/blogs/sands-of-maui-issue-7</id>
-        <link href="https://www.telerik.com/blogs/sands-of-maui-issue-7"/>
-        <updated>2021-05-03T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Sands of MAUI&mdash;newsletter-style issues dedicated to bringing together latest .NET MAUI content relevant to developers.
-A particle of sand&mdash;tiny and innocuous. But put a lot of sand particles together and we have something big&mdash;a force to reckon with. It is the smallest grains of sand that often add up to form massive beaches, dunes and deserts.
-Most .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&mdash;the evolution of Xamarin.Forms with .NET 6. Going f…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
         <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
         <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
@@ -610,19 +705,6 @@ Most .NET developers are looking forward to .NET Multi-platform App UI (MAUI)&md
         <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Techniques for Optimizing Performance on a React App]]></title>
-        <id>https://www.telerik.com/blogs/5-techniques-optimizing-performance-react-app</id>
-        <link href="https://www.telerik.com/blogs/5-techniques-optimizing-performance-react-app"/>
-        <updated>2021-04-30T12:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Before shipping a React app, the least any team or developer needs to do is to check the performance and look to optimize the app for the end user&rsquo;s experience.
-Optimizing performance is an important technique to consider before shipping a React application. You can explore different ways of optimizing a React application that can enable a significant increase in speed and overall user experience for your applications.
-Introduction
-When building any React applications, a lot of thought goes into how t…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -646,20 +728,6 @@ When building any React applications, a lot of thought goes into how t…]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular Basics: Style Binding in Angular with ngStyle]]></title>
-        <id>https://www.telerik.com/blogs/angular-basics-style-binding-angular-ngstyle</id>
-        <link href="https://www.telerik.com/blogs/angular-basics-style-binding-angular-ngstyle"/>
-        <updated>2021-04-29T15:47:08.000Z</updated>
-        <summary type="html"><![CDATA[In this post we look at style binding and also at the ngStyle directive and how it helps solve for the limitations that style bindings have had in the past. These are some handy tricks when you&rsquo;re getting started in Angular!
-Angular
-Angular, Google&rsquo;s JavaScript (TypeScript) framework for building web applications, mobile or desktop, has over 72,000 stars on GitHub. It&rsquo;s maintained by the Angular team at Google and a host of community members and organisations.
-Before You Start
-To be able t…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
         <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
         <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
@@ -670,18 +738,6 @@ To be able t…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Right Way to Adopt New Technology]]></title>
-        <id>https://www.telerik.com/blogs/right-way-to-adopt-new-technology</id>
-        <link href="https://www.telerik.com/blogs/right-way-to-adopt-new-technology"/>
-        <updated>2021-04-29T12:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Why are even experienced software engineers drawn to shiny new technology like moths to a flame? A personal account of learning the hard way: You have to balance your curiosity with your business&rsquo;s goals.
-In 2015, I was leading a team of engineers building a web application for college students. Because deals with new schools were closed in May, we had three months to get ready for the surge of traffic every August.
-We only had a few thousand users during our first year, so nobody was worried about sc…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – April 29, 2021 (#3433)]]></title>
         <id>https://www.alvinashcraft.com/?p=33808</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/"/>
@@ -689,29 +745,6 @@ We only had a few thousand users during our first year, so nobody was worried ab
         <summary type="html"><![CDATA[Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows &#38; Linux [&#8230;]]]></summary>
         <author>
             <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still Tender From a Rough Update? Follow My Simple Vue 3 Recipe!]]></title>
-        <id>https://www.telerik.com/blogs/still-tender-from-rough-update-follow-my-simple-vue-3-recipe</id>
-        <link href="https://www.telerik.com/blogs/still-tender-from-rough-update-follow-my-simple-vue-3-recipe"/>
-        <updated>2021-04-28T16:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Why postpone an update or do a migration the hard way? Vue 3 is ready for production, and I&rsquo;ll show you that migrating is as easy as preparing a simple dinner.
-If you are still asking yourselves, &ldquo;Why bother with Vue 3?&rdquo; let me tell you a secret&mdash;Vue 3 was one of the most awaited releases of 2020, and through 2021 most of the popular Vue libraries have plans to migrate to it, too. It combines lots of new features, like a new simple setup introduced by the Composition API, brilliant fu…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Testing—Strategy and Tools]]></title>
-        <id>https://www.telerik.com/blogs/api-testing</id>
-        <link href="https://www.telerik.com/blogs/api-testing"/>
-        <updated>2021-04-28T13:51:01.000Z</updated>
-        <summary type="html"><![CDATA[If you&rsquo;re not careful, unit testing your Web Service API can take over all your testing. Here&rsquo;s a unit testing strategy that shows what it means to &ldquo;unit test&rdquo; a Web Service API.
-Your API testing can quickly grow out of control if you don&rsquo;t distinguish between unit testing your API and integration/end-to-end testing. If you&rsquo;re not careful, API testing will start taking over tests that don&rsquo;t belong to your API and create duplication among your tests.
-Rather than just…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -770,16 +803,6 @@ Rather than just…]]></summary>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/wL0TdixgMmE/"/>
         <updated>2021-04-26T10:56:53.000Z</updated>
         <summary type="html"><![CDATA[Top Links How to run Linux GUI apps on Windows 10 with WSL and WSLg and Can you really develop with Linux GUI Apps on Windows 10 with WSLg? How about PyCharm? (Scott Hanselman) A Special Group Presentation on Blazor Architecture &#8211; Azure DevOps Podcast Episode 138 (Jeffrey Palermo) How to run a WinUI 3 [&#8230;]]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – April 23, 2021 (#3429)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33799</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/NfYB2bv8lAA/"/>
-        <updated>2021-04-23T11:07:34.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Windows Package Manager v0.3 Preview (Demitrius Nelon) Personalized content at a glance: Introducing news and interests on the Windows 10 taskbar (Steve Clarke) Getting Started with Jupyter Notebooks in VS Code &#124; Visual Studio Toolbox (Leslie Richardson &#38; Claudia Regio) Conversation about crossgen2 (Richard Lander) Let&#8217;s Learn .NET &#8211; C# &#8211; Free Live [&#8230;]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
