@@ -6,12 +6,21 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33827",
+          "author": "Alvin A.",
+          "description": "Top Links Angular v12 is now available (Mark Techson) Windows Community Toolkit &#8211; Release v7.0.2 (Michael Hawker) AngularDart, Flutter, and the web: Spring update (Tim Sneath) My Favorite C# Features &#8211; Part 4: Project Structure (Jeffrey T. Fritz) Introducing the brand-new MvvmGen Library – Writing ViewModels for your XAML Applications Has Never Been More Productive [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/L-zz-SCd6HU/",
+          "publishedOn": "2021-05-13T11:14:49.000Z",
+          "wordCount": 1167,
+          "title": "Dew Drop – May 13, 2021 (#3442)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33825",
           "author": "Alvin A.",
           "description": "Top Links Manage Windows Package Manager with Group Policy (Demitrius Nelon) Supporting VB.NET in .NET 5 &#124; On .NET (Richard Lander, Klaus Loffelmann &#38; Merrie McGaw) Visual Studio 2019 version 16.9 Release Notes &#8211; version 16.9.5 new release (Microsoft Docs) Hosting Uno Platform WebAssembly apps on Azure Static Web Apps (Gerard Gallant) Web &#38; Cloud [&#8230;]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/HZQ2DujgUxo/",
           "publishedOn": "2021-05-12T11:07:19.000Z",
-          "wordCount": 1140,
+          "wordCount": 1146,
           "title": "Dew Drop – May 12, 2021 (#3441)"
         },
         {
@@ -103,15 +112,6 @@
           "publishedOn": "2021-04-27T11:06:02.000Z",
           "wordCount": 967,
           "title": "Dew Drop – April 27, 2021 (#3431)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33801",
-          "author": "Alvin A.",
-          "description": "Top Links How to run Linux GUI apps on Windows 10 with WSL and WSLg and Can you really develop with Linux GUI Apps on Windows 10 with WSLg? How about PyCharm? (Scott Hanselman) A Special Group Presentation on Blazor Architecture &#8211; Azure DevOps Podcast Episode 138 (Jeffrey Palermo) How to run a WinUI 3 [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/wL0TdixgMmE/",
-          "publishedOn": "2021-04-26T10:56:53.000Z",
-          "wordCount": 1285,
-          "title": "Dew Drop – April 26, 2021 (#3430)"
         }
       ]
     },
@@ -121,12 +121,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7484",
+          "author": "Chris Alcock",
+          "description": "Software Visual Studio 2019 version 16.9 Release Notes &#8211; Visual Studio Team Information My Favorite C# Features &#8211; Part 4: Project Structure &#8211; Jeffrey T. Fritz ASP.NET Core in .NET 6 &#8211; Part 08 &#8211; CSS isolation for MVC Views and Razor Pages &#8211; Jürgen Gutsch Develop production-scale modern web apps quickly with Azure Static [&#8230;]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uz1HlD4Dfok/",
+          "publishedOn": "2021-05-13T06:00:00.000Z",
+          "wordCount": 622,
+          "title": "The Morning Brew #3230"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7482",
           "author": "Chris Alcock",
           "description": "Information Put a DPAD on that GC! &#8211; Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 &#8211; Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals &#8211; Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# &#8211; Part 2 &#8211; Andrew Lock Using C# Named Arguments to [&#8230;]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/EB8TKF1wzgM/",
           "publishedOn": "2021-05-12T06:00:00.000Z",
-          "wordCount": 647,
+          "wordCount": 652,
           "title": "The Morning Brew #3229"
         },
         {
@@ -155,15 +164,6 @@
           "publishedOn": "2021-05-07T06:00:00.000Z",
           "wordCount": 601,
           "title": "The Morning Brew #3226"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7473",
-          "author": "Chris Alcock",
-          "description": "Information Professional Open Source: Maintaining API, Binary, and Wire Compatibility &#8211; Aaron Stannard Building a supply chain attack with .NET, NuGet, DNS, source generators, and more! &#8211; Maarten Balliauw .NET Foundation Survey &#8211; .NET Usage &#8211; .Net Foundation A Guide To Undoing Mistakes With Git &#8211; Tobias Günther Ultimate Guide to Building a UI Component [&#8230;]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/FH2LCeqUPiw/",
-          "publishedOn": "2021-05-06T06:00:00.000Z",
-          "wordCount": 605,
-          "title": "The Morning Brew #3225"
         }
       ]
     },
@@ -172,6 +172,15 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/new-features-angular-ivy-language-service",
+          "author": null,
+          "description": "Take a look at what Angular has officially released with Ivy Language Service, from type checking and error detection to platform consistency and codebase diagnosis.\nYou might have read our introduction to Angular Language Service post, where we gave you a look at experimental Ivy and what it&rsquo;s promising. Now Angular has officially released Ivy Language Service, and we are going to take a closer look at the incredible features it offers.\nWhat Is Ivy Language Service?\nWhenever you use an integrated dev…",
+          "link": "https://www.telerik.com/blogs/new-features-angular-ivy-language-service",
+          "publishedOn": "2021-05-13T13:55:03.000Z",
+          "wordCount": 1987,
+          "title": "New Features of Angular’s Ivy Language Service"
+        },
         {
           "id": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021",
           "author": null,
@@ -277,7 +286,7 @@
           "description": "Telerik UI for Blazor 2.24 release brings new PanelBar and Card components, Grid and TreeList updates, Blazor Reporting demo integration, Calendar templates, a new Visual Studio Code Converter Wizard and much more!\nHey developer folks, it&rsquo;s Telerik R2 2021 release time and we&rsquo;re excited to announce that the Telerik UI for Blazor component suite reached a new milestone of 75+ truly native components.\nWhile we have continuously shipped new components and features in the period of January to May 20…",
           "link": "https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021",
           "publishedOn": "2021-05-12T15:09:26.000Z",
-          "wordCount": 2990,
+          "wordCount": 2991,
           "title": "What’s New in Telerik UI for Blazor R2 2021"
         },
         {
@@ -297,15 +306,6 @@
           "publishedOn": "2021-05-12T15:04:43.000Z",
           "wordCount": 1648,
           "title": "JustMock R2 2021: Performance Improvement, Debug Window Shows New Info, Support for .NET 6 Preview 3 and More"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/telerik-kendo-ui-r2-2021-release-is-here",
-          "author": null,
-          "description": "In R2 2021 we&rsquo;ve introduced Telerik UI for WinUI, the largest Blazor component suite, over 30 enhancements across .NET &amp; JS, and more. Learn more about our latest release.\nThe Only .NET and JavaScript UI Toolbox You Will Ever Need\nWe all know the old adage &ldquo;Don&rsquo;t judge a book by its cover.&rdquo; But when it comes to your application, visual first impressions are everything. It takes about 50 milliseconds (or 0.05 seconds) for users to form an opinion about your web, mobile or desktop …",
-          "link": "https://www.telerik.com/blogs/telerik-kendo-ui-r2-2021-release-is-here",
-          "publishedOn": "2021-05-12T15:03:13.000Z",
-          "wordCount": 3117,
-          "title": "The Telerik and Kendo UI R2 2021 Release is Here!"
         }
       ]
     },
@@ -315,12 +315,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340490",
+          "author": "Chris Coyier",
+          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
+          "publishedOn": "2021-05-13T23:22:45.000Z",
+          "wordCount": 1594,
+          "title": "DevTools for CSS layouts 2021 edition"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340573",
+          "author": "Chris Coyier",
+          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
+          "publishedOn": "2021-05-13T22:55:35.000Z",
+          "wordCount": 557,
+          "title": "2021 Design Systems (Survey/Courses)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340036",
+          "author": "Temani Afif",
+          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
+          "publishedOn": "2021-05-13T14:24:42.000Z",
+          "wordCount": 2717,
+          "title": "Advanced CSS Animation Using cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340118",
+          "author": "Chris Coyier",
+          "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
+          "publishedOn": "2021-05-13T14:24:35.000Z",
+          "wordCount": 925,
+          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
+        },
+        {
           "id": "https://css-tricks.com/?p=339960",
           "author": "Sandrina Pereira",
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2583,
+          "wordCount": 2700,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -356,7 +392,7 @@
           "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1369,
+          "wordCount": 1441,
           "title": "Distributed Persistent Rendering (DPR)"
         },
         {
@@ -374,7 +410,7 @@
           "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2954,
+          "wordCount": 2950,
           "title": "Migrating from Parcel to Snowpack"
         },
         {
@@ -383,7 +419,7 @@
           "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
           "publishedOn": "2021-05-10T14:13:12.000Z",
-          "wordCount": 3117,
+          "wordCount": 3158,
           "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
         },
         {
@@ -392,7 +428,7 @@
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 3601,
+          "wordCount": 3693,
           "title": "Is CSS a Programming Language?"
         },
         {
@@ -410,44 +446,8 @@
           "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.caniemail.com/",
           "publishedOn": "2021-05-07T02:38:56.000Z",
-          "wordCount": 324,
+          "wordCount": 326,
           "title": "Can I Email…"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340015",
-          "author": "Chris Coyier",
-          "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
-          "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1523,
-          "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339936",
-          "author": "Geoff Graham",
-          "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
-          "publishedOn": "2021-05-06T19:57:40.000Z",
-          "wordCount": 2599,
-          "title": "What Google’s New Page Experience Update Means for Images on Your Website"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339586",
-          "author": "Šime Vidas",
-          "description": "There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;\nThe post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
-          "publishedOn": "2021-05-06T14:28:53.000Z",
-          "wordCount": 1166,
-          "title": "Custom State Pseudo-Classes in Chrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339563",
-          "author": "Chris Coyier",
-          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/astro/",
-          "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 1029,
-          "title": "Astro"
         }
       ]
     },
@@ -680,24 +680,6 @@
           "publishedOn": "2021-04-15T10:30:00.000Z",
           "wordCount": 967,
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
-          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1917,
-          "title": "Overflow Issues In CSS"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "author": "hello@smashingmagazine.com (Deven Rathore)",
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3154,
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         }
       ]
     },
@@ -707,13 +689,49 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "609414f32cd0545b5e943526",
+          "author": "",
+          "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
+          "publishedOn": "2021-05-13T21:19:40.000Z",
+          "wordCount": 1733,
+          "title": "How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send"
+        },
+        {
+          "id": "609952396008950828b3ea8d",
+          "author": "",
+          "description": "Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should",
+          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
+          "publishedOn": "2021-05-13T19:27:45.000Z",
+          "wordCount": 1826,
+          "title": "What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects"
+        },
+        {
+          "id": "609bcc6a62ab9107fe5a9f08",
+          "author": "",
+          "description": "Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/",
+          "publishedOn": "2021-05-13T18:17:49.000Z",
+          "wordCount": 1775,
+          "title": "React Tutorial – How to Work with Multiple Checkboxes"
+        },
+        {
+          "id": "609ccb0d62ab9107fe5aa0ce",
+          "author": "",
+          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before",
+          "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
+          "publishedOn": "2021-05-13T16:25:03.000Z",
+          "wordCount": 4002,
+          "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
+        },
+        {
           "id": "5fde208ae6787e09839407c3",
           "author": "",
-          "description": "In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single",
+          "description": "In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a",
           "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
           "publishedOn": "2021-05-12T20:53:20.000Z",
-          "wordCount": 25100,
-          "title": "How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify"
+          "wordCount": 25080,
+          "title": "How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify"
         },
         {
           "id": "609c215862ab9107fe5a9fa9",
@@ -759,42 +777,6 @@
           "publishedOn": "2021-05-11T17:29:13.000Z",
           "wordCount": 1373,
           "title": "How to Get a Job by Building Relationships – Advice from a Senior Software Engineer"
-        },
-        {
-          "id": "60856789dd38b9088c2bf4ff",
-          "author": "",
-          "description": "Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash",
-          "link": "https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/",
-          "publishedOn": "2021-05-11T15:24:00.000Z",
-          "wordCount": 2519,
-          "title": "JavaScript Hash Table – Associative Array Hashing in JS"
-        },
-        {
-          "id": "60977de12cd0545b5e944661",
-          "author": "",
-          "description": "In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,",
-          "link": "https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/",
-          "publishedOn": "2021-05-11T15:22:27.000Z",
-          "wordCount": 1680,
-          "title": "Why You Should Start Using Chakra UI"
-        },
-        {
-          "id": "60998ee76008950828b3ed10",
-          "author": "",
-          "description": "Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this",
-          "link": "https://www.freecodecamp.org/news/how-to-design-good-typography/",
-          "publishedOn": "2021-05-11T12:56:14.000Z",
-          "wordCount": 413,
-          "title": "How to Design Good Typography - Free Treehouse Course"
-        },
-        {
-          "id": "605cf4879618b008528a77e2",
-          "author": "",
-          "description": "\"It's not about what you know, it's about whom you know.\" \"70-80% of jobs are found via someone's network.\" Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities",
-          "link": "https://www.freecodecamp.org/news/networking-for-aspiring-developers/",
-          "publishedOn": "2021-05-11T01:38:36.000Z",
-          "wordCount": 3119,
-          "title": "How to Get Your First Developer Job through Intelligent, Genuine Networking"
         }
       ]
     }
