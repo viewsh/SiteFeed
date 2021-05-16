@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T01:08:36.728Z</id>
+    <id>urn:2021-05-16T01:15:42.716Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T01:08:36.728Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T01:15:42.716Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
         <id>https://css-tricks.com/?p=340136</id>
         <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
         <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;
+        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
 The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -54,7 +54,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-14T14:14:34.000Z</updated>
         <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
 $variable: 'test' !default;
-To the Sass compiler, this line &#8230;
+To the Sass compiler, this line …
 The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -66,7 +66,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340403</id>
         <link href="https://css-tricks.com/html-boilerplates/"/>
         <updated>2021-05-14T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
 The post HTML Boilerplates appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -78,7 +78,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33829</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/xK_-crDCPt4/"/>
         <updated>2021-05-14T11:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Project Reunion &#124; Visual Studio Toolbox (Robert Green &#38; Andrew Clinick) Develop production-scale modern web apps quickly with Azure Static Web Apps (Daria Grigoriu) Surface Duo: Foldable SlidingPaneLayout (Cesar Valiente) The Pylance language server has reached stable! (Savannah Ostrowski) Project Reunion 0.5.7 is now available (Andrew Leader) Web &#38; Cloud Development Using The [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Project Reunion | Visual Studio Toolbox (Robert Green & Andrew Clinick) Develop production-scale modern web apps quickly with Azure Static Web Apps (Daria Grigoriu) Surface Duo: Foldable SlidingPaneLayout (Cesar Valiente) The Pylance language server has reached stable! (Savannah Ostrowski) Project Reunion 0.5.7 is now available (Andrew Leader) Web & Cloud Development Using The […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -98,7 +98,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>http://blog.cwa.me.uk/?p=7486</id>
         <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/tFKDLZLtOIo/"/>
         <updated>2021-05-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software Announcing TypeScript 4.3 RC &#8211; Daniel Rosenwasser .NET Framework May 2021 Security and Quality Rollup Updates &#8211; Tara Overfield Information Problem Details for Better REST HTTP API Errors &#8211; Derek Comartin Project Reunion &#8211; Robert Green &#38; Andrew Clinick Streaming JSON Objects (NDJSON) With HttpClient &#8211; Tomasz Pęczek Building CorLife’s “Lockdown Countdown” website using [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Software Announcing TypeScript 4.3 RC – Daniel Rosenwasser .NET Framework May 2021 Security and Quality Rollup Updates – Tara Overfield Information Problem Details for Better REST HTTP API Errors – Derek Comartin Project Reunion – Robert Green & Andrew Clinick Streaming JSON Objects (NDJSON) With HttpClient – Tomasz Pęczek Building CorLife’s “Lockdown Countdown” website using […]]]></summary>
         <author>
             <name>Chris Alcock</name>
         </author>
@@ -109,8 +109,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
         <updated>2021-05-13T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
-&#8230;
+Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
+…
 The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -122,7 +122,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340573</id>
         <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
         <updated>2021-05-13T22:55:35.000Z</updated>
-        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …
 The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -164,7 +164,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>609ccb0d62ab9107fe5aa0ce</id>
         <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
         <updated>2021-05-13T16:25:03.000Z</updated>
-        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
+        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to]]></summary>
         <author>
             <name/>
         </author>
@@ -174,7 +174,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340036</id>
         <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
         <updated>2021-05-13T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …
 The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -186,7 +186,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340118</id>
         <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
         <updated>2021-05-13T14:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …
 The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -199,9 +199,9 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.telerik.com/blogs/new-features-angular-ivy-language-service"/>
         <updated>2021-05-13T13:55:03.000Z</updated>
         <summary type="html"><![CDATA[Take a look at what Angular has officially released with Ivy Language Service, from type checking and error detection to platform consistency and codebase diagnosis.
-You might have read our introduction to Angular Language Service post, where we gave you a look at experimental Ivy and what it&rsquo;s promising. Now Angular has officially released Ivy Language Service, and we are going to take a closer look at the incredible features it offers.
+You might have read our introduction to Angular Language Service post, where we gave you a look at experimental Ivy and what it’s promising. Now Angular has officially released Ivy Language Service, and we are going to take a closer look at the incredible features it offers.
 What Is Ivy Language Service?
-Whenever you use an integrated dev…]]></summary>
+Whenever you use an integrated developme…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -211,7 +211,7 @@ Whenever you use an integrated dev…]]></summary>
         <id>https://www.alvinashcraft.com/?p=33827</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/L-zz-SCd6HU/"/>
         <updated>2021-05-13T11:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Angular v12 is now available (Mark Techson) Windows Community Toolkit &#8211; Release v7.0.2 (Michael Hawker) AngularDart, Flutter, and the web: Spring update (Tim Sneath) My Favorite C# Features &#8211; Part 4: Project Structure (Jeffrey T. Fritz) Introducing the brand-new MvvmGen Library – Writing ViewModels for your XAML Applications Has Never Been More Productive [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Angular v12 is now available (Mark Techson) Windows Community Toolkit – Release v7.0.2 (Michael Hawker) AngularDart, Flutter, and the web: Spring update (Tim Sneath) My Favorite C# Features – Part 4: Project Structure (Jeffrey T. Fritz) Introducing the brand-new MvvmGen Library – Writing ViewModels for your XAML Applications Has Never Been More Productive […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -221,7 +221,7 @@ Whenever you use an integrated dev…]]></summary>
         <id>http://blog.cwa.me.uk/?p=7484</id>
         <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/uz1HlD4Dfok/"/>
         <updated>2021-05-13T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software Visual Studio 2019 version 16.9 Release Notes &#8211; Visual Studio Team Information My Favorite C# Features &#8211; Part 4: Project Structure &#8211; Jeffrey T. Fritz ASP.NET Core in .NET 6 &#8211; Part 08 &#8211; CSS isolation for MVC Views and Razor Pages &#8211; Jürgen Gutsch Develop production-scale modern web apps quickly with Azure Static [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Software Visual Studio 2019 version 16.9 Release Notes – Visual Studio Team Information My Favorite C# Features – Part 4: Project Structure – Jeffrey T. Fritz ASP.NET Core in .NET 6 – Part 08 – CSS isolation for MVC Views and Razor Pages – Jürgen Gutsch Develop production-scale modern web apps quickly with Azure Static […]]]></summary>
         <author>
             <name>Chris Alcock</name>
         </author>
@@ -251,9 +251,9 @@ Whenever you use an integrated dev…]]></summary>
         <id>https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021</id>
         <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021"/>
         <updated>2021-05-12T15:51:08.000Z</updated>
-        <summary type="html"><![CDATA[We&rsquo;re excited to share more about our updates to Telerik UI for ASP.NET AJAX in our most recent release.
-Hey developer folks, it&rsquo;s time for another release with new UI components, features and tooling for your ASP.NET AJAX applications. The Telerik R2 2021 release brings new Switch component, multiple Gantt enhancements such as Planned vs Actual, support for multiple templates for custom content rendering, online technical training available for both active trials and license holders and more.
-R…]]></summary>
+        <summary type="html"><![CDATA[We’re excited to share more about our updates to Telerik UI for ASP.NET AJAX in our most recent release.
+Hey developer folks, it’s time for another release with new UI components, features and tooling for your ASP.NET AJAX applications. The Telerik R2 2021 release brings new Switch component, multiple Gantt enhancements such as Planned vs Actual, support for multiple templates for custom content rendering, online technical training available for both active trials and license holders and more.
+Read the dedi…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -264,10 +264,10 @@ R…]]></summary>
         <link href="https://www.telerik.com/blogs/whats-new-kendo-ui-angular-r2-2021"/>
         <updated>2021-05-12T15:50:58.000Z</updated>
         <summary type="html"><![CDATA[The R2 2021 release of Kendo UI for Angular is here.
-With this release, we officially cross the 100 UI component threshold while introducing some highly requested features and UI components that are sure to please any Angular developer out there. Without further ado, let&rsquo;s jump straight into the latest and greatest in Angular with R2 2021.
+With this release, we officially cross the 100 UI component threshold while introducing some highly requested features and UI components that are sure to please any Angular developer out there. Without further ado, let’s jump straight into the latest and greatest in Angular with R2 2021.
 Kendo UI for Angular Turns 100!
 
-While we normally may measure how old something is by years, with a UI component library I prefer to measure by total number of com…]]></summary>
+While we normally may measure how old something is by years, with a UI component library I prefer to measure by total number of component…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -278,7 +278,7 @@ While we normally may measure how old something is by years, with a UI component
         <link href="https://www.telerik.com/blogs/whats-new-kendo-ui-jquery-r2-2021"/>
         <updated>2021-05-12T15:46:58.000Z</updated>
         <summary type="html"><![CDATA[The R2 2021 release of Kendo UI for jQuery is here. With this release comes the new TaskBoard, Skeleton and ActionSheet components, along with a ton of new features and improvements across existing components.
-It&rsquo;s May and you know what that means&mdash;another huge update from Kendo UI for jQuery. With R2 2021 we have added some pretty nifty new components, including the new TaskBoard component, and other highly requested features, so let&rsquo;s get right to it and cover what&rsquo;s new in the jQue…]]></summary>
+It’s May and you know what that means—another huge update from Kendo UI for jQuery. With R2 2021 we have added some pretty nifty new components, including the new TaskBoard component, and other highly requested features, so let’s get right to it and cover what’s new in the jQuery UI components with R2…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -290,7 +290,7 @@ It&rsquo;s May and you know what that means&mdash;another huge update from Kendo
         <updated>2021-05-12T15:38:02.000Z</updated>
         <summary type="html"><![CDATA[The second official release of 2021 is here for the Telerik UI for WinForms suite. Enjoy the variety of new controls and improvements coming in R2 2021.
 We are thrilled to announce the new Callout control, dark and gray versions of the Office2019 theme, content controls in RadRichTextEditor, Swiss QR barcode, Toast notifications for .NET 5 and much more. Since customer satisfaction has always been our top priority, 70+ customer-requested issues have also been addressed.
-Let&rsquo;s dive into the sea of new …]]></summary>
+Let’s dive into the sea of new featur…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -301,11 +301,11 @@ Let&rsquo;s dive into the sea of new …]]></summary>
         <link href="https://www.telerik.com/blogs/whats-new-kendo-ui-vue-r2-2021"/>
         <updated>2021-05-12T15:35:47.000Z</updated>
         <summary type="html"><![CDATA[The R2 2021 release of Kendo UI for Vue is here, bringing six new native UI components for Vue, including the Button, Floating Action Button and Upload components.
-The R2 2021 release of Kendo UI for Vue is here and with it comes a big list of new native UI components for Vue. Let&rsquo;s dive straight in to see what&rsquo;s new in Kendo UI for Vue with R2 2021.
+The R2 2021 release of Kendo UI for Vue is here and with it comes a big list of new native UI components for Vue. Let’s dive straight in to see what’s new in Kendo UI for Vue with R2 2021.
 New Components
 New Component: Button
 
-Every application needs a button at some point&mdash;it&rsquo;s the main way we get users to perform an actio…]]></summary>
+Every application needs a button at some point—it’s the main way we get users to perform an action in our Vue application…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -316,7 +316,7 @@ Every application needs a button at some point&mdash;it&rsquo;s the main way we 
         <link href="https://www.telerik.com/blogs/whats-new-kendoreact-r2-2021"/>
         <updated>2021-05-12T15:31:38.000Z</updated>
         <summary type="html"><![CDATA[R2 2021 means: TypeScript and hook-equivalent support for our samples and demos, new components like Skeleton and Circular Gauge, and a slew of improvements across several existing components like the Data Grid and Gantt.
-May is here and that means another exciting release of KendoReact. R2 2021 brings new components like the Circular Gauge and some highly requested features across a huge set of our existing UI components. Let&rsquo;s not drag things out and just jump straight into what&rsquo;s new in Kendo…]]></summary>
+May is here and that means another exciting release of KendoReact. R2 2021 brings new components like the Circular Gauge and some highly requested features across a huge set of our existing UI components. Let’s not drag things out and just jump straight into what’s new in KendoReact with R…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -338,8 +338,8 @@ R2 2021 is packed with cool stuff like: Suggested Actions and .NET 6 Preview 3 s
         <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-mvc-r2-2021"/>
         <updated>2021-05-12T15:26:34.000Z</updated>
         <summary type="html"><![CDATA[The Telerik R2 2021 release brings new sleek and feature-rich components, plus big new features to some of your favorite components.
-Hey developer folks, it&rsquo;s time for another massive release with new ASP.NET MVC UI components, features and tooling for your applications. 
-The Telerik R2 2021 release brings sleek and feature rich MVC components such as Task Board, Circular Gauge, Action Sheet and Skeleton , plus new features in the Grid, Editor, Drawer, TreeList, QR Code, Scheduler and Map components, …]]></summary>
+Hey developer folks, it’s time for another massive release with new ASP.NET MVC UI components, features and tooling for your applications. 
+The Telerik R2 2021 release brings sleek and feature rich MVC components such as Task Board, Circular Gauge, Action Sheet and Skeleton , plus new features in the Grid, Editor, Drawer, TreeList, QR Code, Scheduler and Map components, online…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -350,8 +350,8 @@ The Telerik R2 2021 release brings sleek and feature rich MVC components such as
         <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021"/>
         <updated>2021-05-12T15:19:00.000Z</updated>
         <summary type="html"><![CDATA[The Telerik R2 2021 release for UI for ASP.NET Core brings sleek and feature-rich components, plus new Grid, Editor features, Linux Installer, compatibility with .NET 6 latest preview and much more.
-Hey developer folks, it&rsquo;s time for another massive release with new UI components, features and tooling for your ASP.NET Core applications.
-The Telerik R2 2021 release brings sleek and feature-rich UI for ASP.NET Core Task Board, Circular Gauge, ActionSheet, Skeleton components plus new Grid, Editor featur…]]></summary>
+Hey developer folks, it’s time for another massive release with new UI components, features and tooling for your ASP.NET Core applications.
+The Telerik R2 2021 release brings sleek and feature-rich UI for ASP.NET Core Task Board, Circular Gauge, ActionSheet, Skeleton components plus new Grid, Editor features, Li…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -361,10 +361,11 @@ The Telerik R2 2021 release brings sleek and feature-rich UI for ASP.NET Core Ta
         <id>https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more</id>
         <link href="https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more"/>
         <updated>2021-05-12T15:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Our latest WinUI release is live now&mdash;announcing Telerik UI for WinUI R2 2021.
-Telerik UI for WinUI R2 2021 is fully packed with fresh new components and features for your WinUI apps. Some of the new goodies are Scheduler, ListView, Shadow, RangeSlider, Swiss QR Barcode as well as many Document Processing features. In addition to all that, we are introducing Project Reunion 0.5.6 support and new sample app&mdash;WinUI Theme Editor.
-Let&rsquo;s see what is new this release.
-Project Reunion 0.5.6 Support…]]></summary>
+        <summary type="html"><![CDATA[Our latest WinUI release is live now—announcing Telerik UI for WinUI R2 2021.
+Telerik UI for WinUI R2 2021 is fully packed with fresh new components and features for your WinUI apps. Some of the new goodies are Scheduler, ListView, Shadow, RangeSlider, Swiss QR Barcode as well as many Document Processing features. In addition to all that, we are introducing Project Reunion 0.5.6 support and new sample app—WinUI Theme Editor.
+Let’s see what is new this release.
+Project Reunion 0.5.6 Support
+First things firs…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -374,10 +375,10 @@ Project Reunion 0.5.6 Support…]]></summary>
         <id>https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more</id>
         <link href="https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more"/>
         <updated>2021-05-12T15:10:29.000Z</updated>
-        <summary type="html"><![CDATA[The second major release of 2021 for Telerik UI for Xamarin for is here, and it&rsquo;s packed with exciting new components and improvements for you to enjoy.
-We understand UI design is a highly important part of every mobile app, and our brand new Badge and Shadow components can help you achieve appealing designs. We&rsquo;ve also enhanced our Barcode control with the newest Swiss QR symbology and improved font support for the PdfViewer control. Read on for more details.
+        <summary type="html"><![CDATA[The second major release of 2021 for Telerik UI for Xamarin for is here, and it’s packed with exciting new components and improvements for you to enjoy.
+We understand UI design is a highly important part of every mobile app, and our brand new Badge and Shadow components can help you achieve appealing designs. We’ve also enhanced our Barcode control with the newest Swiss QR symbology and improved font support for the PdfViewer control. Read on for more details.
 Badge
-Badges are those small notifi…]]></summary>
+Badges are those small notification icons…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -388,8 +389,8 @@ Badges are those small notifi…]]></summary>
         <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021"/>
         <updated>2021-05-12T15:09:26.000Z</updated>
         <summary type="html"><![CDATA[Telerik UI for Blazor 2.24 release brings new PanelBar and Card components, Grid and TreeList updates, Blazor Reporting demo integration, Calendar templates, a new Visual Studio Code Converter Wizard and much more!
-Hey developer folks, it&rsquo;s Telerik R2 2021 release time and we&rsquo;re excited to announce that the Telerik UI for Blazor component suite reached a new milestone of 75+ truly native components.
-While we have continuously shipped new components and features in the period of January to May 20…]]></summary>
+Hey developer folks, it’s Telerik R2 2021 release time and we’re excited to announce that the Telerik UI for Blazor component suite reached a new milestone of 75+ truly native components.
+While we have continuously shipped new components and features in the period of January to May 2021, we are h…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -400,8 +401,8 @@ While we have continuously shipped new components and features in the period of 
         <link href="https://www.telerik.com/blogs/whats-new-telerik-reporting-telerik-report-server-r2-2021"/>
         <updated>2021-05-12T15:06:35.000Z</updated>
         <summary type="html"><![CDATA[Telerik Reporting R2 2021 brings Blazor Report Designer, support for .NET 6 latest preview and more. Telerik Report Server R2 2021 comes with enhanced Web Report Designer.
-Mid-May is here, and the beautiful spring brings the next major version of Telerik&rsquo;s take on the Reporting components and tools.
-In addition to Blazor Report Designer and support for .NET 6 latest preview, the second release for the year also brings new enhancements in the Web Report Designer and Swiss Barcode support. Reports will …]]></summary>
+Mid-May is here, and the beautiful spring brings the next major version of Telerik’s take on the Reporting components and tools.
+In addition to Blazor Report Designer and support for .NET 6 latest preview, the second release for the year also brings new enhancements in the Web Report Designer and Swiss Barcode support. Reports will get pr…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -412,9 +413,9 @@ In addition to Blazor Report Designer and support for .NET 6 latest preview, the
         <link href="https://www.telerik.com/blogs/justmock-r2-2021-performance-improvement-debug-window-dotnet-6-preview-3-and-more"/>
         <updated>2021-05-12T15:04:43.000Z</updated>
         <summary type="html"><![CDATA[Announcing the R2 2021 release of our mocking framework, Telerik JustMock.
-The R2 2021 release of our mocking framework, Telerik JustMock, includes performance improvements, Debug Window showing information about the arguments used in the arrangement, support for .NET 6 Preview 3 and improvements in the Visual Studio extension. Let&rsquo;s look at the details.
+The R2 2021 release of our mocking framework, Telerik JustMock, includes performance improvements, Debug Window showing information about the arguments used in the arrangement, support for .NET 6 Preview 3 and improvements in the Visual Studio extension. Let’s look at the details.
 Enhanced Telerik JustMock Profiler for Even Faster Unit Test Execution
-With the previous JustMock release R1 2021, we shipped a configuration to spee…]]></summary>
+With the previous JustMock release R1 2021, we shipped a configuration to speed up t…]]></summary>
         <author>
             <name>Telerik Blogs</name>
         </author>
@@ -424,8 +425,8 @@ With the previous JustMock release R1 2021, we shipped a configuration to spee�
         <id>https://css-tricks.com/?p=339960</id>
         <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
         <updated>2021-05-12T14:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
-There are lots of &#8230;
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.
+There are lots of …
 The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -447,7 +448,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33825</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/HZQ2DujgUxo/"/>
         <updated>2021-05-12T11:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Manage Windows Package Manager with Group Policy (Demitrius Nelon) Supporting VB.NET in .NET 5 &#124; On .NET (Richard Lander, Klaus Loffelmann &#38; Merrie McGaw) Visual Studio 2019 version 16.9 Release Notes &#8211; version 16.9.5 new release (Microsoft Docs) Hosting Uno Platform WebAssembly apps on Azure Static Web Apps (Gerard Gallant) Web &#38; Cloud [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Manage Windows Package Manager with Group Policy (Demitrius Nelon) Supporting VB.NET in .NET 5 | On .NET (Richard Lander, Klaus Loffelmann & Merrie McGaw) Visual Studio 2019 version 16.9 Release Notes – version 16.9.5 new release (Microsoft Docs) Hosting Uno Platform WebAssembly apps on Azure Static Web Apps (Gerard Gallant) Web & Cloud […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -467,7 +468,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>http://blog.cwa.me.uk/?p=7482</id>
         <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/EB8TKF1wzgM/"/>
         <updated>2021-05-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information Put a DPAD on that GC! &#8211; Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 &#8211; Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals &#8211; Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# &#8211; Part 2 &#8211; Andrew Lock Using C# Named Arguments to [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Information Put a DPAD on that GC! – Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 – Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals – Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# – Part 2 – Andrew Lock Using C# Named Arguments to […]]]></summary>
         <author>
             <name>Chris Alcock</name>
         </author>
@@ -487,7 +488,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340359</id>
         <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
         <updated>2021-05-11T22:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
 The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -499,7 +500,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340186</id>
         <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
         <updated>2021-05-11T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
 The post I could build this during the weekend appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -511,7 +512,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=339138</id>
         <link href="https://css-tricks.com/next-gen-css-container/"/>
         <updated>2021-05-11T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
 The post Next Gen CSS: @container appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -524,7 +525,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
         <updated>2021-05-11T14:33:10.000Z</updated>
         <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
-If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;
+If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …
 The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -546,7 +547,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33823</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/Cr1cWwAYepE/"/>
         <updated>2021-05-11T11:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Put a DPAD on that GC! (Maoni Stephens) String Manipulation in C#: Best Practices (Steve Gordon) Rust for Windows Achieves Full Consumption (Call any Windows API) (David Ramel) Visual Studio 2022 64 bits: Elements of history (Patrick Smacchia) Register for Microsoft BUILD 2021 this year! Here&#8217;s a SNEAK PEAK of the First MINUTE! [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Put a DPAD on that GC! (Maoni Stephens) String Manipulation in C#: Best Practices (Steve Gordon) Rust for Windows Achieves Full Consumption (Call any Windows API) (David Ramel) Visual Studio 2022 64 bits: Elements of history (Patrick Smacchia) Register for Microsoft BUILD 2021 this year! Here’s a SNEAK PEAK of the First MINUTE! […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -556,7 +557,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
         <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
         <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
+        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
         </author>
@@ -566,7 +567,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>http://blog.cwa.me.uk/?p=7480</id>
         <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/pe1z--o5Qb8/"/>
         <updated>2021-05-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information Using C# Named Arguments to Declutter Complex Tests &#8211; Matthew Jones Present and Verify Verifiable Credentials in ASP.NET Core using Decentralized Identities and MATTR# &#8211; Damien Bowden 5 Ways to Improve the Performance of C# Code for Free &#8211; Sasha Mathews Introducing C# 10 &#8211; Ken Bonny Code Coverage &#38; Frontend Testing &#8211; Muhammad [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Information Using C# Named Arguments to Declutter Complex Tests – Matthew Jones Present and Verify Verifiable Credentials in ASP.NET Core using Decentralized Identities and MATTR# – Damien Bowden 5 Ways to Improve the Performance of C# Code for Free – Sasha Mathews Introducing C# 10 – Ken Bonny Code Coverage & Frontend Testing – Muhammad […]]]></summary>
         <author>
             <name>Chris Alcock</name>
         </author>
@@ -577,8 +578,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/topframe/"/>
         <updated>2021-05-10T21:14:15.000Z</updated>
         <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
-Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
-&#8230;
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you 
+…
 The post Topframe appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -590,7 +591,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340208</id>
         <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
         <updated>2021-05-10T21:13:23.000Z</updated>
-        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …
 The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -602,7 +603,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=339203</id>
         <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
         <updated>2021-05-10T14:13:12.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …
 The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -614,7 +615,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33821</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/fJ3DAx2xzL0/"/>
         <updated>2021-05-10T11:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Top Links ASP.NET Core 6 and Authentication Servers (Barry Dorrans) How to create the Tic-Tac-Toe game in Blazor WebAssembly in one hour! (David Grace) C# Async Yield Return: IAsyncEnumerable will change your life!!! (Brian Lagunas) Merge Conflict 253: Past, Present, &#38; Future of Ooui (James Montemagno &#38; Frank Kreuger) Intro of DevOps Dojo (Kan Tang) [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links ASP.NET Core 6 and Authentication Servers (Barry Dorrans) How to create the Tic-Tac-Toe game in Blazor WebAssembly in one hour! (David Grace) C# Async Yield Return: IAsyncEnumerable will change your life!!! (Brian Lagunas) Merge Conflict 253: Past, Present, & Future of Ooui (James Montemagno & Frank Kreuger) Intro of DevOps Dojo (Kan Tang) […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -634,7 +635,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>http://blog.cwa.me.uk/?p=7478</id>
         <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/jactCA24YRs/"/>
         <updated>2021-05-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information ASP.NET Core 6 and Authentication Servers &#8211; Barry Dorrans State-Of-The-Art Natural Language Processing in .NET on the Edge &#8211; Ian Bebbington C# Async Yield Return: IAsyncEnumerable will change your life!!! &#8211; Brian Lagunas Top 10 Free New Testing Tools for Visual Studio 2019 &#8211; David Ramel Add a README to Your NuGet Package &#8211; [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Information ASP.NET Core 6 and Authentication Servers – Barry Dorrans State-Of-The-Art Natural Language Processing in .NET on the Edge – Ian Bebbington C# Async Yield Return: IAsyncEnumerable will change your life!!! – Brian Lagunas Top 10 Free New Testing Tools for Visual Studio 2019 – David Ramel Add a README to Your NuGet Package – […]]]></summary>
         <author>
             <name>Chris Alcock</name>
         </author>
@@ -644,7 +645,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33819</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/1KXFcBgAfF8/"/>
         <updated>2021-05-07T11:02:58.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Creating beautiful dual-screen Xamarin.Forms apps (Craig Dunn) Announcing Rust for Windows v0.9 (Angela Zhang) Add a README to Your NuGet Package (Christopher Gill) Building Accessible Mobile Apps &#124; The Xamarin Show (James Montemagno &#38; Rachel Kang) Software Engineering Radio Episode 458: Daniel Roth on Blazor (Priyanka Raghavan) Web &#38; Cloud Development Azure Tips [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Creating beautiful dual-screen Xamarin.Forms apps (Craig Dunn) Announcing Rust for Windows v0.9 (Angela Zhang) Add a README to Your NuGet Package (Christopher Gill) Building Accessible Mobile Apps | The Xamarin Show (James Montemagno & Rachel Kang) Software Engineering Radio Episode 458: Daniel Roth on Blazor (Priyanka Raghavan) Web & Cloud Development Azure Tips […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -674,7 +675,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33817</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/KIxVRsSxGJI/"/>
         <updated>2021-05-05T11:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Getting Started with Azure Web PubSub Service (Abhijit Jana) Visual Studio Icon Visual Studio 2019 for Mac version 8.9 Release Notes (v8.9.8 Released) (Microsoft Docs) The Rise of Asynchronous Collaboration and What It Means for Development Teams (Drew Falkman &#38; Jay Garcia) How we use Web Components at GitHub (Kristján Oddsson) .NET Foundation [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Getting Started with Azure Web PubSub Service (Abhijit Jana) Visual Studio Icon Visual Studio 2019 for Mac version 8.9 Release Notes (v8.9.8 Released) (Microsoft Docs) The Rise of Asynchronous Collaboration and What It Means for Development Teams (Drew Falkman & Jay Garcia) How we use Web Components at GitHub (Kristján Oddsson) .NET Foundation […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -704,7 +705,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33815</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/QgAmpMAdlhI/"/>
         <updated>2021-05-04T11:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Top Links The future of gRPC in C# belongs to grpc-dotnet (Jan Tattermusch) .NET Annotated &#124; May 2021 (Rachel Appel) Evolving modular monoliths: 1. An architecture for .NET (Jon P. Smith) Quickly develop apps with App Studio for Microsoft Teams (Office Dev Center) Web &#38; Cloud Development Lost in Azure cloud identity &#8211; part 2 [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links The future of gRPC in C# belongs to grpc-dotnet (Jan Tattermusch) .NET Annotated | May 2021 (Rachel Appel) Evolving modular monoliths: 1. An architecture for .NET (Jon P. Smith) Quickly develop apps with App Studio for Microsoft Teams (Office Dev Center) Web & Cloud Development Lost in Azure cloud identity – part 2 […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -724,7 +725,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33813</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/_p9OizUJxHI/"/>
         <updated>2021-05-03T11:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Azure Event Grid, Event Hubs, and Service Bus Library Improvements (Lily Ma) .NET Foundation March/April 2021 Update (Claire Novotny) Cloud Engineering: The Future Is Now (Sophia Parafina) Visual Designer, Hot Reload and Beyond (Nick Randolph) Web &#38; Cloud Development What&#8217;s new in Svelte: May 2021 (Daniel Sandoval) You Can Label a JavaScript `if` [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Azure Event Grid, Event Hubs, and Service Bus Library Improvements (Lily Ma) .NET Foundation March/April 2021 Update (Claire Novotny) Cloud Engineering: The Future Is Now (Sophia Parafina) Visual Designer, Hot Reload and Beyond (Nick Randolph) Web & Cloud Development What’s new in Svelte: May 2021 (Daniel Sandoval) You Can Label a JavaScript `if` […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -744,7 +745,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33810</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/7kdyHC9dQVw/"/>
         <updated>2021-04-30T10:35:42.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview (Balan Subramanian) Multi-tenancy with EF Core in Blazor Server Apps (Jeremy Likness) Announcing XD to Flutter v2.0! (Grant Skinner) Getting Started Calling the Microsoft Graph API (Dan Wahlin) Make microservices fun again with Dapr (Dave Brock) Web &#38; Cloud Development Access [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview (Balan Subramanian) Multi-tenancy with EF Core in Blazor Server Apps (Jeremy Likness) Announcing XD to Flutter v2.0! (Grant Skinner) Getting Started Calling the Microsoft Graph API (Dan Wahlin) Make microservices fun again with Dapr (Dave Brock) Web & Cloud Development Access […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -774,7 +775,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33808</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/"/>
         <updated>2021-04-29T10:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows &#38; Linux [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows & Linux […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -794,7 +795,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.alvinashcraft.com/?p=33805</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/jks23uQIQBM/"/>
         <updated>2021-04-28T11:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Uno Platform 3.7 – More WinUI, Project Reunion and Linux support, Wasm performance boost (Uno Platform Team) Help Plan the Next Phase of the Azure SDK (Azure SDK) Interactive C# with VS Code Notebooks with Eric Potter &#8211; Adventures in .NET 066 (Shawn Clabough &#38; Wai Liu) Microsoft Build 2021, A Free Digital [&#8230;]]]></summary>
+        <summary type="html"><![CDATA[Top Links Uno Platform 3.7 – More WinUI, Project Reunion and Linux support, Wasm performance boost (Uno Platform Team) Help Plan the Next Phase of the Azure SDK (Azure SDK) Interactive C# with VS Code Notebooks with Eric Potter – Adventures in .NET 066 (Shawn Clabough & Wai Liu) Microsoft Build 2021, A Free Digital […]]]></summary>
         <author>
             <name>Alvin A.</name>
         </author>
@@ -814,7 +815,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
         <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
         <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.]]></summary>
+        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
         </author>
@@ -877,16 +878,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Mistakes To Avoid In Your Technical Interviews]]></title>
-        <id>https://smashingmagazine.com/2021/04/mistakes-technical-interviews/</id>
-        <link href="https://smashingmagazine.com/2021/04/mistakes-technical-interviews/"/>
-        <updated>2021-04-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emma Bostian)</name>
         </author>
     </entry>
 </feed>
