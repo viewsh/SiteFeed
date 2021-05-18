@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T01:09:01.773Z</id>
+    <id>urn:2021-05-18T01:12:21.485Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T01:09:01.773Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T01:12:21.485Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
+        <id>https://css-tricks.com/?p=339522</id>
+        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
+        <updated>2021-05-17T14:27:22.000Z</updated>
+        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
+The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ashley Kolodziej</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euismod]]></title>
+        <id>https://css-tricks.com/?p=340594</id>
+        <link href="https://www.euismod.dev/"/>
+        <updated>2021-05-17T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
+The post Euismod appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Organize and Modify Existing HTTP and HTTPS Requests]]></title>
+        <id>https://www.telerik.com/blogs/how-to-organize-and-modify-existing-http-https-requests</id>
+        <link href="https://www.telerik.com/blogs/how-to-organize-and-modify-existing-http-https-requests"/>
+        <updated>2021-05-17T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[In this step-by-step tutorial, learn about how to organize and modify existing HTTP and HTTPS requests.
+The Requests list in Fiddler Everywhere provides the option to save, modify, execute and share previously composed requests. When you save a request using the Composer, the request is added to a collection in the Requests list.
+Requests List
+
+The Requests list is organized in collections. Each collection is a folder on the root level of the Requests list. A collection can contain saved requests and other …]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Reasons Not to Write Your JavaScript Data Grid from Scratch]]></title>
+        <id>https://www.telerik.com/blogs/5-reasons-not-to-write-your-javascript-data-grid-from-scratch</id>
+        <link href="https://www.telerik.com/blogs/5-reasons-not-to-write-your-javascript-data-grid-from-scratch"/>
+        <updated>2021-05-17T11:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Data grids (sometimes referred to as data tables) are an essential part of many business applications, and the task to create them can be monumental. Learn about the pitfalls of rolling your own grid, as noted by our engineering teams and the many we have met in the field.
+Of the many awesome things JavaScript (React, Angular, Vue... ) developers can create in their apps, most are really enjoyable, some will give you a bit of a headache but also satisfaction in the end, and a handful should be labeled, “Her…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 17, 2021 (#3444)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33831</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/AbIQzNJeGGI/"/>
+        <updated>2021-05-17T11:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Azure Static Web Apps is production-ready: These are my 5 favorite things (Dave Brock) Yet Another Podcast – Mark Price on C# 9 and .NET 6 (Jesse Liberty) CoreWCF Reached Its First GA Release (Almir Vuk) Rapid XAML Toolkit v0.12 – Now with extra Xamarin.Forms related goodness (Matt Lacey) Async/Await Calls Gotcha with […]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3232]]></title>
+        <id>http://blog.cwa.me.uk/?p=7488</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/gLjlR-fPedg/"/>
+        <updated>2021-05-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Information Async/Await Calls Gotcha with the CSharp ? Null Propagator – Rick Strahl Global Exception Handling in ASP.NET Core – Ultimate Guide – Mukesh Murugan Updating FloatingGlucose to .NET 5 – Display Nightscout or Dexcom Glucose Values on the Windows Desktop – Scott Hanselman Using Auth0 with Static Web Apps – Aaron Powell Azurite and […]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
         <id>https://css-tricks.com/?p=340136</id>
@@ -160,16 +293,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills]]></title>
-        <id>609ccb0d62ab9107fe5aa0ce</id>
-        <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
-        <updated>2021-05-13T16:25:03.000Z</updated>
-        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
         <id>https://css-tricks.com/?p=340036</id>
         <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
@@ -224,26 +347,6 @@ Whenever you use an integrated developme…]]></summary>
         <summary type="html"><![CDATA[Software Visual Studio 2019 version 16.9 Release Notes – Visual Studio Team Information My Favorite C# Features – Part 4: Project Structure – Jeffrey T. Fritz ASP.NET Core in .NET 6 – Part 08 – CSS isolation for MVC Views and Razor Pages – Jürgen Gutsch Develop production-scale modern web apps quickly with Azure Static […]]]></summary>
         <author>
             <name>Chris Alcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify]]></title>
-        <id>5fde208ae6787e09839407c3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
-        <updated>2021-05-12T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
-        <id>609c215862ab9107fe5a9fa9</id>
-        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
-        <updated>2021-05-12T18:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -396,31 +499,6 @@ While we have continuously shipped new components and features in the period of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New in Telerik Reporting and Telerik Report Server with R2 2021]]></title>
-        <id>https://www.telerik.com/blogs/whats-new-telerik-reporting-telerik-report-server-r2-2021</id>
-        <link href="https://www.telerik.com/blogs/whats-new-telerik-reporting-telerik-report-server-r2-2021"/>
-        <updated>2021-05-12T15:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Telerik Reporting R2 2021 brings Blazor Report Designer, support for .NET 6 latest preview and more. Telerik Report Server R2 2021 comes with enhanced Web Report Designer.
-Mid-May is here, and the beautiful spring brings the next major version of Telerik’s take on the Reporting components and tools.
-In addition to Blazor Report Designer and support for .NET 6 latest preview, the second release for the year also brings new enhancements in the Web Report Designer and Swiss Barcode support. Reports will get pr…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JustMock R2 2021: Performance Improvement, Debug Window Shows New Info, Support for .NET 6 Preview 3 and More]]></title>
-        <id>https://www.telerik.com/blogs/justmock-r2-2021-performance-improvement-debug-window-dotnet-6-preview-3-and-more</id>
-        <link href="https://www.telerik.com/blogs/justmock-r2-2021-performance-improvement-debug-window-dotnet-6-preview-3-and-more"/>
-        <updated>2021-05-12T15:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the R2 2021 release of our mocking framework, Telerik JustMock.
-The R2 2021 release of our mocking framework, Telerik JustMock, includes performance improvements, Debug Window showing information about the arguments used in the arrangement, support for .NET 6 Preview 3 and improvements in the Visual Studio extension. Let’s look at the details.
-Enhanced Telerik JustMock Profiler for Even Faster Unit Test Execution
-With the previous JustMock release R1 2021, we shipped a configuration to speed up t…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
         <id>https://css-tricks.com/?p=339960</id>
         <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
@@ -471,16 +549,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Information Put a DPAD on that GC! – Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 – Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals – Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# – Part 2 – Andrew Lock Using C# Named Arguments to […]]]></summary>
         <author>
             <name>Chris Alcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
-        <id>6096aafe2cd0545b5e944430</id>
-        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
-        <updated>2021-05-11T22:53:43.000Z</updated>
-        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -573,44 +641,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Topframe]]></title>
-        <id>https://css-tricks.com/?p=340020</id>
-        <link href="https://css-tricks.com/topframe/"/>
-        <updated>2021-05-10T21:14:15.000Z</updated>
-        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
-Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you 
-…
-The post Topframe appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
-        <id>https://css-tricks.com/?p=340208</id>
-        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
-        <updated>2021-05-10T21:13:23.000Z</updated>
-        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …
-The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
-        <id>https://css-tricks.com/?p=339203</id>
-        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
-        <updated>2021-05-10T14:13:12.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …
-The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – May 10, 2021 (#3439)]]></title>
         <id>https://www.alvinashcraft.com/?p=33821</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/fJ3DAx2xzL0/"/>
@@ -628,16 +658,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Morning Brew #3227]]></title>
-        <id>http://blog.cwa.me.uk/?p=7478</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/jactCA24YRs/"/>
-        <updated>2021-05-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information ASP.NET Core 6 and Authentication Servers – Barry Dorrans State-Of-The-Art Natural Language Processing in .NET on the Edge – Ian Bebbington C# Async Yield Return: IAsyncEnumerable will change your life!!! – Brian Lagunas Top 10 Free New Testing Tools for Visual Studio 2019 – David Ramel Add a README to Your NuGet Package – […]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
         </author>
     </entry>
     <entry>
@@ -788,16 +808,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – April 28, 2021 (#3432)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33805</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/jks23uQIQBM/"/>
-        <updated>2021-04-28T11:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Uno Platform 3.7 – More WinUI, Project Reunion and Linux support, Wasm performance boost (Uno Platform Team) Help Plan the Next Phase of the Azure SDK (Azure SDK) Interactive C# with VS Code Notebooks with Eric Potter – Adventures in .NET 066 (Shawn Clabough & Wai Liu) Microsoft Build 2021, A Free Digital […]]]></summary>
-        <author>
-            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
