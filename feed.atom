@@ -1,10 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T01:12:21.485Z</id>
+    <id>urn:2021-05-19T01:08:03.835Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T01:12:21.485Z</updated>
+    <updated>2021-05-19T01:08:03.835Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=340613</id>
+        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
+        <updated>2021-05-18T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
+A fella wrote to me a while back outlining a situation he was in. His company has …
+The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
+        <id>60a3780f906c5207e3a7db5f</id>
+        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
+        <updated>2021-05-18T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
+        <id>6068f146d5756f080ba9402d</id>
+        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
+        <updated>2021-05-18T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
+        <id>609bea6b62ab9107fe5a9f89</id>
+        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
+        <updated>2021-05-18T16:36:22.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
+        <id>609fc4cc62ab9107fe5aac91</id>
+        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
+        <updated>2021-05-18T16:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
+        <id>60685767d5756f080ba93df4</id>
+        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
+        <updated>2021-05-18T16:08:27.000Z</updated>
+        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/?p=340420</id>
+        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
+        <updated>2021-05-18T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
+The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Silvia O'Dwyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating PDF from HTML in React Demo: Exporting Invoices]]></title>
+        <id>https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices</id>
+        <link href="https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices"/>
+        <updated>2021-05-18T13:36:03.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we’ll build a sample invoice in our React app using HTML and CSS, then generate a PDF file based on this content. Plus, we’ll control the generated page size exclusively through CSS.
+Welcome to the Generating PDF in React blog post series! In Part 1 of this series, “Generating PDF in React: As Easy As 1-2-3,” we covered the basics around generating PDF in React by including a few basic HTML elements and seeing the quickest way we can generate a PDF file from HTML in React.
+In today’s blog…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 18, 2021 (#3445)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33833</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/mcaHP0EhR10/"/>
+        <updated>2021-05-18T11:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Azure Cosmos DB With EF Core on Blazor Server (Jeremy Likness) The 6 Figure Developer Episode 196 – .NET 6 Preview with Rich Lander (John Callaway) Jeremy Likness on Working with Data on .NET – Azure DevOps Podcast Episode 141 (Jeffrey Palermo) Extending the calculator implementation: Creating a Simple Moving Average calculator in […]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Speed up Your End-to-End Tests]]></title>
+        <id>https://www.telerik.com/blogs/5-ways-to-speed-up-your-end-to-end-tests</id>
+        <link href="https://www.telerik.com/blogs/5-ways-to-speed-up-your-end-to-end-tests"/>
+        <updated>2021-05-18T11:05:02.000Z</updated>
+        <summary type="html"><![CDATA[End-to-end tests are an excellent way to deliver high-quality web applications. Unfortunately, these tests tend to be slower than other tests, creating delays in the development process. Here are five tips you can use to keep your tests running efficiently.
+Today’s web applications are more complex than ever. The users of your app expect more than just text and images—they also demand more interactivity and a smooth, seamless experience like they would get from a traditional desktop application. Given the a…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
+        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
+        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
+        <updated>2021-05-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3233]]></title>
+        <id>http://blog.cwa.me.uk/?p=7490</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/uqIvTvnFqao/"/>
+        <updated>2021-05-18T06:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Information Against consistency – Mark Seemann Exploring the Visual Studio Code REST Book extension for native Notebooks – Scott Hanselman Securing OAuth Bearer tokens from multiple Identity Providers in an ASP.NET Core API – Damien Bowden Custom User Message Extension Methods in C# and MVC – Matthew Jones C# serialization with JsonSchema and System.Text.Json – […]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
         <id>https://css-tricks.com/?p=340716</id>
@@ -161,26 +299,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React for Beginners: Complete React Cheatsheet for 2021]]></title>
-        <id>609ea83362ab9107fe5aa920</id>
-        <link href="https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/"/>
-        <updated>2021-05-14T20:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page]]></title>
-        <id>609e8c2162ab9107fe5aa77d</id>
-        <link href="https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/"/>
-        <updated>2021-05-14T17:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
         <id>https://css-tricks.com/?p=340343</id>
         <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
@@ -260,36 +378,6 @@ The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send]]></title>
-        <id>609414f32cd0545b5e943526</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/"/>
-        <updated>2021-05-13T21:19:40.000Z</updated>
-        <summary type="html"><![CDATA[If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects]]></title>
-        <id>609952396008950828b3ea8d</id>
-        <link href="https://www.freecodecamp.org/news/types-of-software-testing/"/>
-        <updated>2021-05-13T19:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
-        <id>609bcc6a62ab9107fe5a9f08</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/"/>
-        <updated>2021-05-13T18:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -474,31 +562,6 @@ First things firs…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telerik UI for Xamarin R2 2021: New Badge and Shadow Controls, PdfViewer Features and More]]></title>
-        <id>https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more</id>
-        <link href="https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more"/>
-        <updated>2021-05-12T15:10:29.000Z</updated>
-        <summary type="html"><![CDATA[The second major release of 2021 for Telerik UI for Xamarin for is here, and it’s packed with exciting new components and improvements for you to enjoy.
-We understand UI design is a highly important part of every mobile app, and our brand new Badge and Shadow components can help you achieve appealing designs. We’ve also enhanced our Barcode control with the newest Swiss QR symbology and improved font support for the PdfViewer control. Read on for more details.
-Badge
-Badges are those small notification icons…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in Telerik UI for Blazor R2 2021]]></title>
-        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021</id>
-        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021"/>
-        <updated>2021-05-12T15:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Telerik UI for Blazor 2.24 release brings new PanelBar and Card components, Grid and TreeList updates, Blazor Reporting demo integration, Calendar templates, a new Visual Studio Code Converter Wizard and much more!
-Hey developer folks, it’s Telerik R2 2021 release time and we’re excited to announce that the Telerik UI for Blazor component suite reached a new milestone of 75+ truly native components.
-While we have continuously shipped new components and features in the period of January to May 2021, we are h…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
         <id>https://css-tricks.com/?p=339960</id>
         <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
@@ -576,31 +639,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
-        <id>https://css-tricks.com/?p=339138</id>
-        <link href="https://css-tricks.com/next-gen-css-container/"/>
-        <updated>2021-05-11T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
-The post Next Gen CSS: @container appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Una Kravets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
-        <id>https://css-tricks.com/?p=340106</id>
-        <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
-        <updated>2021-05-11T14:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
-If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …
-The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
         <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
         <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
@@ -628,16 +666,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Morning Brew #3228]]></title>
-        <id>http://blog.cwa.me.uk/?p=7480</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/pe1z--o5Qb8/"/>
-        <updated>2021-05-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information Using C# Named Arguments to Declutter Complex Tests – Matthew Jones Present and Verify Verifiable Credentials in ASP.NET Core using Decentralized Identities and MATTR# – Damien Bowden 5 Ways to Improve the Performance of C# Code for Free – Sasha Mathews Introducing C# 10 – Ken Bonny Code Coverage & Frontend Testing – Muhammad […]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
         </author>
     </entry>
     <entry>
@@ -791,16 +819,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – April 29, 2021 (#3433)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33808</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/"/>
-        <updated>2021-04-29T10:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows & Linux […]]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
         <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
@@ -878,16 +896,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
-        <updated>2021-04-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>

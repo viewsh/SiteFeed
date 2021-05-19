@@ -6,12 +6,21 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33833",
+          "author": "Alvin A.",
+          "description": "Top Links Azure Cosmos DB With EF Core on Blazor Server (Jeremy Likness) The 6 Figure Developer Episode 196 – .NET 6 Preview with Rich Lander (John Callaway) Jeremy Likness on Working with Data on .NET – Azure DevOps Podcast Episode 141 (Jeffrey Palermo) Extending the calculator implementation: Creating a Simple Moving Average calculator in […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/mcaHP0EhR10/",
+          "publishedOn": "2021-05-18T11:07:07.000Z",
+          "wordCount": 959,
+          "title": "Dew Drop – May 18, 2021 (#3445)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33831",
           "author": "Alvin A.",
           "description": "Top Links Azure Static Web Apps is production-ready: These are my 5 favorite things (Dave Brock) Yet Another Podcast – Mark Price on C# 9 and .NET 6 (Jesse Liberty) CoreWCF Reached Its First GA Release (Almir Vuk) Rapid XAML Toolkit v0.12 – Now with extra Xamarin.Forms related goodness (Matt Lacey) Async/Await Calls Gotcha with […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/AbIQzNJeGGI/",
           "publishedOn": "2021-05-17T11:13:57.000Z",
-          "wordCount": 1335,
+          "wordCount": 1341,
           "title": "Dew Drop – May 17, 2021 (#3444)"
         },
         {
@@ -103,15 +112,6 @@
           "publishedOn": "2021-04-30T10:35:42.000Z",
           "wordCount": 1027,
           "title": "Dew Drop – April 30, 2021 (#3434)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33808",
-          "author": "Alvin A.",
-          "description": "Top Links Running Your Windows UI / Project Reunion App in the Windows App Container (sandbox) (Nick Randolph) Learning Path: Microsoft Graph Fundamentals (Microsoft Learn) GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases (Billy Griffin) Beyond Calibri: Finding Microsoft’s next default font (Microsoft Design Team) Rearchitecting for Microservices: Featuring Windows & Linux […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/yUtbF40z08I/",
-          "publishedOn": "2021-04-29T10:51:36.000Z",
-          "wordCount": 1077,
-          "title": "Dew Drop – April 29, 2021 (#3433)"
         }
       ]
     },
@@ -121,12 +121,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7490",
+          "author": "Chris Alcock",
+          "description": "Information Against consistency – Mark Seemann Exploring the Visual Studio Code REST Book extension for native Notebooks – Scott Hanselman Securing OAuth Bearer tokens from multiple Identity Providers in an ASP.NET Core API – Damien Bowden Custom User Message Extension Methods in C# and MVC – Matthew Jones C# serialization with JsonSchema and System.Text.Json – […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uqIvTvnFqao/",
+          "publishedOn": "2021-05-18T06:00:03.000Z",
+          "wordCount": 614,
+          "title": "The Morning Brew #3233"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7488",
           "author": "Chris Alcock",
           "description": "Information Async/Await Calls Gotcha with the CSharp ? Null Propagator – Rick Strahl Global Exception Handling in ASP.NET Core – Ultimate Guide – Mukesh Murugan Updating FloatingGlucose to .NET 5 – Display Nightscout or Dexcom Glucose Values on the Windows Desktop – Scott Hanselman Using Auth0 with Static Web Apps – Aaron Powell Azurite and […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/gLjlR-fPedg/",
           "publishedOn": "2021-05-17T06:00:00.000Z",
-          "wordCount": 601,
+          "wordCount": 606,
           "title": "The Morning Brew #3232"
         },
         {
@@ -144,7 +153,7 @@
           "description": "Software Visual Studio 2019 version 16.9 Release Notes – Visual Studio Team Information My Favorite C# Features – Part 4: Project Structure – Jeffrey T. Fritz ASP.NET Core in .NET 6 – Part 08 – CSS isolation for MVC Views and Razor Pages – Jürgen Gutsch Develop production-scale modern web apps quickly with Azure Static […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uz1HlD4Dfok/",
           "publishedOn": "2021-05-13T06:00:00.000Z",
-          "wordCount": 627,
+          "wordCount": 620,
           "title": "The Morning Brew #3230"
         },
         {
@@ -155,15 +164,6 @@
           "publishedOn": "2021-05-12T06:00:00.000Z",
           "wordCount": 645,
           "title": "The Morning Brew #3229"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7480",
-          "author": "Chris Alcock",
-          "description": "Information Using C# Named Arguments to Declutter Complex Tests – Matthew Jones Present and Verify Verifiable Credentials in ASP.NET Core using Decentralized Identities and MATTR# – Damien Bowden 5 Ways to Improve the Performance of C# Code for Free – Sasha Mathews Introducing C# 10 – Ken Bonny Code Coverage & Frontend Testing – Muhammad […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/pe1z--o5Qb8/",
-          "publishedOn": "2021-05-11T06:00:00.000Z",
-          "wordCount": 600,
-          "title": "The Morning Brew #3228"
         }
       ]
     },
@@ -172,6 +172,24 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices",
+          "author": null,
+          "description": "In this blog post, we’ll build a sample invoice in our React app using HTML and CSS, then generate a PDF file based on this content. Plus, we’ll control the generated page size exclusively through CSS.\nWelcome to the Generating PDF in React blog post series! In Part 1 of this series, “Generating PDF in React: As Easy As 1-2-3,” we covered the basics around generating PDF in React by including a few basic HTML elements and seeing the quickest way we can generate a PDF file from HTML in React.\nIn today’s blog…",
+          "link": "https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices",
+          "publishedOn": "2021-05-18T13:36:03.000Z",
+          "wordCount": 4246,
+          "title": "Generating PDF from HTML in React Demo: Exporting Invoices"
+        },
+        {
+          "id": "https://www.telerik.com/blogs/5-ways-to-speed-up-your-end-to-end-tests",
+          "author": null,
+          "description": "End-to-end tests are an excellent way to deliver high-quality web applications. Unfortunately, these tests tend to be slower than other tests, creating delays in the development process. Here are five tips you can use to keep your tests running efficiently.\nToday’s web applications are more complex than ever. The users of your app expect more than just text and images—they also demand more interactivity and a smooth, seamless experience like they would get from a traditional desktop application. Given the a…",
+          "link": "https://www.telerik.com/blogs/5-ways-to-speed-up-your-end-to-end-tests",
+          "publishedOn": "2021-05-18T11:05:02.000Z",
+          "wordCount": 3293,
+          "title": "5 Ways to Speed up Your End-to-End Tests"
+        },
         {
           "id": "https://www.telerik.com/blogs/how-to-organize-and-modify-existing-http-https-requests",
           "author": null,
@@ -288,24 +306,6 @@
           "publishedOn": "2021-05-12T15:14:59.000Z",
           "wordCount": 2857,
           "title": "Telerik UI for WinUI R2 2021: Scheduler, ListView, Latest Project Reunion Support and More"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more",
-          "author": null,
-          "description": "The second major release of 2021 for Telerik UI for Xamarin for is here, and it’s packed with exciting new components and improvements for you to enjoy.\nWe understand UI design is a highly important part of every mobile app, and our brand new Badge and Shadow components can help you achieve appealing designs. We’ve also enhanced our Barcode control with the newest Swiss QR symbology and improved font support for the PdfViewer control. Read on for more details.\nBadge\nBadges are those small notification icons…",
-          "link": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more",
-          "publishedOn": "2021-05-12T15:10:29.000Z",
-          "wordCount": 1869,
-          "title": "Telerik UI for Xamarin R2 2021: New Badge and Shadow Controls, PdfViewer Features and More"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021",
-          "author": null,
-          "description": "Telerik UI for Blazor 2.24 release brings new PanelBar and Card components, Grid and TreeList updates, Blazor Reporting demo integration, Calendar templates, a new Visual Studio Code Converter Wizard and much more!\nHey developer folks, it’s Telerik R2 2021 release time and we’re excited to announce that the Telerik UI for Blazor component suite reached a new milestone of 75+ truly native components.\nWhile we have continuously shipped new components and features in the period of January to May 2021, we are h…",
-          "link": "https://www.telerik.com/blogs/whats-new-telerik-ui-blazor-r2-2021",
-          "publishedOn": "2021-05-12T15:09:26.000Z",
-          "wordCount": 2991,
-          "title": "What’s New in Telerik UI for Blazor R2 2021"
         }
       ]
     },
@@ -314,6 +314,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340613",
+          "author": "Chris Coyier",
+          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
+          "publishedOn": "2021-05-18T19:14:53.000Z",
+          "wordCount": 973,
+          "title": "Pinned Audio WordPress Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340420",
+          "author": "Silvia O'Dwyer",
+          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "publishedOn": "2021-05-18T14:31:25.000Z",
+          "wordCount": 2100,
+          "title": "How to Create Neon Text With CSS"
+        },
         {
           "id": "https://css-tricks.com/?p=340716",
           "author": "Chris Coyier",
@@ -329,7 +347,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 1356,
+          "wordCount": 2174,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -347,7 +365,7 @@
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2273,
+          "wordCount": 2298,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -410,7 +428,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2886,
+          "wordCount": 2918,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -430,24 +448,6 @@
           "publishedOn": "2021-05-11T21:04:32.000Z",
           "wordCount": 1416,
           "title": "I could build this during the weekend"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339138",
-          "author": "Una Kravets",
-          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/next-gen-css-container/",
-          "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1569,
-          "title": "Next Gen CSS: @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340106",
-          "author": "Chris Coyier",
-          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
-          "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1446,
-          "title": "Distributed Persistent Rendering (DPR)"
         }
       ]
     },
@@ -456,6 +456,24 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
+          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "publishedOn": "2021-05-18T10:30:00.000Z",
+          "wordCount": 1796,
+          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "publishedOn": "2021-05-18T05:00:00.000Z",
+          "wordCount": 9250,
+          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "author": "hello@smashingmagazine.com (Beau Hartshorne)",
@@ -662,15 +680,6 @@
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
           "title": "Making GraphQL Work In WordPress"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
         }
       ]
     },
@@ -679,6 +688,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a3780f906c5207e3a7db5f",
+          "author": "",
+          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
+          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
+          "publishedOn": "2021-05-18T17:12:59.000Z",
+          "wordCount": 1973,
+          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+        },
+        {
+          "id": "6068f146d5756f080ba9402d",
+          "author": "",
+          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
+          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
+          "publishedOn": "2021-05-18T16:50:36.000Z",
+          "wordCount": 3309,
+          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
+        },
+        {
+          "id": "609bea6b62ab9107fe5a9f89",
+          "author": "",
+          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
+          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
+          "publishedOn": "2021-05-18T16:36:22.000Z",
+          "wordCount": 1938,
+          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
+        },
+        {
+          "id": "609fc4cc62ab9107fe5aac91",
+          "author": "",
+          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
+          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
+          "publishedOn": "2021-05-18T16:18:18.000Z",
+          "wordCount": 2037,
+          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
+        },
+        {
+          "id": "60685767d5756f080ba93df4",
+          "author": "",
+          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
+          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
+          "publishedOn": "2021-05-18T16:08:27.000Z",
+          "wordCount": 4368,
+          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
+        },
         {
           "id": "60a2771762ab9107fe5ab383",
           "author": "",
@@ -723,51 +777,6 @@
           "publishedOn": "2021-05-14T20:31:30.000Z",
           "wordCount": 1293,
           "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
-        },
-        {
-          "id": "609ea83362ab9107fe5aa920",
-          "author": "",
-          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
-          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
-          "publishedOn": "2021-05-14T20:17:37.000Z",
-          "wordCount": 3252,
-          "title": "React for Beginners: Complete React Cheatsheet for 2021"
-        },
-        {
-          "id": "609e8c2162ab9107fe5aa77d",
-          "author": "",
-          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
-          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
-          "publishedOn": "2021-05-14T17:13:14.000Z",
-          "wordCount": 1598,
-          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
-        },
-        {
-          "id": "609414f32cd0545b5e943526",
-          "author": "",
-          "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
-          "publishedOn": "2021-05-13T21:19:40.000Z",
-          "wordCount": 1733,
-          "title": "How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send"
-        },
-        {
-          "id": "609952396008950828b3ea8d",
-          "author": "",
-          "description": "Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should",
-          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
-          "publishedOn": "2021-05-13T19:27:45.000Z",
-          "wordCount": 1826,
-          "title": "What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects"
-        },
-        {
-          "id": "609bcc6a62ab9107fe5a9f08",
-          "author": "",
-          "description": "Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/",
-          "publishedOn": "2021-05-13T18:17:49.000Z",
-          "wordCount": 1775,
-          "title": "React Tutorial – How to Work with Multiple Checkboxes"
         }
       ]
     }
