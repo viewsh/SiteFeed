@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T01:08:03.835Z</id>
+    <id>urn:2021-05-20T01:06:16.362Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T01:08:03.835Z</updated>
+    <updated>2021-05-20T01:06:16.362Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notion API]]></title>
+        <id>https://css-tricks.com/?p=340731</id>
+        <link href="https://css-tricks.com/notion-api/"/>
+        <updated>2021-05-19T23:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
+The post Notion API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
+        <id>60a42386906c5207e3a7dfe2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
+        <updated>2021-05-19T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
+        <id>60a469ec906c5207e3a7e1b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
+        <updated>2021-05-19T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
+        <id>https://css-tricks.com/?p=340692</id>
+        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
+        <updated>2021-05-19T14:28:19.000Z</updated>
+        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
+The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shubham Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type 3 Font Support in PdfViewer for WPF, WinForms and Xamarin Is Here]]></title>
+        <id>https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here</id>
+        <link href="https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here"/>
+        <updated>2021-05-19T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[The Telerik PdfViewer now supports Type 3 fonts for WPF, WinForms and Xamarin!
+Until now, Type 3 fonts were the missing piece in our font support and were one of the most-demanded features for the Telerik PdfViewer. We are excited to announce that Type 3 fonts are now fully supported out of the box!
+The Telerik PdfViewer for WPF, WinForms and Xamarin already supports a wide range of font types, including:
+Type 1 fonts: This is the original format created by Adobe. The glyphs are described using a simplified…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Be Building MVPs]]></title>
+        <id>https://www.telerik.com/blogs/why-you-should-be-building-mvps</id>
+        <link href="https://www.telerik.com/blogs/why-you-should-be-building-mvps"/>
+        <updated>2021-05-19T11:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Website and app development can be a lengthy and costly process. And there’s no guarantee that your users will even love your product after launch … or is there? Here’s how a proof-of-concept MVP (minimum viable product) can work for you.
+When designing something new—be it a mobile app, web app, PWA or website—do you ever feel a sense of dread? Like you know there’s something good here, but you’re worried that the client or your boss has bitten off more than they can chew? And that, once launched, the solut…]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
+        <updated>2021-05-19T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 19, 2021 (#3446)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33835</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/UKMOS_RLBJc/"/>
+        <updated>2021-05-19T11:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Top Links The Visual Studio family welcomes you at Microsoft Build 2021 (Sachin Thakur) Announcing Flutter 2.2 at Google I/O 2021 (Tim Sneath) Visual Studio 2019 version 16.10 Preview 4 Release Notes (Microsoft Docs) What’s new in Android 12 Beta (Dave Burke) Introducing Angular DevTools (Minko Gechev) Conversation about PGO (Richard Lander) The Future of […]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3234]]></title>
+        <id>http://blog.cwa.me.uk/?p=7492</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/Rt1WPkRewek/"/>
+        <updated>2021-05-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Information Conversation about PGO – Richard Lander Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ – Paul DeVito Extending the calculator implementation: Creating a Simple Moving Average calculator in C# – Part 3 – Andrew Lock Azure Static Web Apps: Bring Your Own Function (BYOF) – Dennes Torres 5 Ways to Speed […]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
+        <id>60a53182906c5207e3a7e588</id>
+        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
+        <updated>2021-05-18T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
         <id>https://css-tricks.com/?p=340613</id>
@@ -168,31 +276,11 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
-        <id>60a16df162ab9107fe5ab01b</id>
-        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
-        <updated>2021-05-17T17:45:50.000Z</updated>
-        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
-        <id>609f552e62ab9107fe5aaba0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
-        <updated>2021-05-17T16:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
-        <id>609cb90262ab9107fe5aa026</id>
-        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
-        <updated>2021-05-17T14:39:55.000Z</updated>
-        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
+        <id>60a536e1906c5207e3a7e6b5</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
+        <updated>2021-05-17T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
         <author>
             <name/>
         </author>
@@ -286,16 +374,6 @@ The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
-        <id>609d63e962ab9107fe5aa2ce</id>
-        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
-        <updated>2021-05-14T20:31:30.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -536,32 +614,6 @@ The Telerik R2 2021 release brings sleek and feature rich MVC components such as
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New in Telerik UI for ASP.NET Core R2 2021]]></title>
-        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021</id>
-        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021"/>
-        <updated>2021-05-12T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The Telerik R2 2021 release for UI for ASP.NET Core brings sleek and feature-rich components, plus new Grid, Editor features, Linux Installer, compatibility with .NET 6 latest preview and much more.
-Hey developer folks, it’s time for another massive release with new UI components, features and tooling for your ASP.NET Core applications.
-The Telerik R2 2021 release brings sleek and feature-rich UI for ASP.NET Core Task Board, Circular Gauge, ActionSheet, Skeleton components plus new Grid, Editor features, Li…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telerik UI for WinUI R2 2021: Scheduler, ListView, Latest Project Reunion Support and More]]></title>
-        <id>https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more</id>
-        <link href="https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more"/>
-        <updated>2021-05-12T15:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Our latest WinUI release is live now—announcing Telerik UI for WinUI R2 2021.
-Telerik UI for WinUI R2 2021 is fully packed with fresh new components and features for your WinUI apps. Some of the new goodies are Scheduler, ListView, Shadow, RangeSlider, Swiss QR Barcode as well as many Document Processing features. In addition to all that, we are introducing Project Reunion 0.5.6 support and new sample app—WinUI Theme Editor.
-Let’s see what is new this release.
-Project Reunion 0.5.6 Support
-First things firs…]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
         <id>https://css-tricks.com/?p=339960</id>
         <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
@@ -602,40 +654,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Morning Brew #3229]]></title>
-        <id>http://blog.cwa.me.uk/?p=7482</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/EB8TKF1wzgM/"/>
-        <updated>2021-05-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information Put a DPAD on that GC! – Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 – Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals – Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# – Part 2 – Andrew Lock Using C# Named Arguments to […]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
-        <id>https://css-tricks.com/?p=340359</id>
-        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
-        <updated>2021-05-11T22:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
-The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I could build this during the weekend]]></title>
-        <id>https://css-tricks.com/?p=340186</id>
-        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
-        <updated>2021-05-11T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
-The post I could build this during the weekend appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -789,16 +807,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – April 30, 2021 (#3434)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33810</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/7kdyHC9dQVw/"/>
-        <updated>2021-04-30T10:35:42.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview (Balan Subramanian) Multi-tenancy with EF Core in Blazor Server Apps (Jeremy Likness) Announcing XD to Flutter v2.0! (Grant Skinner) Getting Started Calling the Microsoft Graph API (Dan Wahlin) Make microservices fun again with Dapr (Dave Brock) Web & Cloud Development Access […]]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
         <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
@@ -886,16 +894,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Saunders)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
-        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
-        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
-        <updated>2021-04-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
         </author>
     </entry>
 </feed>

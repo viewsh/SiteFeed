@@ -6,12 +6,21 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33835",
+          "author": "Alvin A.",
+          "description": "Top Links The Visual Studio family welcomes you at Microsoft Build 2021 (Sachin Thakur) Announcing Flutter 2.2 at Google I/O 2021 (Tim Sneath) Visual Studio 2019 version 16.10 Preview 4 Release Notes (Microsoft Docs) What’s new in Android 12 Beta (Dave Burke) Introducing Angular DevTools (Minko Gechev) Conversation about PGO (Richard Lander) The Future of […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/UKMOS_RLBJc/",
+          "publishedOn": "2021-05-19T11:02:24.000Z",
+          "wordCount": 1335,
+          "title": "Dew Drop – May 19, 2021 (#3446)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33833",
           "author": "Alvin A.",
           "description": "Top Links Azure Cosmos DB With EF Core on Blazor Server (Jeremy Likness) The 6 Figure Developer Episode 196 – .NET 6 Preview with Rich Lander (John Callaway) Jeremy Likness on Working with Data on .NET – Azure DevOps Podcast Episode 141 (Jeffrey Palermo) Extending the calculator implementation: Creating a Simple Moving Average calculator in […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/mcaHP0EhR10/",
           "publishedOn": "2021-05-18T11:07:07.000Z",
-          "wordCount": 959,
+          "wordCount": 965,
           "title": "Dew Drop – May 18, 2021 (#3445)"
         },
         {
@@ -103,15 +112,6 @@
           "publishedOn": "2021-05-03T11:12:37.000Z",
           "wordCount": 1140,
           "title": "Dew Drop – May 3, 2021 (#3435)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33810",
-          "author": "Alvin A.",
-          "description": "Top Links Easily build real-time apps with WebSockets and Azure Web PubSub—now in preview (Balan Subramanian) Multi-tenancy with EF Core in Blazor Server Apps (Jeremy Likness) Announcing XD to Flutter v2.0! (Grant Skinner) Getting Started Calling the Microsoft Graph API (Dan Wahlin) Make microservices fun again with Dapr (Dave Brock) Web & Cloud Development Access […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/7kdyHC9dQVw/",
-          "publishedOn": "2021-04-30T10:35:42.000Z",
-          "wordCount": 1027,
-          "title": "Dew Drop – April 30, 2021 (#3434)"
         }
       ]
     },
@@ -121,12 +121,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7492",
+          "author": "Chris Alcock",
+          "description": "Information Conversation about PGO – Richard Lander Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ – Paul DeVito Extending the calculator implementation: Creating a Simple Moving Average calculator in C# – Part 3 – Andrew Lock Azure Static Web Apps: Bring Your Own Function (BYOF) – Dennes Torres 5 Ways to Speed […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/Rt1WPkRewek/",
+          "publishedOn": "2021-05-19T06:00:00.000Z",
+          "wordCount": 631,
+          "title": "The Morning Brew #3234"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7490",
           "author": "Chris Alcock",
           "description": "Information Against consistency – Mark Seemann Exploring the Visual Studio Code REST Book extension for native Notebooks – Scott Hanselman Securing OAuth Bearer tokens from multiple Identity Providers in an ASP.NET Core API – Damien Bowden Custom User Message Extension Methods in C# and MVC – Matthew Jones C# serialization with JsonSchema and System.Text.Json – […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uqIvTvnFqao/",
           "publishedOn": "2021-05-18T06:00:03.000Z",
-          "wordCount": 614,
+          "wordCount": 619,
           "title": "The Morning Brew #3233"
         },
         {
@@ -144,7 +153,7 @@
           "description": "Software Announcing TypeScript 4.3 RC – Daniel Rosenwasser .NET Framework May 2021 Security and Quality Rollup Updates – Tara Overfield Information Problem Details for Better REST HTTP API Errors – Derek Comartin Project Reunion – Robert Green & Andrew Clinick Streaming JSON Objects (NDJSON) With HttpClient – Tomasz Pęczek Building CorLife’s “Lockdown Countdown” website using […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/tFKDLZLtOIo/",
           "publishedOn": "2021-05-14T06:00:00.000Z",
-          "wordCount": 644,
+          "wordCount": 637,
           "title": "The Morning Brew #3231"
         },
         {
@@ -155,15 +164,6 @@
           "publishedOn": "2021-05-13T06:00:00.000Z",
           "wordCount": 620,
           "title": "The Morning Brew #3230"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7482",
-          "author": "Chris Alcock",
-          "description": "Information Put a DPAD on that GC! – Maoni Stephens .NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28 – Rahul Bhandari Building an Event Driven .NET Application: The Fundamentals – Paul DeVito Making the calculator thread-safe: Creating a Simple Moving Average calculator in C# – Part 2 – Andrew Lock Using C# Named Arguments to […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/EB8TKF1wzgM/",
-          "publishedOn": "2021-05-12T06:00:00.000Z",
-          "wordCount": 645,
-          "title": "The Morning Brew #3229"
         }
       ]
     },
@@ -172,6 +172,24 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
+          "author": null,
+          "description": "The Telerik PdfViewer now supports Type 3 fonts for WPF, WinForms and Xamarin!\nUntil now, Type 3 fonts were the missing piece in our font support and were one of the most-demanded features for the Telerik PdfViewer. We are excited to announce that Type 3 fonts are now fully supported out of the box!\nThe Telerik PdfViewer for WPF, WinForms and Xamarin already supports a wide range of font types, including:\nType 1 fonts: This is the original format created by Adobe. The glyphs are described using a simplified…",
+          "link": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
+          "publishedOn": "2021-05-19T12:58:00.000Z",
+          "wordCount": 1392,
+          "title": "Type 3 Font Support in PdfViewer for WPF, WinForms and Xamarin Is Here"
+        },
+        {
+          "id": "https://www.telerik.com/blogs/why-you-should-be-building-mvps",
+          "author": null,
+          "description": "Website and app development can be a lengthy and costly process. And there’s no guarantee that your users will even love your product after launch … or is there? Here’s how a proof-of-concept MVP (minimum viable product) can work for you.\nWhen designing something new—be it a mobile app, web app, PWA or website—do you ever feel a sense of dread? Like you know there’s something good here, but you’re worried that the client or your boss has bitten off more than they can chew? And that, once launched, the solut…",
+          "link": "https://www.telerik.com/blogs/why-you-should-be-building-mvps",
+          "publishedOn": "2021-05-19T11:40:03.000Z",
+          "wordCount": 2570,
+          "title": "Why You Should Be Building MVPs"
+        },
         {
           "id": "https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices",
           "author": null,
@@ -288,24 +306,6 @@
           "publishedOn": "2021-05-12T15:26:34.000Z",
           "wordCount": 2950,
           "title": "What’s New in Telerik UI for ASP.NET MVC R2 2021"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021",
-          "author": null,
-          "description": "The Telerik R2 2021 release for UI for ASP.NET Core brings sleek and feature-rich components, plus new Grid, Editor features, Linux Installer, compatibility with .NET 6 latest preview and much more.\nHey developer folks, it’s time for another massive release with new UI components, features and tooling for your ASP.NET Core applications.\nThe Telerik R2 2021 release brings sleek and feature-rich UI for ASP.NET Core Task Board, Circular Gauge, ActionSheet, Skeleton components plus new Grid, Editor features, Li…",
-          "link": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-core-r2-2021",
-          "publishedOn": "2021-05-12T15:19:00.000Z",
-          "wordCount": 3185,
-          "title": "What’s New in Telerik UI for ASP.NET Core R2 2021"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more",
-          "author": null,
-          "description": "Our latest WinUI release is live now—announcing Telerik UI for WinUI R2 2021.\nTelerik UI for WinUI R2 2021 is fully packed with fresh new components and features for your WinUI apps. Some of the new goodies are Scheduler, ListView, Shadow, RangeSlider, Swiss QR Barcode as well as many Document Processing features. In addition to all that, we are introducing Project Reunion 0.5.6 support and new sample app—WinUI Theme Editor.\nLet’s see what is new this release.\nProject Reunion 0.5.6 Support\nFirst things firs…",
-          "link": "https://www.telerik.com/blogs/telerik-ui-winui-r2-2021-scheduler-listview-latest-project-reunion-support-more",
-          "publishedOn": "2021-05-12T15:14:59.000Z",
-          "wordCount": 2857,
-          "title": "Telerik UI for WinUI R2 2021: Scheduler, ListView, Latest Project Reunion Support and More"
         }
       ]
     },
@@ -315,12 +315,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340731",
+          "author": "Chris Coyier",
+          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/notion-api/",
+          "publishedOn": "2021-05-19T23:18:42.000Z",
+          "wordCount": 1042,
+          "title": "Notion API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340692",
+          "author": "Shubham Jain",
+          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
+          "publishedOn": "2021-05-19T14:28:19.000Z",
+          "wordCount": 1417,
+          "title": "svg-loader: A Different Way to Work With External SVG"
+        },
+        {
           "id": "https://css-tricks.com/?p=340613",
           "author": "Chris Coyier",
           "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
           "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 973,
+          "wordCount": 1082,
           "title": "Pinned Audio WordPress Theme"
         },
         {
@@ -329,7 +347,7 @@
           "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
           "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2100,
+          "wordCount": 2364,
           "title": "How to Create Neon Text With CSS"
         },
         {
@@ -347,7 +365,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2174,
+          "wordCount": 2463,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -428,26 +446,8 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2918,
+          "wordCount": 3015,
           "title": "Making Disabled Buttons More Inclusive"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340359",
-          "author": "Chris Coyier",
-          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
-          "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 498,
-          "title": "CSS Pie Timer Re-Revisited"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340186",
-          "author": "Geoff Graham",
-          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
-          "publishedOn": "2021-05-11T21:04:32.000Z",
-          "wordCount": 1416,
-          "title": "I could build this during the weekend"
         }
       ]
     },
@@ -456,6 +456,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "publishedOn": "2021-05-19T11:40:00.000Z",
+          "wordCount": 4986,
+          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
@@ -671,15 +680,6 @@
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "title": "Making GraphQL Work In WordPress"
         }
       ]
     },
@@ -688,6 +688,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a42386906c5207e3a7dfe2",
+          "author": "",
+          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
+          "link": "https://www.freecodecamp.org/news/what-is-web3/",
+          "publishedOn": "2021-05-19T21:09:01.000Z",
+          "wordCount": 2086,
+          "title": "What is Web3? The Decentralized Internet of the Future Explained"
+        },
+        {
+          "id": "60a469ec906c5207e3a7e1b9",
+          "author": "",
+          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
+          "publishedOn": "2021-05-19T17:30:08.000Z",
+          "wordCount": 1981,
+          "title": "How to Optimize for Change in Software Development"
+        },
+        {
+          "id": "60a53182906c5207e3a7e588",
+          "author": "",
+          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
+          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
+          "publishedOn": "2021-05-18T21:04:00.000Z",
+          "wordCount": 2258,
+          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
+        },
         {
           "id": "60a3780f906c5207e3a7db5f",
           "author": "",
@@ -743,40 +770,13 @@
           "title": "HTML vs JSX – What&#x27;s the Difference?"
         },
         {
-          "id": "60a16df162ab9107fe5ab01b",
+          "id": "60a536e1906c5207e3a7e6b5",
           "author": "",
-          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
-          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
-          "publishedOn": "2021-05-17T17:45:50.000Z",
-          "wordCount": 1282,
-          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
-        },
-        {
-          "id": "609f552e62ab9107fe5aaba0",
-          "author": "",
-          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
-          "publishedOn": "2021-05-17T16:25:22.000Z",
-          "wordCount": 1076,
-          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
-        },
-        {
-          "id": "609cb90262ab9107fe5aa026",
-          "author": "",
-          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
-          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
-          "publishedOn": "2021-05-17T14:39:55.000Z",
-          "wordCount": 1233,
-          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
-        },
-        {
-          "id": "609d63e962ab9107fe5aa2ce",
-          "author": "",
-          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
-          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
-          "publishedOn": "2021-05-14T20:31:30.000Z",
-          "wordCount": 1293,
-          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
+          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
+          "publishedOn": "2021-05-17T20:45:00.000Z",
+          "wordCount": 4218,
+          "title": "The Complete Guide to Full Stack Ethereum Development"
         }
       ]
     }
