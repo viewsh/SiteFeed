@@ -6,12 +6,21 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33837",
+          "author": "Alvin A.",
+          "description": "Top Links Developing on a M1 Mac with Visual Studio for Mac (Aaron LaBeau) MvvmGen 1.1.0 and the New Special Edition: PURE CODE GENERATION – No Runtime Dependency For Your Project! (Thomas Claudius Huber) The future of Internet Explorer on Windows 10 is in Microsoft Edge (Sean Lyndersay) What’s new in Flutter 2.2 (Chris Sells) […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/tZCME5zaIbA/",
+          "publishedOn": "2021-05-20T11:37:02.000Z",
+          "wordCount": 1305,
+          "title": "Dew Drop – May 20, 2021 (#3447)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33835",
           "author": "Alvin A.",
           "description": "Top Links The Visual Studio family welcomes you at Microsoft Build 2021 (Sachin Thakur) Announcing Flutter 2.2 at Google I/O 2021 (Tim Sneath) Visual Studio 2019 version 16.10 Preview 4 Release Notes (Microsoft Docs) What’s new in Android 12 Beta (Dave Burke) Introducing Angular DevTools (Minko Gechev) Conversation about PGO (Richard Lander) The Future of […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/UKMOS_RLBJc/",
           "publishedOn": "2021-05-19T11:02:24.000Z",
-          "wordCount": 1335,
+          "wordCount": 1341,
           "title": "Dew Drop – May 19, 2021 (#3446)"
         },
         {
@@ -103,15 +112,6 @@
           "publishedOn": "2021-05-04T11:02:04.000Z",
           "wordCount": 878,
           "title": "Dew Drop – May the 4th, 2021 (#3436)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33813",
-          "author": "Alvin A.",
-          "description": "Top Links Azure Event Grid, Event Hubs, and Service Bus Library Improvements (Lily Ma) .NET Foundation March/April 2021 Update (Claire Novotny) Cloud Engineering: The Future Is Now (Sophia Parafina) Visual Designer, Hot Reload and Beyond (Nick Randolph) Web & Cloud Development What’s new in Svelte: May 2021 (Daniel Sandoval) You Can Label a JavaScript `if` […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/_p9OizUJxHI/",
-          "publishedOn": "2021-05-03T11:12:37.000Z",
-          "wordCount": 1140,
-          "title": "Dew Drop – May 3, 2021 (#3435)"
         }
       ]
     },
@@ -121,12 +121,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7494",
+          "author": "Chris Alcock",
+          "description": "Information Conversation about ready to run – Richard Lander The Mediator Pattern – Gary Woodfine Improve the performance of git on WSL2 – Piotr Stapp The Future of Windows (and other Platforms) Development – Nick Randolph The future of database DevOps – Pramod Sadalage Developing on a M1 Mac with Visual Studio for Mac – […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uz-k--3j60k/",
+          "publishedOn": "2021-05-20T06:00:00.000Z",
+          "wordCount": 609,
+          "title": "The Morning Brew #3235"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7492",
           "author": "Chris Alcock",
           "description": "Information Conversation about PGO – Richard Lander Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ – Paul DeVito Extending the calculator implementation: Creating a Simple Moving Average calculator in C# – Part 3 – Andrew Lock Azure Static Web Apps: Bring Your Own Function (BYOF) – Dennes Torres 5 Ways to Speed […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/Rt1WPkRewek/",
           "publishedOn": "2021-05-19T06:00:00.000Z",
-          "wordCount": 631,
+          "wordCount": 636,
           "title": "The Morning Brew #3234"
         },
         {
@@ -155,15 +164,6 @@
           "publishedOn": "2021-05-14T06:00:00.000Z",
           "wordCount": 637,
           "title": "The Morning Brew #3231"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7484",
-          "author": "Chris Alcock",
-          "description": "Software Visual Studio 2019 version 16.9 Release Notes – Visual Studio Team Information My Favorite C# Features – Part 4: Project Structure – Jeffrey T. Fritz ASP.NET Core in .NET 6 – Part 08 – CSS isolation for MVC Views and Razor Pages – Jürgen Gutsch Develop production-scale modern web apps quickly with Azure Static […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uz1HlD4Dfok/",
-          "publishedOn": "2021-05-13T06:00:00.000Z",
-          "wordCount": 620,
-          "title": "The Morning Brew #3230"
         }
       ]
     },
@@ -172,6 +172,24 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/tools-tips-building-apps-accessibility-first-mindset",
+          "author": null,
+          "description": "Let’s take a moment to understand what an accessibility-first mindset is and some simple steps developers can take to create accessible apps.\nWe may celebrate World Accessibility Day on May 20 this year; however, building apps with an accessibility-first mindset is something we should strive to do every day. But what does that mean—accessibility-first mindset? And why should a developer care?\nBuilding Software Should Be Empathetic\nAccessibility expert and JetBrains Developer Advocate Rachel Appel says it be…",
+          "link": "https://www.telerik.com/blogs/tools-tips-building-apps-accessibility-first-mindset",
+          "publishedOn": "2021-05-20T14:15:35.000Z",
+          "wordCount": 2008,
+          "title": "Tools & Tips for Building Apps with an Accessibility-First Mindset"
+        },
+        {
+          "id": "https://www.telerik.com/blogs/understanding-web-audio-api",
+          "author": null,
+          "description": "Understand more about the Web Audio API, an API that allows us to create and manage sounds in our browser very easily.\nBefore the release of HTML5, creating applications that were going to use audio was very difficult. The poor support of browser APIs was the main cause, and developers would have to search and use alternatives that weren’t quite conventional or appropriate for the job.\nCan you imagine how developers managed to use audio on the web before the creation of the <audio> element for example? Some…",
+          "link": "https://www.telerik.com/blogs/understanding-web-audio-api",
+          "publishedOn": "2021-05-20T10:44:07.000Z",
+          "wordCount": 2466,
+          "title": "Understanding the Web Audio API"
+        },
         {
           "id": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
           "author": null,
@@ -288,24 +306,6 @@
           "publishedOn": "2021-05-12T15:31:38.000Z",
           "wordCount": 2654,
           "title": "What’s New in KendoReact with R2 2021"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/telerik-ui-for-wpf-r2-2021-brings-suggested-actions-new-barcodes-dark-themes-and-more",
-          "author": null,
-          "description": "The second major release for this year is live today. Announcing R2 2021 of Telerik UI for WPF and Telerik UI for Silverlight. \nR2 2021 is packed with cool stuff like: Suggested Actions and .NET 6 Preview 3 support, new Barcode implementation that brings few new Barcode types, official CardView, RichTextBox Shapes, many Document Processing features and lots more. On the top of all the features, we are adding dark variations for Material and VisualStudio2019 themes and introducing .NET 5 sample applications.…",
-          "link": "https://www.telerik.com/blogs/telerik-ui-for-wpf-r2-2021-brings-suggested-actions-new-barcodes-dark-themes-and-more",
-          "publishedOn": "2021-05-12T15:29:05.000Z",
-          "wordCount": 2642,
-          "title": "Telerik UI for WPF R2 2021 Brings Suggested Actions, New Barcodes, Dark Themes and More"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-mvc-r2-2021",
-          "author": null,
-          "description": "The Telerik R2 2021 release brings new sleek and feature-rich components, plus big new features to some of your favorite components.\nHey developer folks, it’s time for another massive release with new ASP.NET MVC UI components, features and tooling for your applications. \nThe Telerik R2 2021 release brings sleek and feature rich MVC components such as Task Board, Circular Gauge, Action Sheet and Skeleton , plus new features in the Grid, Editor, Drawer, TreeList, QR Code, Scheduler and Map components, online…",
-          "link": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-mvc-r2-2021",
-          "publishedOn": "2021-05-12T15:26:34.000Z",
-          "wordCount": 2950,
-          "title": "What’s New in Telerik UI for ASP.NET MVC R2 2021"
         }
       ]
     },
@@ -314,6 +314,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340599",
+          "author": "Chris Coyier",
+          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/json-in-css/",
+          "publishedOn": "2021-05-20T22:29:53.000Z",
+          "wordCount": 631,
+          "title": "JSON in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340933",
+          "author": "Chris Coyier",
+          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/learn/css/",
+          "publishedOn": "2021-05-20T21:51:43.000Z",
+          "wordCount": 991,
+          "title": "Learn CSS!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340715",
+          "author": "Jhey Tompkins",
+          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
+          "publishedOn": "2021-05-20T14:24:12.000Z",
+          "wordCount": 1691,
+          "title": "Can We Create a “Resize Hack” With Container Queries?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340897",
+          "author": "Chris Coyier",
+          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
+          "publishedOn": "2021-05-20T14:20:56.000Z",
+          "wordCount": 1196,
+          "title": "fit-content and fit-content()"
+        },
         {
           "id": "https://css-tricks.com/?p=340731",
           "author": "Chris Coyier",
@@ -329,7 +365,7 @@
           "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1417,
+          "wordCount": 1558,
           "title": "svg-loader: A Different Way to Work With External SVG"
         },
         {
@@ -347,7 +383,7 @@
           "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
           "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2364,
+          "wordCount": 2401,
           "title": "How to Create Neon Text With CSS"
         },
         {
@@ -365,7 +401,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2463,
+          "wordCount": 2661,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -412,42 +448,6 @@
           "publishedOn": "2021-05-13T23:22:45.000Z",
           "wordCount": 1594,
           "title": "DevTools for CSS layouts 2021 edition"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340573",
-          "author": "Chris Coyier",
-          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
-          "publishedOn": "2021-05-13T22:55:35.000Z",
-          "wordCount": 605,
-          "title": "2021 Design Systems (Survey/Courses)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340036",
-          "author": "Temani Afif",
-          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
-          "publishedOn": "2021-05-13T14:24:42.000Z",
-          "wordCount": 2745,
-          "title": "Advanced CSS Animation Using cubic-bezier()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340118",
-          "author": "Chris Coyier",
-          "description": "Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
-          "publishedOn": "2021-05-13T14:24:35.000Z",
-          "wordCount": 986,
-          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339960",
-          "author": "Sandrina Pereira",
-          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
-          "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 3015,
-          "title": "Making Disabled Buttons More Inclusive"
         }
       ]
     },
@@ -456,6 +456,24 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
+          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "publishedOn": "2021-05-20T14:20:00.000Z",
+          "wordCount": 831,
+          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
+          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
+          "publishedOn": "2021-05-20T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "How To Implement Authentication In Next.js With Auth0"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -671,15 +689,6 @@
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "author": "hello@smashingmagazine.com (Matt Saunders)",
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         }
       ]
     },
@@ -689,12 +698,57 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a6b3ab906c5207e3a7f5fa",
+          "author": "",
+          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
+          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
+          "publishedOn": "2021-05-20T19:14:48.000Z",
+          "wordCount": 397,
+          "title": "Angular 11 Tutorial: Code a Project from Scratch"
+        },
+        {
+          "id": "60a694ab906c5207e3a7f544",
+          "author": "",
+          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
+          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
+          "publishedOn": "2021-05-20T17:12:29.000Z",
+          "wordCount": 436,
+          "title": "Learn Modern C++ by Building an Audio Plugin"
+        },
+        {
+          "id": "60a4b5c7906c5207e3a7e2bb",
+          "author": "",
+          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
+          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
+          "publishedOn": "2021-05-20T15:20:53.000Z",
+          "wordCount": 1493,
+          "title": "How to Get Started with Version Control Using Git"
+        },
+        {
+          "id": "60a36742906c5207e3a7da6e",
+          "author": "",
+          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
+          "publishedOn": "2021-05-20T14:53:38.000Z",
+          "wordCount": 1202,
+          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
+        },
+        {
+          "id": "60a341f5906c5207e3a7da61",
+          "author": "",
+          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
+          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
+          "publishedOn": "2021-05-19T23:17:21.000Z",
+          "wordCount": 2742,
+          "title": "How to Use CSS Selectors to Style Your Web Page"
+        },
+        {
           "id": "60a42386906c5207e3a7dfe2",
           "author": "",
           "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
           "link": "https://www.freecodecamp.org/news/what-is-web3/",
           "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2086,
+          "wordCount": 2087,
           "title": "What is Web3? The Decentralized Internet of the Future Explained"
         },
         {
@@ -732,51 +786,6 @@
           "publishedOn": "2021-05-18T16:50:36.000Z",
           "wordCount": 3309,
           "title": "Coding Programs – 101 Ways to Learn to Code for Free"
-        },
-        {
-          "id": "609bea6b62ab9107fe5a9f89",
-          "author": "",
-          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
-          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
-          "publishedOn": "2021-05-18T16:36:22.000Z",
-          "wordCount": 1938,
-          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
-        },
-        {
-          "id": "609fc4cc62ab9107fe5aac91",
-          "author": "",
-          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
-          "publishedOn": "2021-05-18T16:18:18.000Z",
-          "wordCount": 2037,
-          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
-        },
-        {
-          "id": "60685767d5756f080ba93df4",
-          "author": "",
-          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
-          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
-          "publishedOn": "2021-05-18T16:08:27.000Z",
-          "wordCount": 4368,
-          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
-        },
-        {
-          "id": "60a2771762ab9107fe5ab383",
-          "author": "",
-          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
-          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
-          "publishedOn": "2021-05-17T21:11:58.000Z",
-          "wordCount": 1169,
-          "title": "HTML vs JSX – What&#x27;s the Difference?"
-        },
-        {
-          "id": "60a536e1906c5207e3a7e6b5",
-          "author": "",
-          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
-          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
-          "publishedOn": "2021-05-17T20:45:00.000Z",
-          "wordCount": 4218,
-          "title": "The Complete Guide to Full Stack Ethereum Development"
         }
       ]
     }
