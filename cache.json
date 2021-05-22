@@ -6,12 +6,21 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33839",
+          "author": "Alvin A.",
+          "description": "Top Links Microsoft Build Cloud Skills Challenge 2021 (Microsoft Learn) Introducing WebContainers: Run Node.js natively in your browser (Eric Simons) Announcing new file components, MSAL 2 Provider, and SharePoint Framework library in Microsoft Graph Toolkit (MIcrosoft Graph Toolkit Team) New Uno Platform Docs Launched (Uno Platform Team) TechBash 2021 CFP – Two Weeks Left! Submit […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/PyRsedW1lkI/",
+          "publishedOn": "2021-05-21T10:52:18.000Z",
+          "wordCount": 1131,
+          "title": "Dew Drop – May 21, 2021 (#3448)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33837",
           "author": "Alvin A.",
           "description": "Top Links Developing on a M1 Mac with Visual Studio for Mac (Aaron LaBeau) MvvmGen 1.1.0 and the New Special Edition: PURE CODE GENERATION – No Runtime Dependency For Your Project! (Thomas Claudius Huber) The future of Internet Explorer on Windows 10 is in Microsoft Edge (Sean Lyndersay) What’s new in Flutter 2.2 (Chris Sells) […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/tZCME5zaIbA/",
           "publishedOn": "2021-05-20T11:37:02.000Z",
-          "wordCount": 1305,
+          "wordCount": 1311,
           "title": "Dew Drop – May 20, 2021 (#3447)"
         },
         {
@@ -103,15 +112,6 @@
           "publishedOn": "2021-05-05T11:02:30.000Z",
           "wordCount": 1029,
           "title": "Dew Drop – May 5, 2021 (#3437)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33815",
-          "author": "Alvin A.",
-          "description": "Top Links The future of gRPC in C# belongs to grpc-dotnet (Jan Tattermusch) .NET Annotated | May 2021 (Rachel Appel) Evolving modular monoliths: 1. An architecture for .NET (Jon P. Smith) Quickly develop apps with App Studio for Microsoft Teams (Office Dev Center) Web & Cloud Development Lost in Azure cloud identity – part 2 […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/QgAmpMAdlhI/",
-          "publishedOn": "2021-05-04T11:02:04.000Z",
-          "wordCount": 878,
-          "title": "Dew Drop – May the 4th, 2021 (#3436)"
         }
       ]
     },
@@ -121,12 +121,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7496",
+          "author": "Chris Alcock",
+          "description": "Information Simplifying web apps with Static Web Apps – Aaron Powell ASP.NET, registration of a proxy-decorator service in ServiceCollection – Daniel Wertheim Receiving JSON Objects Stream (NDJSON) in ASP.NET Core MVC – Tomasz Pęczek Testing your Domain when Event Sourcing – Derek Comartin Authenticated Encryption in .NET with AES-GCM – Scott Brady ASP.NET Core – […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/USYgUNau3_w/",
+          "publishedOn": "2021-05-21T06:00:00.000Z",
+          "wordCount": 602,
+          "title": "The Morning Brew #3236"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7494",
           "author": "Chris Alcock",
           "description": "Information Conversation about ready to run – Richard Lander The Mediator Pattern – Gary Woodfine Improve the performance of git on WSL2 – Piotr Stapp The Future of Windows (and other Platforms) Development – Nick Randolph The future of database DevOps – Pramod Sadalage Developing on a M1 Mac with Visual Studio for Mac – […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uz-k--3j60k/",
           "publishedOn": "2021-05-20T06:00:00.000Z",
-          "wordCount": 609,
+          "wordCount": 614,
           "title": "The Morning Brew #3235"
         },
         {
@@ -155,15 +164,6 @@
           "publishedOn": "2021-05-17T06:00:00.000Z",
           "wordCount": 606,
           "title": "The Morning Brew #3232"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7486",
-          "author": "Chris Alcock",
-          "description": "Software Announcing TypeScript 4.3 RC – Daniel Rosenwasser .NET Framework May 2021 Security and Quality Rollup Updates – Tara Overfield Information Problem Details for Better REST HTTP API Errors – Derek Comartin Project Reunion – Robert Green & Andrew Clinick Streaming JSON Objects (NDJSON) With HttpClient – Tomasz Pęczek Building CorLife’s “Lockdown Countdown” website using […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/tFKDLZLtOIo/",
-          "publishedOn": "2021-05-14T06:00:00.000Z",
-          "wordCount": 637,
-          "title": "The Morning Brew #3231"
         }
       ]
     },
@@ -172,6 +172,15 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/angular-basics-10-helpful-native-web-apis-every-new-javascript-developer-should-know",
+          "author": null,
+          "description": "These JavaScript APIs are need-to-know for any new developer, including our friends who are getting started in Angular.\nWhen you start coding, you often rely on libraries you might not need. Worse, you can sometimes reinvent the wheel by coding a specific function yourself while a native API exists. \nWe are in 2021, and modern browsers are becoming more and more powerful. Every single week, new versions are released with new functionalities to make our lives easier. This is why my goal in this article is to…",
+          "link": "https://www.telerik.com/blogs/angular-basics-10-helpful-native-web-apis-every-new-javascript-developer-should-know",
+          "publishedOn": "2021-05-21T13:01:01.000Z",
+          "wordCount": 2814,
+          "title": "Angular Basics: 10 Helpful Native Web APIs Every New JavaScript Developer Should Know"
+        },
         {
           "id": "https://www.telerik.com/blogs/tools-tips-building-apps-accessibility-first-mindset",
           "author": null,
@@ -297,15 +306,6 @@
           "publishedOn": "2021-05-12T15:35:47.000Z",
           "wordCount": 1949,
           "title": "What’s New in Kendo UI for Vue with R2 2021"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/whats-new-kendoreact-r2-2021",
-          "author": null,
-          "description": "R2 2021 means: TypeScript and hook-equivalent support for our samples and demos, new components like Skeleton and Circular Gauge, and a slew of improvements across several existing components like the Data Grid and Gantt.\nMay is here and that means another exciting release of KendoReact. R2 2021 brings new components like the Circular Gauge and some highly requested features across a huge set of our existing UI components. Let’s not drag things out and just jump straight into what’s new in KendoReact with R…",
-          "link": "https://www.telerik.com/blogs/whats-new-kendoreact-r2-2021",
-          "publishedOn": "2021-05-12T15:31:38.000Z",
-          "wordCount": 2654,
-          "title": "What’s New in KendoReact with R2 2021"
         }
       ]
     },
@@ -315,12 +315,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340991",
+          "author": "Chris Coyier",
+          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
+          "publishedOn": "2021-05-21T23:22:54.000Z",
+          "wordCount": 1166,
+          "title": "Should DevTools teach the CSS cascade?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340825",
+          "author": "Adam Rackis",
+          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
+          "publishedOn": "2021-05-21T14:30:59.000Z",
+          "wordCount": 3256,
+          "title": "Svelte for the Experienced React Dev"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340919",
+          "author": "Chris Coyier",
+          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://csshell.dev/",
+          "publishedOn": "2021-05-21T14:29:16.000Z",
+          "wordCount": 295,
+          "title": "CSS Hell"
+        },
+        {
           "id": "https://css-tricks.com/?p=340599",
           "author": "Chris Coyier",
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 631,
+          "wordCount": 929,
           "title": "JSON in CSS"
         },
         {
@@ -329,7 +356,7 @@
           "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://web.dev/learn/css/",
           "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 991,
+          "wordCount": 1040,
           "title": "Learn CSS!"
         },
         {
@@ -338,7 +365,7 @@
           "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
           "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1691,
+          "wordCount": 1725,
           "title": "Can We Create a “Resize Hack” With Container Queries?"
         },
         {
@@ -365,7 +392,7 @@
           "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1558,
+          "wordCount": 1606,
           "title": "svg-loader: A Different Way to Work With External SVG"
         },
         {
@@ -401,7 +428,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2661,
+          "wordCount": 2908,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -421,33 +448,6 @@
           "publishedOn": "2021-05-14T20:34:49.000Z",
           "wordCount": 2298,
           "title": "Auto-Generated Social Media Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340343",
-          "author": "Nathan Babcock",
-          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "publishedOn": "2021-05-14T14:14:34.000Z",
-          "wordCount": 1344,
-          "title": "Creating Stylesheet Feature Flags With Sass !default"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340403",
-          "author": "Chris Coyier",
-          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/html-boilerplates/",
-          "publishedOn": "2021-05-14T14:13:07.000Z",
-          "wordCount": 781,
-          "title": "HTML Boilerplates"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340490",
-          "author": "Chris Coyier",
-          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
-          "publishedOn": "2021-05-13T23:22:45.000Z",
-          "wordCount": 1594,
-          "title": "DevTools for CSS layouts 2021 edition"
         }
       ]
     },
@@ -456,6 +456,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
+          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "publishedOn": "2021-05-21T11:30:00.000Z",
+          "wordCount": 9398,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -477,7 +486,7 @@
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
+          "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
           "wordCount": 4986,
@@ -680,15 +689,6 @@
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Lee Robinson)",
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         }
       ]
     },
@@ -697,6 +697,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6098ce302cd0545b5e944d0b",
+          "author": "",
+          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
+          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
+          "publishedOn": "2021-05-21T15:33:45.000Z",
+          "wordCount": 4309,
+          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
+        },
         {
           "id": "60a6b3ab906c5207e3a7f5fa",
           "author": "",
@@ -777,15 +786,6 @@
           "publishedOn": "2021-05-18T17:12:59.000Z",
           "wordCount": 1973,
           "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
-        },
-        {
-          "id": "6068f146d5756f080ba9402d",
-          "author": "",
-          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
-          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
-          "publishedOn": "2021-05-18T16:50:36.000Z",
-          "wordCount": 3309,
-          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
         }
       ]
     }
