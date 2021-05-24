@@ -153,7 +153,7 @@
           "description": "Information Against consistency – Mark Seemann Exploring the Visual Studio Code REST Book extension for native Notebooks – Scott Hanselman Securing OAuth Bearer tokens from multiple Identity Providers in an ASP.NET Core API – Damien Bowden Custom User Message Extension Methods in C# and MVC – Matthew Jones C# serialization with JsonSchema and System.Text.Json – […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/uqIvTvnFqao/",
           "publishedOn": "2021-05-18T06:00:03.000Z",
-          "wordCount": 619,
+          "wordCount": 612,
           "title": "The Morning Brew #3233"
         },
         {
@@ -175,7 +175,7 @@
         {
           "id": "https://www.telerik.com/blogs/angular-basics-10-helpful-native-web-apis-every-new-javascript-developer-should-know",
           "author": null,
-          "description": "These JavaScript APIs are need-to-know for any new developer, including our friends who are getting started in Angular.\nWhen you start coding, you often rely on libraries you might not need. Worse, you can sometimes reinvent the wheel by coding a specific function yourself while a native API exists. \nWe are in 2021, and modern browsers are becoming more and more powerful. Every single week, new versions are released with new functionalities to make our lives easier. This is why my goal in this article is to…",
+          "description": "These JavaScript APIs are need-to-know for any new developer, including our friends who are getting started in Angular.",
           "link": "https://www.telerik.com/blogs/angular-basics-10-helpful-native-web-apis-every-new-javascript-developer-should-know",
           "publishedOn": "2021-05-21T13:01:01.000Z",
           "wordCount": 2814,
@@ -184,7 +184,7 @@
         {
           "id": "https://www.telerik.com/blogs/tools-tips-building-apps-accessibility-first-mindset",
           "author": null,
-          "description": "Let’s take a moment to understand what an accessibility-first mindset is and some simple steps developers can take to create accessible apps.\nWe may celebrate World Accessibility Day on May 20 this year; however, building apps with an accessibility-first mindset is something we should strive to do every day. But what does that mean—accessibility-first mindset? And why should a developer care?\nBuilding Software Should Be Empathetic\nAccessibility expert and JetBrains Developer Advocate Rachel Appel says it be…",
+          "description": "Let’s take a moment to understand what an accessibility-first mindset is and some simple steps developers can take to create accessible apps.",
           "link": "https://www.telerik.com/blogs/tools-tips-building-apps-accessibility-first-mindset",
           "publishedOn": "2021-05-20T14:15:35.000Z",
           "wordCount": 2008,
@@ -193,7 +193,7 @@
         {
           "id": "https://www.telerik.com/blogs/understanding-web-audio-api",
           "author": null,
-          "description": "Understand more about the Web Audio API, an API that allows us to create and manage sounds in our browser very easily.\nBefore the release of HTML5, creating applications that were going to use audio was very difficult. The poor support of browser APIs was the main cause, and developers would have to search and use alternatives that weren’t quite conventional or appropriate for the job.\nCan you imagine how developers managed to use audio on the web before the creation of the <audio> element for example? Some…",
+          "description": "Understand more about the Web Audio API, an API that allows us to create and manage sounds in our browser very easily.",
           "link": "https://www.telerik.com/blogs/understanding-web-audio-api",
           "publishedOn": "2021-05-20T10:44:07.000Z",
           "wordCount": 2466,
@@ -202,7 +202,7 @@
         {
           "id": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
           "author": null,
-          "description": "The Telerik PdfViewer now supports Type 3 fonts for WPF, WinForms and Xamarin!\nUntil now, Type 3 fonts were the missing piece in our font support and were one of the most-demanded features for the Telerik PdfViewer. We are excited to announce that Type 3 fonts are now fully supported out of the box!\nThe Telerik PdfViewer for WPF, WinForms and Xamarin already supports a wide range of font types, including:\nType 1 fonts: This is the original format created by Adobe. The glyphs are described using a simplified…",
+          "description": "The Telerik PdfViewer now supports Type 3 fonts for WPF, WinForms and Xamarin!",
           "link": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
           "publishedOn": "2021-05-19T12:58:00.000Z",
           "wordCount": 1392,
@@ -211,7 +211,7 @@
         {
           "id": "https://www.telerik.com/blogs/why-you-should-be-building-mvps",
           "author": null,
-          "description": "Website and app development can be a lengthy and costly process. And there’s no guarantee that your users will even love your product after launch … or is there? Here’s how a proof-of-concept MVP (minimum viable product) can work for you.\nWhen designing something new—be it a mobile app, web app, PWA or website—do you ever feel a sense of dread? Like you know there’s something good here, but you’re worried that the client or your boss has bitten off more than they can chew? And that, once launched, the solut…",
+          "description": "Website and app development can be a lengthy and costly process. And there’s no guarantee that your users will even love your product after launch … or is there? Here’s how a proof-of-concept MVP (minimum viable product) can work for you.",
           "link": "https://www.telerik.com/blogs/why-you-should-be-building-mvps",
           "publishedOn": "2021-05-19T11:40:03.000Z",
           "wordCount": 2570,
@@ -220,7 +220,7 @@
         {
           "id": "https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices",
           "author": null,
-          "description": "In this blog post, we’ll build a sample invoice in our React app using HTML and CSS, then generate a PDF file based on this content. Plus, we’ll control the generated page size exclusively through CSS.\nWelcome to the Generating PDF in React blog post series! In Part 1 of this series, “Generating PDF in React: As Easy As 1-2-3,” we covered the basics around generating PDF in React by including a few basic HTML elements and seeing the quickest way we can generate a PDF file from HTML in React.\nIn today’s blog…",
+          "description": "In this blog post, we build a sample invoice in our React app using HTML and CSS and then generate a PDF file based on this content. Additionally we control the generated page size exclusively through CSS.",
           "link": "https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices",
           "publishedOn": "2021-05-18T13:36:03.000Z",
           "wordCount": 4246,
@@ -229,7 +229,7 @@
         {
           "id": "https://www.telerik.com/blogs/5-ways-to-speed-up-your-end-to-end-tests",
           "author": null,
-          "description": "End-to-end tests are an excellent way to deliver high-quality web applications. Unfortunately, these tests tend to be slower than other tests, creating delays in the development process. Here are five tips you can use to keep your tests running efficiently.\nToday’s web applications are more complex than ever. The users of your app expect more than just text and images—they also demand more interactivity and a smooth, seamless experience like they would get from a traditional desktop application. Given the a…",
+          "description": "End-to-end tests are an excellent way to deliver high-quality web applications. Unfortunately, these tests tend to be slower than other tests, creating delays in the development process. Here are five tips you can use to keep your tests running efficiently.",
           "link": "https://www.telerik.com/blogs/5-ways-to-speed-up-your-end-to-end-tests",
           "publishedOn": "2021-05-18T11:05:02.000Z",
           "wordCount": 3293,
@@ -238,7 +238,7 @@
         {
           "id": "https://www.telerik.com/blogs/how-to-organize-and-modify-existing-http-https-requests",
           "author": null,
-          "description": "In this step-by-step tutorial, learn about how to organize and modify existing HTTP and HTTPS requests.\nThe Requests list in Fiddler Everywhere provides the option to save, modify, execute and share previously composed requests. When you save a request using the Composer, the request is added to a collection in the Requests list.\nRequests List\n\nThe Requests list is organized in collections. Each collection is a folder on the root level of the Requests list. A collection can contain saved requests and other …",
+          "description": "In this step-by-step tutorial, learn how to organize and modify existing HTTP and HTTPS requests.",
           "link": "https://www.telerik.com/blogs/how-to-organize-and-modify-existing-http-https-requests",
           "publishedOn": "2021-05-17T11:41:00.000Z",
           "wordCount": 1711,
@@ -247,7 +247,7 @@
         {
           "id": "https://www.telerik.com/blogs/5-reasons-not-to-write-your-javascript-data-grid-from-scratch",
           "author": null,
-          "description": "Data grids (sometimes referred to as data tables) are an essential part of many business applications, and the task to create them can be monumental. Learn about the pitfalls of rolling your own grid, as noted by our engineering teams and the many we have met in the field.\nOf the many awesome things JavaScript (React, Angular, Vue... ) developers can create in their apps, most are really enjoyable, some will give you a bit of a headache but also satisfaction in the end, and a handful should be labeled, “Her…",
+          "description": "Data grids (sometimes referred to as data tables) are an essential part of many business applications, and the task to create them can be monumental. LLearn about the pitfalls of rolling your own grid, as noted by our engineering teams and the many we have met in the field.",
           "link": "https://www.telerik.com/blogs/5-reasons-not-to-write-your-javascript-data-grid-from-scratch",
           "publishedOn": "2021-05-17T11:25:01.000Z",
           "wordCount": 2733,
@@ -256,7 +256,7 @@
         {
           "id": "https://www.telerik.com/blogs/new-features-angular-ivy-language-service",
           "author": null,
-          "description": "Take a look at what Angular has officially released with Ivy Language Service, from type checking and error detection to platform consistency and codebase diagnosis.\nYou might have read our introduction to Angular Language Service post, where we gave you a look at experimental Ivy and what it’s promising. Now Angular has officially released Ivy Language Service, and we are going to take a closer look at the incredible features it offers.\nWhat Is Ivy Language Service?\nWhenever you use an integrated developme…",
+          "description": "Take a look at what Angular has officially released with Ivy Language Service, from type checking and error detection to platform consistency and codebase diagnosis.",
           "link": "https://www.telerik.com/blogs/new-features-angular-ivy-language-service",
           "publishedOn": "2021-05-13T13:55:03.000Z",
           "wordCount": 1987,
@@ -265,7 +265,7 @@
         {
           "id": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021",
           "author": null,
-          "description": "We’re excited to share more about our updates to Telerik UI for ASP.NET AJAX in our most recent release.\nHey developer folks, it’s time for another release with new UI components, features and tooling for your ASP.NET AJAX applications. The Telerik R2 2021 release brings new Switch component, multiple Gantt enhancements such as Planned vs Actual, support for multiple templates for custom content rendering, online technical training available for both active trials and license holders and more.\nRead the dedi…",
+          "description": "The Telerik R2 2021 release brings new Switch component, multiple Gantt enhancements such as Planned vs Actual, support for multiple templates for custom content rendering, online technical training available for both active trials and licenses and more.",
           "link": "https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021",
           "publishedOn": "2021-05-12T15:51:08.000Z",
           "wordCount": 1749,
@@ -274,7 +274,7 @@
         {
           "id": "https://www.telerik.com/blogs/whats-new-kendo-ui-angular-r2-2021",
           "author": null,
-          "description": "The R2 2021 release of Kendo UI for Angular is here.\nWith this release, we officially cross the 100 UI component threshold while introducing some highly requested features and UI components that are sure to please any Angular developer out there. Without further ado, let’s jump straight into the latest and greatest in Angular with R2 2021.\nKendo UI for Angular Turns 100!\n\nWhile we normally may measure how old something is by years, with a UI component library I prefer to measure by total number of component…",
+          "description": "The R2 2021 release of Kendo UI for Angular is here! With this release the total number of Angular UI components in the library goes over 100 by including components like the MultiSelecTree and BottomNavigation—plus so many new features to existing components.",
           "link": "https://www.telerik.com/blogs/whats-new-kendo-ui-angular-r2-2021",
           "publishedOn": "2021-05-12T15:50:58.000Z",
           "wordCount": 2973,
@@ -283,7 +283,7 @@
         {
           "id": "https://www.telerik.com/blogs/whats-new-kendo-ui-jquery-r2-2021",
           "author": null,
-          "description": "The R2 2021 release of Kendo UI for jQuery is here. With this release comes the new TaskBoard, Skeleton and ActionSheet components, along with a ton of new features and improvements across existing components.\nIt’s May and you know what that means—another huge update from Kendo UI for jQuery. With R2 2021 we have added some pretty nifty new components, including the new TaskBoard component, and other highly requested features, so let’s get right to it and cover what’s new in the jQuery UI components with R2…",
+          "description": "The R2 2021 release of Kendo UI for jQuery is here! With this release comes the new TaskBoard, Skeleton and ActionSheet components, along with a ton of new features and improvements across existing components.",
           "link": "https://www.telerik.com/blogs/whats-new-kendo-ui-jquery-r2-2021",
           "publishedOn": "2021-05-12T15:46:58.000Z",
           "wordCount": 2977,
@@ -292,7 +292,7 @@
         {
           "id": "https://www.telerik.com/blogs/winforms-r2-2021-new-callout-control-color-variations-office2019-theme-content-controls-richtexteditor",
           "author": null,
-          "description": "The second official release of 2021 is here for the Telerik UI for WinForms suite. Enjoy the variety of new controls and improvements coming in R2 2021.\nWe are thrilled to announce the new Callout control, dark and gray versions of the Office2019 theme, content controls in RadRichTextEditor, Swiss QR barcode, Toast notifications for .NET 5 and much more. Since customer satisfaction has always been our top priority, 70+ customer-requested issues have also been addressed.\nLet’s dive into the sea of new featur…",
+          "description": "The second official release of 2021 is here for the Telerik UI for WinForms suite. Enjoy the variety of new controls and improvements coming in R2 2021.",
           "link": "https://www.telerik.com/blogs/winforms-r2-2021-new-callout-control-color-variations-office2019-theme-content-controls-richtexteditor",
           "publishedOn": "2021-05-12T15:38:02.000Z",
           "wordCount": 1913,
@@ -301,7 +301,7 @@
         {
           "id": "https://www.telerik.com/blogs/whats-new-kendo-ui-vue-r2-2021",
           "author": null,
-          "description": "The R2 2021 release of Kendo UI for Vue is here, bringing six new native UI components for Vue, including the Button, Floating Action Button and Upload components.\nThe R2 2021 release of Kendo UI for Vue is here and with it comes a big list of new native UI components for Vue. Let’s dive straight in to see what’s new in Kendo UI for Vue with R2 2021.\nNew Components\nNew Component: Button\n\nEvery application needs a button at some point—it’s the main way we get users to perform an action in our Vue application…",
+          "description": "The R2 2021 release of Kendo UI for Vue is here, bringing six new native UI components for Vue, including the Button, Floating Action Button and Upload components.",
           "link": "https://www.telerik.com/blogs/whats-new-kendo-ui-vue-r2-2021",
           "publishedOn": "2021-05-12T15:35:47.000Z",
           "wordCount": 1949,
@@ -320,7 +320,7 @@
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
           "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1166,
+          "wordCount": 1168,
           "title": "Should DevTools teach the CSS cascade?"
         },
         {
@@ -329,7 +329,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3256,
+          "wordCount": 3343,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -347,7 +347,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 929,
+          "wordCount": 1030,
           "title": "JSON in CSS"
         },
         {
@@ -428,7 +428,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2908,
+          "wordCount": 2963,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -681,7 +681,7 @@
       "articles": [
         {
           "id": "6098ce302cd0545b5e944d0b",
-          "author": "",
+          "author": null,
           "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
           "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
           "publishedOn": "2021-05-21T15:33:45.000Z",
@@ -690,7 +690,7 @@
         },
         {
           "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
+          "author": null,
           "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
           "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
           "publishedOn": "2021-05-20T19:14:48.000Z",
@@ -699,7 +699,7 @@
         },
         {
           "id": "60a694ab906c5207e3a7f544",
-          "author": "",
+          "author": null,
           "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
           "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
           "publishedOn": "2021-05-20T17:12:29.000Z",
@@ -708,7 +708,7 @@
         },
         {
           "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
+          "author": null,
           "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
           "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
           "publishedOn": "2021-05-20T15:20:53.000Z",
@@ -717,7 +717,7 @@
         },
         {
           "id": "60a36742906c5207e3a7da6e",
-          "author": "",
+          "author": null,
           "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
           "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
           "publishedOn": "2021-05-20T14:53:38.000Z",
@@ -726,7 +726,7 @@
         },
         {
           "id": "60a341f5906c5207e3a7da61",
-          "author": "",
+          "author": null,
           "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
           "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
           "publishedOn": "2021-05-19T23:17:21.000Z",
@@ -735,7 +735,7 @@
         },
         {
           "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
+          "author": null,
           "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
           "link": "https://www.freecodecamp.org/news/what-is-web3/",
           "publishedOn": "2021-05-19T21:09:01.000Z",
@@ -744,7 +744,7 @@
         },
         {
           "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
+          "author": null,
           "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
           "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
           "publishedOn": "2021-05-19T17:30:08.000Z",
@@ -753,7 +753,7 @@
         },
         {
           "id": "60a53182906c5207e3a7e588",
-          "author": "",
+          "author": null,
           "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
           "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
           "publishedOn": "2021-05-18T21:04:00.000Z",
@@ -762,7 +762,7 @@
         },
         {
           "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
+          "author": null,
           "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
           "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
           "publishedOn": "2021-05-18T17:12:59.000Z",
@@ -772,5 +772,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
