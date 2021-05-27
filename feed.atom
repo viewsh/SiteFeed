@@ -1,10 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T01:27:59.326Z</id>
+    <id>urn:2021-05-27T01:41:06.038Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T01:27:59.326Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:41:06.038Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
+        <id>60a44b9f906c5207e3a7e098</id>
+        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
+        <updated>2021-05-26T21:44:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
+        <id>60abe7fb11ffb70827ef63a6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
+        <updated>2021-05-26T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
+        <id>606f4f5fd5756f080ba96b65</id>
+        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
+        <updated>2021-05-26T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
+        <id>https://css-tricks.com/?p=339759</id>
+        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
+        <updated>2021-05-26T17:56:34.000Z</updated>
+        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
+The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Web Components]]></title>
+        <id>https://css-tricks.com/?p=340901</id>
+        <link href="https://css-tricks.com/links-on-web-components/"/>
+        <updated>2021-05-26T17:56:12.000Z</updated>
+        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
+…
+The post Links on Web Components appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
+        <id>60abc59d11ffb70827ef6304</id>
+        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
+        <updated>2021-05-26T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aloha from Telerik UI for MAUI]]></title>
+        <id>https://www.telerik.com/blogs/aloha-from-telerik-ui-for-maui</id>
+        <link href="https://www.telerik.com/blogs/aloha-from-telerik-ui-for-maui"/>
+        <updated>2021-05-26T14:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Say Hello to Telerik UI for MAUI—the newest UI component suite from Progress Telerik to enable .NET MAUI developer success.]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
+        <id>60aced0011ffb70827ef6d96</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
+        <updated>2021-05-26T14:12:27.000Z</updated>
+        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+        <id>https://css-tricks.com/?p=340705</id>
+        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
+        <updated>2021-05-26T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
+We tested 10 different …
+The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andrei Pfeiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
+        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
+        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
+        <updated>2021-05-26T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Hacks to Master Your Automated Test Suite]]></title>
+        <id>https://www.telerik.com/blogs/3-hacks-to-master-your-automated-test-suite</id>
+        <link href="https://www.telerik.com/blogs/3-hacks-to-master-your-automated-test-suite"/>
+        <updated>2021-05-26T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Finding a way to master your automated test suite keeps every tester busy probably not only during working hours. This blog post presents a selection of test recording techniques every tester should consider in an effort to build more stable, reliable and easily maintainable automated tests.]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 26, 2021 (#3451)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33846</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/ra40YD-9CPU/"/>
+        <updated>2021-05-26T11:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Announcing .NET MAUI Preview 4 (David Ortinau) Microsoft ❤️ developers: Welcome to Build 2021 (Scott Guthrie) Announcing .NET 6 Preview 4 (Richard Lander) Flutter 2.2: Creating your first Universal Windows Program (UWP) with Flutter (Xuan Han Tan) Windows Terminal Preview 1.9 Release (Kayla Cinnamon) Visual Studio 2019 v16.10 and v16.11 Preview 1 are […]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3239]]></title>
+        <id>http://blog.cwa.me.uk/?p=7502</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/25WM9uI442M/"/>
+        <updated>2021-05-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software / Build Announcing .NET 6 Preview 4 – Richard Lander ASP.NET Core updates in .NET 6 Preview 4 – Daniel Roth Announcing .NET MAUI Preview 4 – David Ortinau Visual Studio 2019 v16.10 and v16.11 Preview 1 are Available Today! – Justin Johnson Introducing the .NET Hot Reload experience for editing code at runtime […]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
         <id>60ac3a2711ffb70827ef6aec</id>
@@ -61,7 +199,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sleek and Modern UI Design with Telerik and Kendo UI]]></title>
+        <title type="html"><![CDATA[Sleek and Customizable UI for Any Design System and Technology]]></title>
         <id>https://www.telerik.com/blogs/sleek-modern-ui-design-telerik-kendo-ui</id>
         <link href="https://www.telerik.com/blogs/sleek-modern-ui-design-telerik-kendo-ui"/>
         <updated>2021-05-25T12:22:04.000Z</updated>
@@ -156,36 +294,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
-        <id>60aaba5911ffb70827ef5ffc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
-        <updated>2021-05-24T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
-        <id>60ac07ec11ffb70827ef66e4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
-        <updated>2021-05-24T20:36:07.000Z</updated>
-        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
-        <id>60aa161211ffb70827ef5f2c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
-        <updated>2021-05-24T19:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[proxy-www]]></title>
         <id>https://css-tricks.com/?p=341153</id>
         <link href="https://github.com/justjavac/proxy-www"/>
@@ -209,16 +317,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Welcome to the Sands of MAUI—newsletter-style issues dedicated to bringing together the latest .NET MAUI content relevant to developers.]]></summary>
         <author>
             <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
-        <id>60a5248c906c5207e3a7e54b</id>
-        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
-        <updated>2021-05-24T14:54:42.000Z</updated>
-        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -283,16 +381,6 @@ The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
-        <id>6098ce302cd0545b5e944d0b</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
-        <updated>2021-05-21T15:33:45.000Z</updated>
-        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -470,30 +558,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Shubham Jain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Type 3 Font Support in PdfViewer for WPF, WinForms and Xamarin Is Here]]></title>
         <id>https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here</id>
         <link href="https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here"/>
@@ -531,29 +595,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Top Links The Visual Studio family welcomes you at Microsoft Build 2021 (Sachin Thakur) Announcing Flutter 2.2 at Google I/O 2021 (Tim Sneath) Visual Studio 2019 version 16.10 Preview 4 Release Notes (Microsoft Docs) What’s new in Android 12 Beta (Dave Burke) Introducing Angular DevTools (Minko Gechev) Conversation about PGO (Richard Lander) The Future of […]]]></summary>
         <author>
             <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Morning Brew #3234]]></title>
-        <id>http://blog.cwa.me.uk/?p=7492</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/Rt1WPkRewek/"/>
-        <updated>2021-05-19T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Information Conversation about PGO – Richard Lander Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ – Paul DeVito Extending the calculator implementation: Creating a Simple Moving Average calculator in C# – Part 3 – Andrew Lock Azure Static Web Apps: Bring Your Own Function (BYOF) – Dennes Torres 5 Ways to Speed […]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -667,16 +708,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Features of Angular’s Ivy Language Service]]></title>
-        <id>https://www.telerik.com/blogs/new-features-angular-ivy-language-service</id>
-        <link href="https://www.telerik.com/blogs/new-features-angular-ivy-language-service"/>
-        <updated>2021-05-13T13:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Take a look at what Angular has officially released with Ivy Language Service, from type checking and error detection to platform consistency and codebase diagnosis.]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – May 13, 2021 (#3442)]]></title>
         <id>https://www.alvinashcraft.com/?p=33827</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/L-zz-SCd6HU/"/>
@@ -684,16 +715,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Top Links Angular v12 is now available (Mark Techson) Windows Community Toolkit – Release v7.0.2 (Michael Hawker) AngularDart, Flutter, and the web: Spring update (Tim Sneath) My Favorite C# Features – Part 4: Project Structure (Jeffrey T. Fritz) Introducing the brand-new MvvmGen Library – Writing ViewModels for your XAML Applications Has Never Been More Productive […]]]></summary>
         <author>
             <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in Telerik UI for ASP.NET AJAX R2 2021]]></title>
-        <id>https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021</id>
-        <link href="https://www.telerik.com/blogs/whats-new-telerik-ui-aspnet-ajax-r2-2021"/>
-        <updated>2021-05-12T15:51:08.000Z</updated>
-        <summary type="html"><![CDATA[The Telerik R2 2021 release brings new Switch component, multiple Gantt enhancements such as Planned vs Actual, support for multiple templates for custom content rendering, online technical training available for both active trials and licenses and more.]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -754,16 +775,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – May 10, 2021 (#3439)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33821</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/fJ3DAx2xzL0/"/>
-        <updated>2021-05-10T11:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Top Links ASP.NET Core 6 and Authentication Servers (Barry Dorrans) How to create the Tic-Tac-Toe game in Blazor WebAssembly in one hour! (David Grace) C# Async Yield Return: IAsyncEnumerable will change your life!!! (Brian Lagunas) Merge Conflict 253: Past, Present, & Future of Ooui (James Montemagno & Frank Kreuger) Intro of DevOps Dojo (Kan Tang) […]]]></summary>
-        <author>
-            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
@@ -864,16 +875,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
