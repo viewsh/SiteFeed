@@ -1,18 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T02:31:57.718Z</id>
+    <id>urn:2021-06-01T02:56:30.677Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T02:31:57.718Z</updated>
+    <updated>2021-06-01T02:56:30.677Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
-        <updated>2021-05-28T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 31, 2021 (#3454)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33852</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/mTrSzB0NjIs/"/>
+        <updated>2021-05-31T13:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Guide: Getting Started with Windows Package Manager (Winget) v1.0 (Russell Smith) Add inking to your React Native for Windows application (Matteo Pagani) C# Source Generators Cookbook (Roslyn Team) Developer Perspectives Episode 5 | Em Lazer-Walker and Jeremy Sinclair (Windows Developer Team) Running a Windows UI (Project Reunion) App as Partial Trust (Windows App […]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
+        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
+        <updated>2021-05-31T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Reasons to Choose Telerik Reporting]]></title>
+        <id>https://www.telerik.com/blogs/15-reasons-choose-telerik-reporting</id>
+        <link href="https://www.telerik.com/blogs/15-reasons-choose-telerik-reporting"/>
+        <updated>2021-05-31T10:24:02.000Z</updated>
+        <summary type="html"><![CDATA[We’re celebrating Telerik Reporting’s 15th birthday with 15 reasons why it’s your best bet for a comprehensive embedded reporting solution, no matter what technology you’re using.]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -345,6 +393,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
+        <id>60ac3a2711ffb70827ef6aec</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
+        <updated>2021-05-25T22:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
         <id>https://css-tricks.com/?p=340759</id>
         <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
@@ -535,32 +593,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/?p=340825</id>
-        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
-        <updated>2021-05-21T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
-The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Hell]]></title>
-        <id>https://css-tricks.com/?p=340919</id>
-        <link href="https://csshell.dev/"/>
-        <updated>2021-05-21T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
-From Stefánia Péter. 
-Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
-The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Angular Basics: 10 Helpful Native Web APIs Every New JavaScript Developer Should Know]]></title>
         <id>https://www.telerik.com/blogs/angular-basics-10-helpful-native-web-apis-every-new-javascript-developer-should-know</id>
         <link href="https://www.telerik.com/blogs/angular-basics-10-helpful-native-web-apis-every-new-javascript-developer-should-know"/>
@@ -681,16 +713,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generating PDF from HTML in React Demo: Exporting Invoices]]></title>
-        <id>https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices</id>
-        <link href="https://www.telerik.com/blogs/generating-pdf-html-react-demo-exporting-invoices"/>
-        <updated>2021-05-18T13:36:03.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, we build a sample invoice in our React app using HTML and CSS and then generate a PDF file based on this content. Additionally we control the generated page size exclusively through CSS.]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop – May 18, 2021 (#3445)]]></title>
         <id>https://www.alvinashcraft.com/?p=33833</id>
         <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/mcaHP0EhR10/"/>
@@ -758,16 +780,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – May 13, 2021 (#3442)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33827</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/L-zz-SCd6HU/"/>
-        <updated>2021-05-13T11:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Angular v12 is now available (Mark Techson) Windows Community Toolkit – Release v7.0.2 (Michael Hawker) AngularDart, Flutter, and the web: Spring update (Tim Sneath) My Favorite C# Features – Part 4: Project Structure (Jeffrey T. Fritz) Introducing the brand-new MvvmGen Library – Writing ViewModels for your XAML Applications Has Never Been More Productive […]]]></summary>
-        <author>
-            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
