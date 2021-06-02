@@ -6,13 +6,27 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33854",
+          "author": "Alvin A.",
+          "description": "Top Links Winget Goes Mainstream, But Still Lags Behind (Matthew MacDonald) The 6 Figure Developer Episode 198 – DAPR with Cecil Phillip (John Callaway) Custom bindings with Azure Functions .NET Isolated Worker (Maarten Balliauw) Benchmarking 4 reflection methods for calling a constructor in .NET (Andrew Lock) Web & Cloud Development Azure Service Bus and C# […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/om4yv_a6PHo/",
+          "publishedOn": "2021-06-01T11:02:39.000Z",
+          "wordCount": 737,
+          "title": "Dew Drop – June 1, 2021 (#3455)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33852",
           "author": "Alvin A.",
           "description": "Top Links Guide: Getting Started with Windows Package Manager (Winget) v1.0 (Russell Smith) Add inking to your React Native for Windows application (Matteo Pagani) C# Source Generators Cookbook (Roslyn Team) Developer Perspectives Episode 5 | Em Lazer-Walker and Jeremy Sinclair (Windows Developer Team) Running a Windows UI (Project Reunion) App as Partial Trust (Windows App […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/mTrSzB0NjIs/",
           "publishedOn": "2021-05-31T13:51:51.000Z",
-          "wordCount": 1292,
-          "title": "Dew Drop – May 31, 2021 (#3454)"
+          "wordCount": 1300,
+          "title": "Dew Drop – May 31, 2021 (#3454)",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/978640/8606489-tdd-with-ian-cooper.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
         },
         {
           "id": "https://www.alvinashcraft.com/?p=33850",
@@ -20,7 +34,7 @@
           "description": "Top Links .NET Rocks! – Build 2021 Announcements with Scott Hunter (Carl Franklin & Richard Campbell) How to use GitHub actions and Contentful webhooks to show your latest blog posts on your GitHub profile README (Salma Alam-Naylor) Pwned Passwords, Open Source in the .NET Foundation and Working with the FBI (Troy Hunt) Build your own […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/NQX7ln0R0zw/",
           "publishedOn": "2021-05-28T11:29:24.000Z",
-          "wordCount": 1167,
+          "wordCount": 1169,
           "title": "Dew Drop – May 28, 2021 (#3453)"
         },
         {
@@ -29,7 +43,7 @@
           "description": "Top Links WinUI Desktop Unit Tests (Alexandre Zollinger Chohfi) Windows Package Manager 1.0 (Demitrius Nelon) F# and F# tools update for Visual Studio 16.10 (Phillip Carter) Announcing TypeScript 4.3 (Daniel Rosenwasser) Creating the Future of Software Development (Brenda Potts) Increase your .NET Productivity with Visual Studio | OD527 (Mika Dumont & Kendra Havens) Web & […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/wVCuSAjHy0A/",
           "publishedOn": "2021-05-27T11:25:01.000Z",
-          "wordCount": 981,
+          "wordCount": 983,
           "title": "Dew Drop – May 27, 2021 (#3452)"
         },
         {
@@ -38,7 +52,7 @@
           "description": "Top Links Announcing .NET MAUI Preview 4 (David Ortinau) Microsoft ❤️ developers: Welcome to Build 2021 (Scott Guthrie) Announcing .NET 6 Preview 4 (Richard Lander) Flutter 2.2: Creating your first Universal Windows Program (UWP) with Flutter (Xuan Han Tan) Windows Terminal Preview 1.9 Release (Kayla Cinnamon) Visual Studio 2019 v16.10 and v16.11 Preview 1 are […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/ra40YD-9CPU/",
           "publishedOn": "2021-05-26T11:04:38.000Z",
-          "wordCount": 1171,
+          "wordCount": 1173,
           "title": "Dew Drop – May 26, 2021 (#3451)"
         },
         {
@@ -47,7 +61,7 @@
           "description": "Top Links The Journey to Accessible Apps: Screen Readers (Rachel Kang (SHE/HER)) Microsoft Build 2021: All the sessions to watch out for (Zac Bowden) What I’ve learned from 20 years of programming in C# with Joe Albahari with Q&A session (SSW TV) The Road to Observability from System Down to Code (Idan Shatz) From developers […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/IOIRIsp9nyg/",
           "publishedOn": "2021-05-25T11:03:57.000Z",
-          "wordCount": 1158,
+          "wordCount": 1160,
           "title": "Dew Drop – May 25, 2021 (#3450)",
           "enclosure": {
             "url": "https://traffic.libsyn.com/secure/syntax/Syntax355.mp3",
@@ -61,7 +75,7 @@
           "description": "Top Links Register for Microsoft BUILD 2021 free! And check out the Developer Keynote on Day 2 (Scott Hanselman) Using CodePush in a React Native for Windows application (Matteo Pagani) Who at Microsoft is using WinUI? | One Dev Question (Ana Wishnoff) David Ortinau on Multi-Platform App Development Using .NET MAUI – Azure DevOps Podcast […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/XK3SX9JJWts/",
           "publishedOn": "2021-05-24T11:19:09.000Z",
-          "wordCount": 1436,
+          "wordCount": 1438,
           "title": "Dew Drop – May 24, 2021 (#3449)"
         },
         {
@@ -70,7 +84,7 @@
           "description": "Top Links Microsoft Build Cloud Skills Challenge 2021 (Microsoft Learn) Introducing WebContainers: Run Node.js natively in your browser (Eric Simons) Announcing new file components, MSAL 2 Provider, and SharePoint Framework library in Microsoft Graph Toolkit (MIcrosoft Graph Toolkit Team) New Uno Platform Docs Launched (Uno Platform Team) TechBash 2021 CFP – Two Weeks Left! Submit […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/PyRsedW1lkI/",
           "publishedOn": "2021-05-21T10:52:18.000Z",
-          "wordCount": 1137,
+          "wordCount": 1139,
           "title": "Dew Drop – May 21, 2021 (#3448)"
         },
         {
@@ -79,7 +93,7 @@
           "description": "Top Links Developing on a M1 Mac with Visual Studio for Mac (Aaron LaBeau) MvvmGen 1.1.0 and the New Special Edition: PURE CODE GENERATION – No Runtime Dependency For Your Project! (Thomas Claudius Huber) The future of Internet Explorer on Windows 10 is in Microsoft Edge (Sean Lyndersay) What’s new in Flutter 2.2 (Chris Sells) […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/tZCME5zaIbA/",
           "publishedOn": "2021-05-20T11:37:02.000Z",
-          "wordCount": 1311,
+          "wordCount": 1313,
           "title": "Dew Drop – May 20, 2021 (#3447)",
           "enclosure": {
             "url": "https://traffic.libsyn.com/secure/syntax/Syntax354.mp3",
@@ -93,7 +107,7 @@
           "description": "Top Links The Visual Studio family welcomes you at Microsoft Build 2021 (Sachin Thakur) Announcing Flutter 2.2 at Google I/O 2021 (Tim Sneath) Visual Studio 2019 version 16.10 Preview 4 Release Notes (Microsoft Docs) What’s new in Android 12 Beta (Dave Burke) Introducing Angular DevTools (Minko Gechev) Conversation about PGO (Richard Lander) The Future of […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/UKMOS_RLBJc/",
           "publishedOn": "2021-05-19T11:02:24.000Z",
-          "wordCount": 1341,
+          "wordCount": 1343,
           "title": "Dew Drop – May 19, 2021 (#3446)"
         },
         {
@@ -102,7 +116,7 @@
           "description": "Top Links Azure Cosmos DB With EF Core on Blazor Server (Jeremy Likness) The 6 Figure Developer Episode 196 – .NET 6 Preview with Rich Lander (John Callaway) Jeremy Likness on Working with Data on .NET – Azure DevOps Podcast Episode 141 (Jeffrey Palermo) Extending the calculator implementation: Creating a Simple Moving Average calculator in […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/mcaHP0EhR10/",
           "publishedOn": "2021-05-18T11:07:07.000Z",
-          "wordCount": 965,
+          "wordCount": 967,
           "title": "Dew Drop – May 18, 2021 (#3445)",
           "enclosure": {
             "url": "https://traffic.libsyn.com/secure/syntax/Syntax353.mp3",
@@ -116,17 +130,8 @@
           "description": "Top Links Azure Static Web Apps is production-ready: These are my 5 favorite things (Dave Brock) Yet Another Podcast – Mark Price on C# 9 and .NET 6 (Jesse Liberty) CoreWCF Reached Its First GA Release (Almir Vuk) Rapid XAML Toolkit v0.12 – Now with extra Xamarin.Forms related goodness (Matt Lacey) Async/Await Calls Gotcha with […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/AbIQzNJeGGI/",
           "publishedOn": "2021-05-17T11:13:57.000Z",
-          "wordCount": 1341,
+          "wordCount": 1343,
           "title": "Dew Drop – May 17, 2021 (#3444)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33829",
-          "author": "Alvin A.",
-          "description": "Top Links Project Reunion | Visual Studio Toolbox (Robert Green & Andrew Clinick) Develop production-scale modern web apps quickly with Azure Static Web Apps (Daria Grigoriu) Surface Duo: Foldable SlidingPaneLayout (Cesar Valiente) The Pylance language server has reached stable! (Savannah Ostrowski) Project Reunion 0.5.7 is now available (Andrew Leader) Web & Cloud Development Using The […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/xK_-crDCPt4/",
-          "publishedOn": "2021-05-14T11:18:05.000Z",
-          "wordCount": 1083,
-          "title": "Dew Drop – May 14, 2021 (#3443)"
         }
       ]
     },
@@ -136,12 +141,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7509",
+          "author": "Chris Alcock",
+          "description": "Information From State tennis to endomorphism – Mark Seemann Building Contextual Experiences w/ Blazor – Hassan Habib Using HTMX with ASP.NET Core: Inline editing – Jerrie Pelser Jaliya’s Blog: C# 10.0: Introducing Global Usings – Jaliya Udagedara Verify vaccination data using Zero Knowledge Proofs with ASP.NET Core and MATTR – Damien Bowden Asynchronous Programming with […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/BcCmEGBZycE/",
+          "publishedOn": "2021-06-01T06:00:00.000Z",
+          "wordCount": 703,
+          "title": "The Morning Brew #3242"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7507",
           "author": "Chris Alcock",
           "description": "Monday is a Public Holiday here in England, so as is traditional, the Morning Brew will take the day off, so publishing will resume on Tuesday 1st June. Information .NET Boxed Visual Studio Integration – Muhammad Rehan Saeed Pwned Passwords, Open Source in the .NET Foundation and Working with the FBI – Troy Hunt Finding […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/fvQE2vFbhRY/",
           "publishedOn": "2021-05-28T06:00:00.000Z",
-          "wordCount": 650,
+          "wordCount": 657,
           "title": "The Morning Brew #3241"
         },
         {
@@ -150,7 +164,7 @@
           "description": "Software Announcing TypeScript 4.3 – Daniel Rosenwasser Announcing Entity Framework Core 6.0 Preview 4: Performance Edition – Shay Rojansky Windows Package Manager 1.0 – Demitrius Nelon F# and F# tools update for Visual Studio 16.10 – Phillip Carter .NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1 – Tara Overfield […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/6PcHbSnNTqg/",
           "publishedOn": "2021-05-27T06:00:00.000Z",
-          "wordCount": 629,
+          "wordCount": 624,
           "title": "The Morning Brew #3240"
         },
         {
@@ -159,7 +173,7 @@
           "description": "Software / Build Announcing .NET 6 Preview 4 – Richard Lander ASP.NET Core updates in .NET 6 Preview 4 – Daniel Roth Announcing .NET MAUI Preview 4 – David Ortinau Visual Studio 2019 v16.10 and v16.11 Preview 1 are Available Today! – Justin Johnson Introducing the .NET Hot Reload experience for editing code at runtime […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/25WM9uI442M/",
           "publishedOn": "2021-05-26T06:00:00.000Z",
-          "wordCount": 648,
+          "wordCount": 650,
           "title": "The Morning Brew #3239"
         },
         {
@@ -168,17 +182,8 @@
           "description": "Information Tennis kata using the State pattern – Mark Seemann Windows v Linux: Compare ASP.NET Core install & hosting – David Grace .NET Basics – Dustin Moris Gorski Secure an Angular SPA and an ASP.NET Core API using Auth0 – Damien Bowden Structured Logging in ASP.NET Core with Serilog – Code Maze How to use […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/-dYCu6S_uS4/",
           "publishedOn": "2021-05-25T06:00:00.000Z",
-          "wordCount": 610,
+          "wordCount": 612,
           "title": "The Morning Brew #3238"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7498",
-          "author": "Chris Alcock",
-          "description": "Software .NET Framework May 2021 Cumulative Update Preview – Tara Overfield Released: Microsoft.Data.SqlClient 2.1.3 & Released: Microsoft.Data.SqlClient 3.0 Preview 3 – David-Engel Information Show dotnet: Investigating Alpine Linux CVEs in .NET container images – Richard Lander Introducing The .NET Coding Pack for VS Code – Getting Started with C# for Beginners – Scott Hanselman Announcing: […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/bna1hJKkPtU/",
-          "publishedOn": "2021-05-24T06:00:00.000Z",
-          "wordCount": 647,
-          "title": "The Morning Brew #3237"
         }
       ]
     },
@@ -187,6 +192,33 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/sands-of-maui-issue-10",
+          "author": null,
+          "description": "Welcome to the Sands of MAUI—newsletter-style issues dedicated to bringing together the latest .NET MAUI content relevant to developers.",
+          "link": "https://www.telerik.com/blogs/sands-of-maui-issue-10",
+          "publishedOn": "2021-06-01T14:27:07.000Z",
+          "wordCount": 1680,
+          "title": "Sands of MAUI: Issue #10"
+        },
+        {
+          "id": "https://www.telerik.com/blogs/get-your-wpf-apps-automated-appium",
+          "author": null,
+          "description": "Test automation plays an important part in application development. Let me share a walkthrough on how you can automate your WPF application using Appium along with Windows Application Driver  and UI Recorder tool.",
+          "link": "https://www.telerik.com/blogs/get-your-wpf-apps-automated-appium",
+          "publishedOn": "2021-06-01T13:30:01.000Z",
+          "wordCount": 2858,
+          "title": "Get Your WPF Apps Automated With Appium"
+        },
+        {
+          "id": "https://www.telerik.com/blogs/kpis-that-let-you-know-its-time-for-redesign",
+          "author": null,
+          "description": "These seven key performance metrics will show you where your strategy may have gone awry and can help pinpoint smaller issues keeping your website from being a success.",
+          "link": "https://www.telerik.com/blogs/kpis-that-let-you-know-its-time-for-redesign",
+          "publishedOn": "2021-06-01T11:05:01.000Z",
+          "wordCount": 3732,
+          "title": "KPIs That Let You Know It’s Time for a Redesign"
+        },
         {
           "id": "https://www.telerik.com/blogs/15-reasons-choose-telerik-reporting",
           "author": null,
@@ -229,7 +261,7 @@
           "description": "Say Hello to Telerik UI for MAUI—the newest UI component suite from Progress Telerik to enable .NET MAUI developer success.",
           "link": "https://www.telerik.com/blogs/aloha-from-telerik-ui-for-maui",
           "publishedOn": "2021-05-26T14:16:00.000Z",
-          "wordCount": 2738,
+          "wordCount": 2733,
           "title": "Aloha from Telerik UI for MAUI"
         },
         {
@@ -294,33 +326,6 @@
           "publishedOn": "2021-05-20T14:15:35.000Z",
           "wordCount": 2028,
           "title": "Tools & Tips for Building Apps with an Accessibility-First Mindset"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/understanding-web-audio-api",
-          "author": null,
-          "description": "Understand more about the Web Audio API, an API that allows us to create and manage sounds in our browser very easily.",
-          "link": "https://www.telerik.com/blogs/understanding-web-audio-api",
-          "publishedOn": "2021-05-20T10:44:07.000Z",
-          "wordCount": 2489,
-          "title": "Understanding the Web Audio API"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
-          "author": null,
-          "description": "The Telerik PdfViewer now supports Type 3 fonts for WPF, WinForms and Xamarin!",
-          "link": "https://www.telerik.com/blogs/type-3-font-support-pdfviewer-wpf-winforms-xamarin-is-here",
-          "publishedOn": "2021-05-19T12:58:00.000Z",
-          "wordCount": 1412,
-          "title": "Type 3 Font Support in PdfViewer for WPF, WinForms and Xamarin Is Here"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/why-you-should-be-building-mvps",
-          "author": null,
-          "description": "Website and app development can be a lengthy and costly process. And there’s no guarantee that your users will even love your product after launch … or is there? Here’s how a proof-of-concept MVP (minimum viable product) can work for you.",
-          "link": "https://www.telerik.com/blogs/why-you-should-be-building-mvps",
-          "publishedOn": "2021-05-19T11:40:03.000Z",
-          "wordCount": 2590,
-          "title": "Why You Should Be Building MVPs"
         }
       ]
     },
@@ -330,12 +335,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341720",
+          "author": "Chris Coyier",
+          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-06-01T22:08:48.000Z",
+          "wordCount": 3202,
+          "title": "Code blocks, but better"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341342",
+          "author": "Evgeny Klimenchenko",
+          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
+          "publishedOn": "2021-06-01T14:17:43.000Z",
+          "wordCount": 3850,
+          "title": "Front-End Testing is For Everyone"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341296",
+          "author": "Geoff Graham",
+          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
+          "publishedOn": "2021-06-01T14:16:55.000Z",
+          "wordCount": 926,
+          "title": "Jetpack Boost Handles Critical CSS For You"
+        },
+        {
           "id": "https://css-tricks.com/?p=340465",
           "author": "Jason Lengstorf",
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1796,
+          "wordCount": 1852,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -344,7 +376,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 981,
+          "wordCount": 1220,
           "title": "Local: Always Getting Better"
         },
         {
@@ -407,7 +439,7 @@
           "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
           "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3850,
+          "wordCount": 4042,
           "title": "A Thorough Analysis of CSS-in-JS"
         },
         {
@@ -416,7 +448,7 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7705,
+          "wordCount": 7769,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         },
         {
@@ -436,33 +468,6 @@
           "publishedOn": "2021-05-24T22:03:30.000Z",
           "wordCount": 868,
           "title": "Links on Performance"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341153",
-          "author": "Chris Coyier",
-          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://github.com/justjavac/proxy-www",
-          "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
-          "title": "proxy-www"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340626",
-          "author": "Raymond Camden",
-          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
-          "publishedOn": "2021-05-24T13:57:21.000Z",
-          "wordCount": 2866,
-          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340991",
-          "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1168,
-          "title": "Should DevTools teach the CSS cascade?"
         }
       ]
     },
@@ -472,12 +477,40 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "publishedOn": "2021-06-01T14:00:00.000Z",
+          "wordCount": 7115,
+          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
+          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "publishedOn": "2021-06-01T09:00:00.000Z",
+          "wordCount": 1362,
+          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
+          "wordCount": 2496,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -491,7 +524,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10217,
+          "wordCount": 10222,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -505,7 +538,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3738,
+          "wordCount": 3747,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -547,7 +580,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2116,
+          "wordCount": 2126,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -589,7 +622,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9436,
+          "wordCount": 9394,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -617,7 +650,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1970,
+          "wordCount": 1961,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -673,7 +706,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2945,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -687,7 +720,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2432,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -757,7 +790,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6355,
+          "wordCount": 6352,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -771,7 +804,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4174,
+          "wordCount": 4178,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -799,7 +832,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2333,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -813,7 +846,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1846,
+          "wordCount": 1834,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -834,20 +867,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2186,
-          "title": "The Evolution Of Jamstack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -856,6 +875,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b5025111ffb70827ef9ebe",
+          "author": null,
+          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "publishedOn": "2021-06-01T23:47:33.000Z",
+          "wordCount": 1861,
+          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
+        },
+        {
+          "id": "60b1eed311ffb70827ef9504",
+          "author": null,
+          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
+          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
+          "publishedOn": "2021-06-01T20:47:43.000Z",
+          "wordCount": 1416,
+          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
+        },
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
+          "publishedOn": "2021-06-01T16:35:00.000Z",
+          "wordCount": 2823,
+          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
+        },
+        {
+          "id": "60aff2d711ffb70827ef8829",
+          "author": null,
+          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
+          "publishedOn": "2021-06-01T16:34:00.000Z",
+          "wordCount": 2137,
+          "title": "How to Get a Cybersecurity Job in 2021"
+        },
+        {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-01T04:19:48.000Z",
+          "wordCount": 6197,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
+        },
         {
           "id": "60b08d8811ffb70827ef8c7b",
           "author": null,
@@ -891,63 +964,9 @@
           "publishedOn": "2021-05-27T15:16:34.000Z",
           "wordCount": 1399,
           "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
-        },
-        {
-          "id": "60a44b9f906c5207e3a7e098",
-          "author": null,
-          "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
-          "link": "https://www.freecodecamp.org/news/giphy-api-tutorial/",
-          "publishedOn": "2021-05-26T21:44:01.000Z",
-          "wordCount": 2014,
-          "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
-        },
-        {
-          "id": "60abe7fb11ffb70827ef63a6",
-          "author": null,
-          "description": "If you're a developer, you've probably come across the term \"open source.\" If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made",
-          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
-          "publishedOn": "2021-05-26T18:01:00.000Z",
-          "wordCount": 2359,
-          "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "606f4f5fd5756f080ba96b65",
-          "author": null,
-          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
-          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
-          "publishedOn": "2021-05-26T18:00:52.000Z",
-          "wordCount": 3782,
-          "title": "Learn Basic Terraform Syntax in 20 minutes"
-        },
-        {
-          "id": "60abc59d11ffb70827ef6304",
-          "author": null,
-          "description": "In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed",
-          "link": "https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/",
-          "publishedOn": "2021-05-26T16:34:32.000Z",
-          "wordCount": 3054,
-          "title": "How to Build a GraphQL API Using Laravel"
-        },
-        {
-          "id": "60aced0011ffb70827ef6d96",
-          "author": null,
-          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
-          "publishedOn": "2021-05-26T14:12:27.000Z",
-          "wordCount": 1273,
-          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
-        },
-        {
-          "id": "60ac3a2711ffb70827ef6aec",
-          "author": null,
-          "description": "Walkthrough for Hack The Box Valentine machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
-          "publishedOn": "2021-05-25T22:43:11.000Z",
-          "wordCount": 1664,
-          "title": "Keep Calm and Hack The Box – Valentine"
         }
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
