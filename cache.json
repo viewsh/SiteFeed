@@ -6,12 +6,21 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33863",
+          "author": "Alvin A.",
+          "description": "Top Links Windows ML NuGet Package 1.8.0 official release (Alex Zakhvatov) Real-World DevOps on the MAUI Team – Azure DevOps Podcast Episode 144 (Jeffrey Palermo) Yet Another Podcast – Jeff Fritz on Blazor, Azure & Much More (Jesse Liberty) Add Toast notifications to your React Native for Windows application (Alexander Sklar) Web & Cloud Development […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/fktL8_H0nK0/",
+          "publishedOn": "2021-06-07T11:25:53.000Z",
+          "wordCount": 1070,
+          "title": "Dew Drop – June 7, 2021 (#3459)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33861",
           "author": "Alvin A.",
           "description": "Top Links TechBash 2021 Call for Speakers – Two Days Left! Submit Your Sessions Today!! (Jason Gaylord) – Closes tonight! Conversation about the .NET type system (Richard Lander) Cake for Rider 1.0.0 released (Nils Andresen) An Introduction to UI Testing for Uno Platform Applications (Delphin Susai Raj & Sakshi Shukla) Building beautiful apps with Xamarin.Forms […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/sIBpNenrC3Y/",
           "publishedOn": "2021-06-04T11:28:15.000Z",
-          "wordCount": 1233,
+          "wordCount": 1239,
           "title": "Dew Drop – June 4, 2021 (#3458)"
         },
         {
@@ -113,20 +122,6 @@
           "publishedOn": "2021-05-21T10:52:18.000Z",
           "wordCount": 1139,
           "title": "Dew Drop – May 21, 2021 (#3448)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33837",
-          "author": "Alvin A.",
-          "description": "Top Links Developing on a M1 Mac with Visual Studio for Mac (Aaron LaBeau) MvvmGen 1.1.0 and the New Special Edition: PURE CODE GENERATION – No Runtime Dependency For Your Project! (Thomas Claudius Huber) The future of Internet Explorer on Windows 10 is in Microsoft Edge (Sean Lyndersay) What’s new in Flutter 2.2 (Chris Sells) […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/tZCME5zaIbA/",
-          "publishedOn": "2021-05-20T11:37:02.000Z",
-          "wordCount": 1313,
-          "title": "Dew Drop – May 20, 2021 (#3447)",
-          "enclosure": {
-            "url": "https://traffic.libsyn.com/secure/syntax/Syntax354.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -136,12 +131,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7517",
+          "author": "Chris Alcock",
+          "description": "Information Event-Driven on Azure: Part 2 – Architecting event driven applications – Shelton Graves Debugging C# Source Generators with Visual Studio 2019 16.10 – Steve Collins Building beautiful apps with Xamarin.Forms – James Montemagno An overview of Azure Web PubSub – Scott Hanselman, David Fowler & Liangying Wei .NET Open Source: What Happens When the […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/3Y76miIMvS8/",
+          "publishedOn": "2021-06-07T06:00:00.000Z",
+          "wordCount": 613,
+          "title": "The Morning Brew #3246"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7515",
           "author": "Chris Alcock",
           "description": "Information Conversation about the .NET type system – Richard Lander, David Wrighton & Jared Parsons Domain-Driven Refactoring: Intro – Jimmy Bogard Nulls in Value Objects – Vladimir Khorikov Competing Consumers Pattern for Scalability – Derek Comartin Using HTMX with ASP.NET Core: Infinite scrolling – Jerrie Pelser With so many Blazor Component Libraries, which one is […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/SlR1QOvcBxE/",
           "publishedOn": "2021-06-04T06:00:45.000Z",
-          "wordCount": 623,
+          "wordCount": 628,
           "title": "The Morning Brew #3245"
         },
         {
@@ -159,7 +163,7 @@
           "description": "Information Conversation about .NET interop – Richard Lander Working With .NET 6’s PriorityQueue – Khalid Abuhakmeh Benchmarking 4 reflection methods for calling a constructor in .NET – Andrew Lock Craftsman v0.10 – .NET 5 Event Scaffolding, Spectre Console, and More! – Paul DeVito Custom bindings with Azure Functions .NET Isolated Worker – Maarten Balliauw How […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/ykLPdbRpcZw/",
           "publishedOn": "2021-06-02T06:00:00.000Z",
-          "wordCount": 617,
+          "wordCount": 610,
           "title": "The Morning Brew #3243"
         },
         {
@@ -170,15 +174,6 @@
           "publishedOn": "2021-06-01T06:00:00.000Z",
           "wordCount": 701,
           "title": "The Morning Brew #3242"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7507",
-          "author": "Chris Alcock",
-          "description": "Monday is a Public Holiday here in England, so as is traditional, the Morning Brew will take the day off, so publishing will resume on Tuesday 1st June. Information .NET Boxed Visual Studio Integration – Muhammad Rehan Saeed Pwned Passwords, Open Source in the .NET Foundation and Working with the FBI – Troy Hunt Finding […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/fvQE2vFbhRY/",
-          "publishedOn": "2021-05-28T06:00:00.000Z",
-          "wordCount": 650,
-          "title": "The Morning Brew #3241"
         }
       ]
     },
@@ -187,6 +182,24 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/sands-maui-issue-11",
+          "author": null,
+          "description": "Welcome to the Sands of MAUI—newsletter-style issues dedicated to bringing together the latest .NET MAUI content relevant to developers.",
+          "link": "https://www.telerik.com/blogs/sands-maui-issue-11",
+          "publishedOn": "2021-06-07T11:52:03.000Z",
+          "wordCount": 1625,
+          "title": "Sands of MAUI: Issue #11"
+        },
+        {
+          "id": "https://www.telerik.com/blogs/verification-vs-validation-why-your-requirements-are-always-wrong",
+          "author": null,
+          "description": "Verifying code though automated testing ensures things are working right. Validating requirements, on the other hand, ensures you’re working on the right things. Since there’s no point in verifying the wrong requirements, here’s how to ensure that your requirements are valid.",
+          "link": "https://www.telerik.com/blogs/verification-vs-validation-why-your-requirements-are-always-wrong",
+          "publishedOn": "2021-06-07T10:49:03.000Z",
+          "wordCount": 2065,
+          "title": "Verification vs. Validation, or Why Your Requirements Are Always Wrong"
+        },
         {
           "id": "https://www.telerik.com/blogs/angular-basics-how-to-use-services-angular",
           "author": null,
@@ -303,24 +316,6 @@
           "publishedOn": "2021-05-26T14:16:00.000Z",
           "wordCount": 2733,
           "title": "Aloha from Telerik UI for MAUI"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/3-hacks-to-master-your-automated-test-suite",
-          "author": null,
-          "description": "Finding a way to master your automated test suite keeps every tester busy probably not only during working hours. This blog post presents a selection of test recording techniques every tester should consider in an effort to build more stable, reliable and easily maintainable automated tests.",
-          "link": "https://www.telerik.com/blogs/3-hacks-to-master-your-automated-test-suite",
-          "publishedOn": "2021-05-26T12:35:00.000Z",
-          "wordCount": 3137,
-          "title": "3 Hacks to Master Your Automated Test Suite"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/sleek-modern-ui-design-telerik-kendo-ui",
-          "author": null,
-          "description": "With the rise of cross-platform applications, the goal is to write once and deliver everywhere. Learn how Telerik and Kendo UI provides the capability to style controls across various form factors and platforms.",
-          "link": "https://www.telerik.com/blogs/sleek-modern-ui-design-telerik-kendo-ui",
-          "publishedOn": "2021-05-25T12:22:04.000Z",
-          "wordCount": 4312,
-          "title": "Sleek and Customizable UI for Any Design System and Technology"
         }
       ]
     },
@@ -330,12 +325,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341805",
+          "author": "Chris Coyier",
+          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-accessibility/",
+          "publishedOn": "2021-06-07T19:52:26.000Z",
+          "wordCount": 599,
+          "title": "Links on Accessibility"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340390",
+          "author": "Chris Coyier",
+          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
+          "publishedOn": "2021-06-07T14:13:50.000Z",
+          "wordCount": 1453,
+          "title": "VS Code Extensions for HTML"
+        },
+        {
           "id": "https://css-tricks.com/?p=341793",
           "author": "Chris Coyier",
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
           "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1035,
+          "wordCount": 1082,
           "title": "Principles for user-centered front-end development"
         },
         {
@@ -353,7 +366,7 @@
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
           "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 5032,
+          "wordCount": 5109,
           "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
         },
         {
@@ -362,7 +375,7 @@
           "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
           "publishedOn": "2021-06-03T14:25:19.000Z",
-          "wordCount": 955,
+          "wordCount": 1065,
           "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
         },
         {
@@ -371,7 +384,7 @@
           "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/debugging-ios-safari/",
           "publishedOn": "2021-06-02T21:15:28.000Z",
-          "wordCount": 1066,
+          "wordCount": 1120,
           "title": "Debugging iOS Safari"
         },
         {
@@ -407,7 +420,7 @@
           "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
           "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 4076,
+          "wordCount": 4104,
           "title": "Front-End Testing is For Everyone"
         },
         {
@@ -434,7 +447,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 1242,
+          "wordCount": 1262,
           "title": "Local: Always Getting Better"
         },
         {
@@ -445,24 +458,6 @@
           "publishedOn": "2021-05-28T14:36:47.000Z",
           "wordCount": 1837,
           "title": "Dynamic Favicons for WordPress"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341298",
-          "author": "Chris Coyier",
-          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
-          "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1580,
-          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341020",
-          "author": "Robin Rendle",
-          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-show-images-on-click/",
-          "publishedOn": "2021-05-27T14:25:29.000Z",
-          "wordCount": 1724,
-          "title": "How to Show Images on Click"
         }
       ]
     },
@@ -472,12 +467,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
+          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
+          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "publishedOn": "2021-06-07T11:00:00.000Z",
+          "wordCount": 2206,
+          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "author": "hello@smashingmagazine.com (Nwani Victory)",
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4142,
+          "wordCount": 4138,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -491,7 +500,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3506,
+          "wordCount": 3510,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -519,7 +528,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5384,
+          "wordCount": 5342,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -561,7 +570,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
+          "wordCount": 2496,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -575,7 +584,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10214,
+          "wordCount": 10226,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -631,7 +640,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2118,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -673,7 +682,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9394,
+          "wordCount": 9431,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -701,7 +710,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1958,
+          "wordCount": 1964,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -771,7 +780,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2444,
+          "wordCount": 2393,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -841,7 +850,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
+          "wordCount": 6355,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -856,6 +865,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
+          "id": "60be863cd3126007592d4c36",
+          "author": null,
+          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "publishedOn": "2021-06-07T20:54:41.000Z",
+          "wordCount": 439,
+          "title": "How to Use OpenCV and Python for Computer Vision and AI"
+        },
+        {
+          "id": "5ff625967af2371468bb8645",
+          "author": null,
+          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
+          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
+          "publishedOn": "2021-06-07T18:18:01.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b136d911ffb70827ef912b",
+          "author": null,
+          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
+          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
+          "publishedOn": "2021-06-07T15:01:26.000Z",
+          "wordCount": 1547,
+          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
+        },
         {
           "id": "60b3480c11ffb70827ef9a88",
           "author": null,
@@ -880,7 +925,7 @@
           "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
           "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
           "publishedOn": "2021-06-04T20:41:29.000Z",
-          "wordCount": 2159,
+          "wordCount": 2166,
           "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
         },
         {
@@ -909,42 +954,6 @@
           "publishedOn": "2021-06-03T21:44:03.000Z",
           "wordCount": 3978,
           "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
-        },
-        {
-          "id": "60afd68611ffb70827ef86d8",
-          "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called \"Schofield's",
-          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
-          "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1595,
-          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
-        },
-        {
-          "id": "60b7c02cacb62507dd1d7b80",
-          "author": null,
-          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
-          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
-          "publishedOn": "2021-06-03T18:42:20.000Z",
-          "wordCount": 1748,
-          "title": "Lists in Python – A Comprehensive Guide"
-        },
-        {
-          "id": "60affbe411ffb70827ef8951",
-          "author": null,
-          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
-          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
-          "publishedOn": "2021-06-03T18:07:17.000Z",
-          "wordCount": 2708,
-          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
-        },
-        {
-          "id": "60aa708711ffb70827ef5f4b",
-          "author": null,
-          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
-          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
-          "publishedOn": "2021-06-03T16:51:37.000Z",
-          "wordCount": 1453,
-          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
         }
       ]
     }
