@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T01:05:10.322Z</id>
+    <id>urn:2021-06-26T00:57:48.146Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T01:05:10.322Z</updated>
+    <updated>2021-06-26T00:57:48.146Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – June 25, 2021 (#3471)]]></title>
+        <id>https://www.alvinashcraft.com/?p=33889</id>
+        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/_IYdCVI9820/"/>
+        <updated>2021-06-25T11:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Windows 11 design principles (Shawn Hickey & Quinn Radich) Building a new, open Microsoft Store on Windows 11 (Giorgio Sardo) Latest Windows 11 features for developers (Windows Dev Center) Top 10 things you can do to make your app great on Windows 11 (Jim Walker & Quinn Radich) Introducing Windows 11 (Panos Panay) […]]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
+        <updated>2021-06-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CodeItLive Summer Series: Chat Tech, Ask Questions, Win Prizes!]]></title>
+        <id>https://www.telerik.com/blogs/codeitlive-summer-series-chat-tech-ask-questions-win-prizes</id>
+        <link href="https://www.telerik.com/blogs/codeitlive-summer-series-chat-tech-ask-questions-win-prizes"/>
+        <updated>2021-06-25T10:36:02.000Z</updated>
+        <summary type="html"><![CDATA[The CodeItLive Summer Series: A series of FREE summer events with your favorite frameworks & favorite techies, and you get to chat tech, ask questions and win prizes!]]></summary>
+        <author>
+            <name>Telerik Blogs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morning Brew #3260]]></title>
+        <id>http://blog.cwa.me.uk/?p=7546</id>
+        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/44wwi9QJZaw/"/>
+        <updated>2021-06-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Information Introducing Windows 11 – Panos Panay What Windows 11 Means for Developers – Kevin Gallo Developing for Android on Windows – Guy Merin .NET Framework June 2021 Cumulative Update Preview – Tara Overfield Microsoft’s Windows 11 launch event: Here’s what we know – Mary Jo Foley Blazor, TypeScript and Static Web Apps – Aaron […]]]></summary>
+        <author>
+            <name>Chris Alcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
         <id>60d3ee396e1a1407b6b0b6ef</id>
@@ -501,16 +574,6 @@ The post Links on Typography appeared first on CSS-Tricks. You can support CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Morning Brew #3255]]></title>
-        <id>http://blog.cwa.me.uk/?p=7535</id>
-        <link href="http://feedproxy.google.com/~r/ReflectivePerspective/~3/91MK6TbZF9g/"/>
-        <updated>2021-06-18T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software Announcing .NET 6 Preview 5 – Richard Lander ASP.NET Core updates in .NET 6 Preview 5 – Daniel Roth Announcing .NET MAUI Preview 5 – David Ortinau Announcing Entity Framework Core 6.0 Preview 5: Compiled Models – Jeremy Likness Visual Studio 2022 Preview 1 now available! – Justin Johnson Visual Studio 2019 16.11 Preview […]]]></summary>
-        <author>
-            <name>Chris Alcock</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
         <id>https://css-tricks.com/?p=341948</id>
         <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
@@ -562,45 +625,6 @@ The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
-        <id>https://css-tricks.com/?p=342358</id>
-        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
-        <updated>2021-06-16T21:11:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
-I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
-— Sam 
-
-…
-The post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
-        <id>https://css-tricks.com/?p=342630</id>
-        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
-        <updated>2021-06-16T19:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen: 
-If somebody says a comment isn’t adding any value, I would ask: to whom?
-Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
-Jim showed …
-The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Guide to REST API Versioning in ASP.NET Core]]></title>
-        <id>https://www.telerik.com/blogs/your-guide-rest-api-versioning-aspnet-core</id>
-        <link href="https://www.telerik.com/blogs/your-guide-rest-api-versioning-aspnet-core"/>
-        <updated>2021-06-16T12:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Since ASP.NET Core 3.1, you have the ability to version your APIs using a Microsoft NuGet package. Learn how to use this package to version your APIs easily.]]></summary>
-        <author>
-            <name>Telerik Blogs</name>
         </author>
     </entry>
     <entry>
@@ -764,16 +788,6 @@ The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – June 7, 2021 (#3459)]]></title>
-        <id>https://www.alvinashcraft.com/?p=33863</id>
-        <link href="http://feedproxy.google.com/~r/alvinashcraft/~3/fktL8_H0nK0/"/>
-        <updated>2021-06-07T11:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Windows ML NuGet Package 1.8.0 official release (Alex Zakhvatov) Real-World DevOps on the MAUI Team – Azure DevOps Podcast Episode 144 (Jeffrey Palermo) Yet Another Podcast – Jeff Fritz on Blazor, Azure & Much More (Jesse Liberty) Add Toast notifications to your React Native for Windows application (Alexander Sklar) Web & Cloud Development […]]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
         <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
         <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
@@ -871,26 +885,6 @@ The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can 
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Powerful Responsive Websites With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
 </feed>
