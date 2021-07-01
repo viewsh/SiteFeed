@@ -6,13 +6,27 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=33895",
+          "author": "Alvin A.",
+          "description": "Top Links Add Toast notifications to your React Native for Windows application (Alexander Sklar) Bring cloud experiences to data workloads anywhere with Azure SQL enabled by Azure Arc (Rohan Kumar) New Release: Fiddler Everywhere 2.0 Is Here! (Simona Yaneva) Introducing GitHub Copilot: your AI pair programmer (Nat Friedman) Web & Cloud Development Boost ASP.NET Core […]",
+          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/2mci3LtHFHM/",
+          "publishedOn": "2021-06-30T11:51:17.000Z",
+          "wordCount": 1014,
+          "title": "Dew Drop – June 30, 2021 (#3474)"
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=33893",
           "author": "Alvin A.",
           "description": "Top Links Announcing the first Insider Preview for Windows 11 and Update on Windows 11 minimum system requirements (Brandon LeBlanc) Contribute to Windows Package Manager (Sarah Lean) Announcing PowerToys Awake To Caffeinate Your Windows PC (Den Delimarsky) Windows lifecycle and servicing update (John Cable) Solitaire in Blazor Part 4 – Drag and Drop (Matthew Jones) […]",
           "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/X-xte3eWkYI/",
           "publishedOn": "2021-06-29T11:48:54.000Z",
-          "wordCount": 1035,
-          "title": "Dew Drop – June 29, 2021 (#3473)"
+          "wordCount": 1041,
+          "title": "Dew Drop – June 29, 2021 (#3473)",
+          "enclosure": {
+            "url": "https://traffic.libsyn.com/secure/syntax/Syntax365.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
         },
         {
           "id": "https://www.alvinashcraft.com/?p=33891",
@@ -123,20 +137,6 @@
           "publishedOn": "2021-06-11T11:09:40.000Z",
           "wordCount": 1175,
           "title": "Dew Drop – June 11, 2021 (#3463)"
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=33869",
-          "author": "Alvin A.",
-          "description": "Top Links Bringing Visio to Microsoft 365: Diagramming for everyone (Seth Patton) Azure static web apps CLI, building apps locally (Chris Noring) .NET Rocks! – Event Sourcing with Jeremy Miller (Carl Franklin & Richard Campbell) Build more accessible Angular apps (Emma Twersky) Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6 (Dave […]",
-          "link": "http://feedproxy.google.com/~r/alvinashcraft/~3/r-aEOzY0h6A/",
-          "publishedOn": "2021-06-10T10:54:07.000Z",
-          "wordCount": 1106,
-          "title": "Dew Drop – June 10, 2021 (#3462)",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1499743/8675468-8-bits-with-cecil-phillip.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -146,12 +146,21 @@
       "siteUrl": "http://blog.cwa.me.uk",
       "articles": [
         {
+          "id": "http://blog.cwa.me.uk/?p=7552",
+          "author": "Chris Alcock",
+          "description": "Software New Release: Fiddler Everywhere 2.0 Is Here! – Simona Yaneva Let’s make Visual Studio even more accessible together. – Dante Gagne Information Conditional compilation for ignoring method calls with the ConditionalAttribute – Andrew Lock Will deep understanding still be valuable? – Eric Sink What’s New for C# Nullable Reference Types in ReSharper and Rider […]",
+          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/QOcjKJ4U7J0/",
+          "publishedOn": "2021-06-30T06:00:00.000Z",
+          "wordCount": 618,
+          "title": "The Morning Brew #3263"
+        },
+        {
           "id": "http://blog.cwa.me.uk/?p=7550",
           "author": "Chris Alcock",
           "description": "Information ICYMI C# 9 New Features: Reducing Code with Target-typed New Expressions – Jason Roberts Sign-in using multiple clients or tenants in ASP.NET Core and Azure AD – Damien Bowden Cost of exceptions – Gunnar Peipman Functional monads in C# – Camilo Reyes Solitaire in Blazor Part 4 – Drag and Drop – Matthew Jones […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/TmVukTJFKS4/",
           "publishedOn": "2021-06-29T06:00:00.000Z",
-          "wordCount": 640,
+          "wordCount": 645,
           "title": "The Morning Brew #3262"
         },
         {
@@ -169,7 +178,7 @@
           "description": "Information Introducing Windows 11 – Panos Panay What Windows 11 Means for Developers – Kevin Gallo Developing for Android on Windows – Guy Merin .NET Framework June 2021 Cumulative Update Preview – Tara Overfield Microsoft’s Windows 11 launch event: Here’s what we know – Mary Jo Foley Blazor, TypeScript and Static Web Apps – Aaron […]",
           "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/44wwi9QJZaw/",
           "publishedOn": "2021-06-25T06:00:00.000Z",
-          "wordCount": 601,
+          "wordCount": 594,
           "title": "The Morning Brew #3260"
         },
         {
@@ -180,15 +189,6 @@
           "publishedOn": "2021-06-24T06:00:00.000Z",
           "wordCount": 646,
           "title": "The Morning Brew #3259"
-        },
-        {
-          "id": "http://blog.cwa.me.uk/?p=7542",
-          "author": "Chris Alcock",
-          "description": "Information Package Validation – Anirudh Agnihotry ML.NET June Updates – Bri Achtman Blazor on WPF – Sam Basu Debug & Analyze Dump Files in Visual Studio – Mark Downie RDCMan v2.8, AccessChk v6.14, Process Monitor v3.83, Strings v2.54, Sysmon v13.22 and TCPView v4.13 – Alex Mihaiuc The State of WebAssembly 2021 – Colin Eberhardt 5 […]",
-          "link": "http://feedproxy.google.com/~r/ReflectivePerspective/~3/t11v3Nt9fak/",
-          "publishedOn": "2021-06-23T06:00:00.000Z",
-          "wordCount": 611,
-          "title": "The Morning Brew #3258"
         }
       ]
     },
@@ -197,6 +197,15 @@
       "feedUrl": "https://feeds.telerik.com/blogs",
       "siteUrl": "https://www.telerik.com/",
       "articles": [
+        {
+          "id": "https://www.telerik.com/blogs/why-is-continuous-integration-important-testing",
+          "author": null,
+          "description": "More organizations these days are establishing test automation practices. However, some teams don’t run them as frequently as they should. Continuous integration will help run them regularly. Here are some reasons why you may want to consider implementing a CI pipeline in your project.",
+          "link": "https://www.telerik.com/blogs/why-is-continuous-integration-important-testing",
+          "publishedOn": "2021-06-30T11:56:04.000Z",
+          "wordCount": 2918,
+          "title": "Why Is Continuous Integration Important For Testing?"
+        },
         {
           "id": "https://www.telerik.com/blogs/new-release-fiddler-everywhere-2.0",
           "author": null,
@@ -322,15 +331,6 @@
           "publishedOn": "2021-06-18T14:57:51.000Z",
           "wordCount": 1472,
           "title": "The New Wave of MAUI Controls by Telerik"
-        },
-        {
-          "id": "https://www.telerik.com/blogs/editing-creating-appointments-telerik-scheduler-blazor",
-          "author": null,
-          "description": "The Telerik Scheduler provides all the hooks you need to manage what happens when the user creates, edits or deletes a scheduled event. Or you can take the easy way out and do nothing at all if you’re happy with the Scheduler’s default UI.",
-          "link": "https://www.telerik.com/blogs/editing-creating-appointments-telerik-scheduler-blazor",
-          "publishedOn": "2021-06-18T13:18:03.000Z",
-          "wordCount": 2297,
-          "title": "Editing and Creating Appointments in Telerik Scheduler for Blazor"
         }
       ]
     },
@@ -339,6 +339,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343224",
+          "author": "Chris Coyier",
+          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
+          "publishedOn": "2021-06-30T20:36:52.000Z",
+          "wordCount": 645,
+          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343064",
+          "author": "Travis Almand",
+          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
+          "publishedOn": "2021-06-30T14:45:42.000Z",
+          "wordCount": 4397,
+          "title": "When a Click is Not Just a Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343182",
+          "author": "Chris Coyier",
+          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
+          "publishedOn": "2021-06-30T14:44:54.000Z",
+          "wordCount": 725,
+          "title": "Fixing a Bug in Low-Resolution Mode"
+        },
         {
           "id": "https://css-tricks.com/?p=343470",
           "author": "Chris Coyier",
@@ -363,7 +390,7 @@
           "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
           "publishedOn": "2021-06-29T14:37:21.000Z",
-          "wordCount": 747,
+          "wordCount": 773,
           "title": ":nth-child Between Two Fixed Indexes"
         },
         {
@@ -440,7 +467,7 @@
           "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/",
           "publishedOn": "2021-06-23T21:37:14.000Z",
-          "wordCount": 1540,
+          "wordCount": 1632,
           "title": "TablesNG — Improvements to table rendering in Chromium"
         },
         {
@@ -451,38 +478,6 @@
           "publishedOn": "2021-06-23T19:10:54.000Z",
           "wordCount": 1275,
           "title": "Using Performant Next-Gen Images in CSS with image-set"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342669",
-          "author": "Chris Coyier",
-          "description": "PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …\nThe post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/weak-declaration/",
-          "publishedOn": "2021-06-23T14:27:14.000Z",
-          "wordCount": 760,
-          "title": "“Weak declaration”",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2021/06/CleanShot-2021-06-16-at-07.31.32.mp4",
-            "length": "4189357",
-            "type": "video/mp4"
-          }
-        },
-        {
-          "id": "https://css-tricks.com/?p=342930",
-          "author": "Chris Coyier",
-          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
-          "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 799,
-          "title": "inherit, initial, unset, revert"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342634",
-          "author": "Geoff Rich",
-          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
-          "publishedOn": "2021-06-22T14:37:50.000Z",
-          "wordCount": 3090,
-          "title": "Using Custom Elements in Svelte"
         }
       ]
     },
@@ -492,12 +487,40 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "author": "hello@smashingmagazine.com (Surma)",
+          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
+          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "publishedOn": "2021-06-30T12:00:00.000Z",
+          "wordCount": 4731,
+          "title": "The State Of Web Workers In 2021",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "publishedOn": "2021-06-30T09:30:00.000Z",
+          "wordCount": 3599,
+          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
+          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
           "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
           "publishedOn": "2021-06-29T11:00:00.000Z",
-          "wordCount": 2454,
+          "wordCount": 2453,
           "title": "Breaking Down Bulky Builds With Netlify And Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
@@ -525,7 +548,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2515,
+          "wordCount": 2524,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -553,7 +576,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3482,
+          "wordCount": 3525,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -623,7 +646,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5355,
+          "wordCount": 5366,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -637,7 +660,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3412,
+          "wordCount": 3373,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -651,7 +674,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3963,
+          "wordCount": 3958,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -679,7 +702,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4100,
+          "wordCount": 4107,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -735,7 +758,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1739,
+          "wordCount": 1702,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -749,7 +772,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5151,
+          "wordCount": 5157,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -777,7 +800,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2781,
+          "wordCount": 2780,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -805,7 +828,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2432,
+          "wordCount": 2444,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -819,7 +842,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4413,
+          "wordCount": 4422,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -833,7 +856,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3721,
+          "wordCount": 3718,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -847,7 +870,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4584,
+          "wordCount": 4586,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -861,7 +884,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5658,
+          "wordCount": 5659,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -882,20 +905,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
-          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
-          "publishedOn": "2021-06-01T09:00:00.000Z",
-          "wordCount": 1513,
-          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -904,6 +913,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6063b8d69618b008528a9d79",
+          "author": null,
+          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
+          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
+          "publishedOn": "2021-06-30T18:49:49.000Z",
+          "wordCount": 956,
+          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
+        },
+        {
+          "id": "6055c55b687d62084bf68804",
+          "author": null,
+          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
+          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
+          "publishedOn": "2021-06-30T14:25:53.000Z",
+          "wordCount": 12270,
+          "title": "What is The C Programming Language? A Tutorial for Beginners"
+        },
+        {
+          "id": "60d5ea736e1a1407b6b0bc8d",
+          "author": null,
+          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
+          "link": "https://www.freecodecamp.org/news/learn-react-router/",
+          "publishedOn": "2021-06-30T14:01:01.000Z",
+          "wordCount": 5542,
+          "title": "Learn React Router"
+        },
         {
           "id": "60db519527f80207bcdbb6fa",
           "author": null,
@@ -966,33 +1002,6 @@
           "publishedOn": "2021-06-28T20:04:28.000Z",
           "wordCount": 2258,
           "title": "What is an IDE in Programming? An IDE Definition for Developers"
-        },
-        {
-          "id": "60d675ac6e1a1407b6b0bea1",
-          "author": null,
-          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
-          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
-          "publishedOn": "2021-06-28T18:45:21.000Z",
-          "wordCount": 740,
-          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
-        },
-        {
-          "id": "60d4d3d86e1a1407b6b0bb25",
-          "author": null,
-          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
-          "publishedOn": "2021-06-28T13:50:35.000Z",
-          "wordCount": 67249,
-          "title": "Learn How to Create a Design System in Figma"
-        },
-        {
-          "id": "60d4ea756e1a1407b6b0bb71",
-          "author": null,
-          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
-          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
-          "publishedOn": "2021-06-28T13:44:39.000Z",
-          "wordCount": 806,
-          "title": "Why You Should Learn Data Analytics"
         }
       ]
     }
